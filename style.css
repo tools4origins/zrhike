@@ -1,0 +1,103 @@
+html{ height:100%; }
+body{ height:100%; text-align:center; margin: 0; padding: 0 }
+
+#wrap {
+    position:relative;
+    background:-webkit-radial-gradient(#25292b, #120c14);
+    background: radial-gradient(#25292b, #120c14);
+    max-width: 100%;
+    min-height: 100%;
+    margin: 0;
+    padding: 20px
+}
+
+#tableContainer {
+    max-width: 1200px;
+    min-height: 100%;
+    margin: auto;
+}
+
+.dataTables_wrapper .dataTables_length, .dataTables_wrapper .dataTables_filter, .dataTables_wrapper .dataTables_info, .dataTables_wrapper .dataTables_processing, .dataTables_wrapper .dataTables_paginate {
+    color: #bbb;
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button {
+    color: #bbb !important;
+}
+
+.dataTables_wrapper .dataTables_paginate .paginate_button.disabled, .dataTables_wrapper .dataTables_paginate .paginate_button.disabled:hover, .dataTables_wrapper .dataTables_paginate .paginate_button.disabled:active {
+    color: #bbb !important;
+}
+
+#wrap table.dataTable {
+    color: #eee
+}
+
+
+#wrap table.dataTable tbody tr, #wrap table.dataTable tbody tr td {
+    background-color: rgba(24, 27, 36, 0.5) !important;
+}
+#wrap table.dataTable tbody tr:hover, table.dataTable tbody tr:hover td {
+    background-color: rgba(43, 49, 64, 0.5) !important;
+}
+
+
+table.dataTable tbody tr {
+    background-color: #181b24;
+}
+
+a{
+    color:#5596bf;
+}
+a:hover{
+    cursor:pointer;
+    color:#FFB400;
+}
+
+#mapid {
+    height: 580px;
+    margin: 30px auto;
+    max-width: 1000px;
+}
+
+#filters {
+    color: #cccccc;
+}
+
+input.checkbox {
+    display: none;
+}
+
+#easy-rando, #medium-rando, #sportive-rando, #hard-rando {
+    cursor: pointer;
+}
+
+#easy-rando {
+    filter: sepia(40%) saturate(3) hue-rotate(71deg);
+}
+
+#medium-rando {
+    filter: sepia(90%) saturate(3) hue-rotate(15deg);
+}
+
+#sportive-rando {
+    filter: sepia(40%) saturate(3) hue-rotate(-22deg)
+}
+
+#hard-rando {
+    filter: sepia(40%) saturate(7) hue-rotate(-36deg)
+}
+
+#filters input[type='checkbox']:not(:checked) ~ label img {
+    filter: grayscale(100%);
+}
+
+#filters span img {
+    height: 35px;
+    margin-top: 15px;
+}
+
+#minDisplay, #maxDisplay {
+    display: inline-block;
+    width: 35px;
+}

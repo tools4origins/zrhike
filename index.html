@@ -1,0 +1,280 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Swiss Hikes</title>
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.18/css/jquery.dataTables.min.css"/>
+    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/fixedheader/3.1.4/css/fixedHeader.dataTables.min.css"/>
+
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="favicon.png">
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.4.0/dist/leaflet.css"
+          integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
+          crossorigin=""/>
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/1.10.18/js/jquery.dataTables.min.js"></script>
+    <script type="text/javascript" src="https://cdn.datatables.net/fixedheader/3.1.4/js/dataTables.fixedHeader.min.js"></script>
+    <script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js"
+            integrity="sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg=="
+            crossorigin=""></script>
+</head>
+<body>
+<div id="wrap">
+    <div id="filters">
+        <label>Min. duration: <input id="min" type="range" min="0" max="9" value="0"/> <span
+                id="minDisplay">0h</span></label><br/>
+        <label>Max. duration: <input id="max" type="range" min="0" max="9" value="9"/> <span
+                id="maxDisplay">-</span></label><br/>
+        <label>Min. dist. from ZRH: <input id="zrhDistMin" type="range" min="0" max="20" value="0"/> <span
+                id="zrhDistMinDisplay">0km</span></label><br/>
+        <label>Max. dist. from ZRH: <input id="zrhDistMax" type="range" min="0" max="20" value="20"/> <span
+                id="zrhDistMaxDisplay">-</span></label><br/>
+        <span>
+            <input type="checkbox" id="roundtrip" class="checkbox-roundtrip">
+            <label for="roundtrip">Round-trip</label>
+        </span><br>
+        <span>
+            <input type="checkbox" id="easy" class="checkbox" checked>
+            <label for="easy"><img id="easy-rando" src="favicon.png" alt="easy"/></label>
+        </span>
+
+        <span>
+            <input type="checkbox" id="medium" class="checkbox" checked>
+            <label for="medium"><img id="medium-rando" src="favicon.png" alt="medium"/></label>
+        </span>
+
+        <span>
+            <input type="checkbox" id="sportive" class="checkbox" checked>
+            <label for="sportive"><img id=sportive-rando src="favicon.png" alt="sportive"/></label>
+        </span>
+
+        <span>
+            <input type="checkbox" id="hard" class="checkbox" checked>
+            <label for="hard"><img id="hard-rando" src="favicon.png" alt="hard"/></label>
+        </span>
+    </div>
+    <div id="tableContainer">
+        <table id="randos" class="display">
+            <thead>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+    </div>
+    <div id="mapid"></div>
+</div>
+<script>
+    const columns = [
+        {
+            "id": "name",
+            "title": "Name",
+            render: function (value, _, context) {
+                return "<a href='" + context[1] + "'>" + value + "</a>"
+            }
+        }, {
+            "id": "link",
+            "title": "Link",
+            visible: false,
+        }, {
+            "id": "latitude",
+            "title": "Lat",
+            visible: false,
+        }, {
+            "id": "longitude",
+            "title": "Lon",
+            visible: false,
+        }, {
+            "id": "duration",
+            "title": "Duration",
+            render: {
+                _: function (val) {
+                    return val.replace("aller-retour", "AR")
+                },
+                sort: function (val) {
+                    return (
+                        val.indexOf("day")>=0 ? 999 : ""
+                    ) + (
+                        val.split(" hour")[0].length == 1 ? "0" : ""
+                    ) + val
+                }
+            }
+        }, {
+            "id": "difficulty",
+            "title": "Difficulty",
+            render: {
+                sort: function (val) {
+                    let difficulties = ["Easy", "Medium", "Sportive", "Hard"];
+                    if (difficulties.indexOf(val) == -1) {
+                        console.warn(val)
+                    }
+                    return difficulties.indexOf(val)
+                }
+            }
+        }, {
+            "id": "up",
+            "title": "↗",
+            "render": $.fn.dataTable.render.number(' ', ',', 0, '', ' meters')
+        }, {
+            "id": "down",
+            "title": "↘",
+            "render": $.fn.dataTable.render.number(' ', ',', 0, '', ' meters')
+        },
+    ];
+    $(document).ready(function () {
+        let map = L.map('mapid').setView([46.8241656,8.3192107], 7.5);
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {})
+            .addTo(map);
+        window.markers = {};
+ 
+        let distance_between_locations = function(l0, l1) {
+            // Great circle distance
+            // :param l0: the LatLng tuple of the first location
+            // :param l1: the LatLng tuple of the second location
+            // :returns:  the distance in kilometers
+            l0_lat = l0[0] / 180 * Math.PI
+            l0_lng = l0[1] / 180 * Math.PI
+            l1_lat = l1[0] / 180 * Math.PI
+            l1_lng = l1[1] / 180 * Math.PI
+
+            // Haversine formula (6371 is Earth radius)
+            return (
+                2
+                * 6371.0
+                * Math.asin(
+                    Math.sqrt(
+                        Math.sin(0.5 * (l0_lat - l1_lat)) ** 2
+                        + Math.sin(0.5 * (l0_lng - l1_lng)) ** 2 * Math.cos(l0_lat) * Math.cos(l1_lat)
+                    )
+                )
+            )
+        }
+        let distance_to_zrh = function(lat, lng) { return distance_between_locations(zrh_location, [lat, lng])}
+        let zrh_location = [47.3778615, 8.5381286];
+
+        fetch("randos.json").then(r => r.json()).then(data_as_json => {
+            const data = Object.values(data_as_json).map(row => columns.map(col => row[col["id"]]));
+            window.data_as_json = data_as_json;
+            window.table = $('#randos').DataTable({
+                data: data,
+                columns: columns,
+                "lengthMenu": [[5, 10, 25, 50, -1], [5, 10, 25, 50, "All"]],
+                "pageLength": 10,
+            });
+            Object.values(data_as_json).forEach(rando => {
+                // Change slightly the coordinate in order to reduce the number of collisions
+                markers[rando.link] = L.marker([
+                    parseFloat(rando.latitude),
+                    parseFloat(rando.longitude) + (rando.name.length-30)/2000
+                ])
+                    .addTo(map)
+                    .bindPopup('<h5>' + rando.name + '</h5><a href="' + rando.link + '">' + rando.duration + '</a>')
+            });
+            table.on('draw', function () {
+                let selected_names = Object.values(table.rows({filter: 'applied'}).data()).map(line => line[1]);
+                Object.entries(markers).forEach(([name, marker]) => {
+                    if (selected_names.indexOf(name) >= 0) {
+                        marker.addTo(map)
+                    } else {
+                        marker.remove()
+                    }
+                });
+            });
+            table.on('click', 'tr', function () {
+                let row = table.row(this).data();
+                if (row !== undefined) {
+                    markers[row[1]].openPopup();
+                }
+            });
+
+            $('#filters input').on("input", function () {
+                table.draw();
+            });
+        });
+        watch = (f) => ((oSettings, aData, iDataIndex) => {
+            let result = f(oSettings, aData, iDataIndex);
+            if (result===false) {
+                console.log({result, f, oSettings, aData, iDataIndex});
+            }
+            return result
+        });
+        durationFilter = function (oSettings, aData, iDataIndex) {
+            let iColumn = 4;
+            let iMin = document.getElementById('min').value * 1;
+            let iMax = document.getElementById('max').value * 1;
+            document.getElementById('minDisplay').innerText = iMin == 9 ? '-' : iMin + 'h';
+            document.getElementById('maxDisplay').innerText = iMax == 9 ? '-' : iMax + 'h';
+
+            if (aData[iColumn].indexOf("jour") >= 0) {
+                if (iMax !== "" && iMax < 9) {
+                    return false
+                } else {
+                    return true
+                }
+            }
+
+            let durationInfo = aData[iColumn].split("hour");
+            let iVersion = parseInt(durationInfo[0].replace(/[^0-9]/g, ""));
+
+            if (iMin === "" && iMax === "") {
+                return true;
+            } else if (iMin === "" && iVersion <= iMax) {
+                return true;
+            } else if (iMin <= iVersion && "" === iMax) {
+                return true;
+            } else if (iMin <= iVersion && iVersion <= iMax) {
+                return true;
+            }
+
+            return false;
+        }
+        // durationFilter = watch(durationFilter);
+        jQuery.fn.dataTableExt.afnFiltering.push(durationFilter);
+
+        distanceFilter = function (oSettings, aData, iDataIndex) {
+            let latitude = aData[2] * 1;
+            let longitude = aData[3] * 1;
+            let distMin = document.getElementById('zrhDistMin').value * 10;
+            let distMax = document.getElementById('zrhDistMax').value * 10;
+            document.getElementById('zrhDistMinDisplay').innerText = distMin + 'km';
+            document.getElementById('zrhDistMaxDisplay').innerText = distMax == 200 ? '-' : distMax + 'km';
+            let distance = distance_to_zrh(latitude, longitude);
+            // console.log({distance})
+            return distMin<= distance && (distance < distMax || distMax == 200);
+        }
+        // distanceFilter = watch(distanceFilter);
+        jQuery.fn.dataTableExt.afnFiltering.push(distanceFilter);
+
+        difficultyFilter = function (oSettings, aData, iDataIndex) {
+            let iColumn = 5;
+
+            let difficulty = aData[iColumn];
+
+            if (difficulty === "Easy" && !document.querySelector("#easy").checked) {
+                return false;
+            } else if (difficulty === "Medium" && !document.querySelector("#medium").checked) {
+                return false;
+            } else if (difficulty === "Sportive" && !document.querySelector("#sportive").checked) {
+                return false;
+            } else if (difficulty === "Hard" && !document.querySelector("#hard").checked) {
+                return false;
+            }
+
+            return true;
+        }
+        // difficultyFilter = watch(difficultyFilter);
+        jQuery.fn.dataTableExt.afnFiltering.push(difficultyFilter);
+
+
+        roundtripFilter = function (oSettings, aData, iDataIndex) {
+            let up = aData[6];
+            let down = aData[7];
+            return up.replace("+", "-") == down || !document.querySelector("#roundtrip").checked;
+        }
+        // roundtripFilter = watch(roundtripFilter);
+        jQuery.fn.dataTableExt.afnFiltering.push(roundtripFilter);
+
+    });
+
+</script>
+</body>
+</html>
