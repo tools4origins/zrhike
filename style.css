@@ -88,7 +88,11 @@ input.checkbox {
     filter: sepia(40%) saturate(7) hue-rotate(-36deg)
 }
 
-#filters input[type='checkbox']:not(:checked) ~ label img {
+#access-choice label{
+    cursor: pointer
+}
+
+#filters input[type='checkbox']:not(:checked) ~ label {
     filter: grayscale(100%);
 }
 
@@ -100,4 +104,16 @@ input.checkbox {
 #minDisplay, #maxDisplay {
     display: inline-block;
     width: 35px;
+}
+
+#difficulty-choice {
+  vertical-align: middle;
+  display: inline-block;
+  line-height: 36px;
+}
+
+#access-choice {
+  vertical-align: middle;
+  display: inline-block;
+  font-size: 30px;
 }

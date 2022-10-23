@@ -8,7 +8,11 @@
     "link": "https://wandersite.ch/2tageswanderung/300_Entlebuch.html",
     "longitude": "7.904935499628907",
     "down": "-750",
-    "up": "+840"
+    "up": "+840",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/404%20Ostschweiz.html": {
     "duration": "5 hours 0",
@@ -19,7 +23,11 @@
     "link": "https://wandersite.ch/Tageswanderung/404%20Ostschweiz.html",
     "longitude": "8.933028451894312",
     "down": "-700",
-    "up": "+730"
+    "up": "+730",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/417%20Ostschweiz.html": {
     "duration": "3 hours 50",
@@ -30,7 +38,11 @@
     "link": "https://wandersite.ch/Tageswanderung/417%20Ostschweiz.html",
     "longitude": "8.884639495357058",
     "down": "-230",
-    "up": "+270"
+    "up": "+270",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/418%20Zuercher%20Oberland.html": {
     "duration": "2 hours 30",
@@ -41,7 +53,11 @@
     "link": "https://wandersite.ch/Tageswanderung/418%20Zuercher%20Oberland.html",
     "longitude": "8.933441895439355",
     "down": "-460",
-    "up": "+320"
+    "up": "+320",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/422%20Zuercher%20Oberland.html": {
     "duration": "4 hours 50",
@@ -52,7 +68,11 @@
     "link": "https://wandersite.ch/Tageswanderung/422%20Zuercher%20Oberland.html",
     "longitude": "8.942192668770852",
     "down": "-890",
-    "up": "+680"
+    "up": "+680",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/435_Schaffhausen.html": {
     "duration": "3 hours 40",
@@ -63,7 +83,10 @@
     "link": "https://wandersite.ch/Tageswanderung/435_Schaffhausen.html",
     "longitude": "8.632940292293995",
     "down": "-170",
-    "up": "+160"
+    "up": "+160",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/437_Ostschweiz.html": {
     "duration": "3 hours 20",
@@ -74,7 +97,11 @@
     "link": "https://wandersite.ch/Tageswanderung/437_Ostschweiz.html",
     "longitude": "9.022801484824733",
     "down": "-350",
-    "up": "+770"
+    "up": "+770",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/440_Zuercher%20Oberland.html": {
     "duration": "3 hours 50",
@@ -85,7 +112,11 @@
     "link": "https://wandersite.ch/Tageswanderung/440_Zuercher%20Oberland.html",
     "longitude": "8.866859861676105",
     "down": "-490",
-    "up": "+460"
+    "up": "+460",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/441_Zuercher%20Oberland.html": {
     "duration": "2 hours 30",
@@ -96,7 +127,11 @@
     "link": "https://wandersite.ch/Tageswanderung/441_Zuercher%20Oberland.html",
     "longitude": "8.845967850628961",
     "down": "-430",
-    "up": "+210"
+    "up": "+210",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/442_Zuercher%20Oberland.html": {
     "duration": "4 hours 20",
@@ -107,7 +142,10 @@
     "link": "https://wandersite.ch/Tageswanderung/442_Zuercher%20Oberland.html",
     "longitude": "8.843085699261115",
     "down": "-470",
-    "up": "+410"
+    "up": "+410",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/495_Urnerboden.html": {
     "duration": "3 hours 20",
@@ -118,7 +156,12 @@
     "link": "https://wandersite.ch/Tageswanderung/495_Urnerboden.html",
     "longitude": "8.854827336075711",
     "down": "-400",
-    "up": "+460"
+    "up": "+460",
+    "access": [
+      "AerialLift",
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/500_Graubuenden.html": {
     "duration": "4 hours 40",
@@ -129,7 +172,11 @@
     "link": "https://wandersite.ch/Tageswanderung/500_Graubuenden.html",
     "longitude": "10.066698439197122",
     "down": "-730",
-    "up": "+470"
+    "up": "+470",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/501_Graubuenden.html": {
     "duration": "6 hours 40",
@@ -140,7 +187,11 @@
     "link": "https://wandersite.ch/Tageswanderung/501_Graubuenden.html",
     "longitude": "10.077183801530738",
     "down": "-840",
-    "up": "+1105"
+    "up": "+1105",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/502_Graubuenden.html": {
     "duration": "4 hours 10",
@@ -151,7 +202,11 @@
     "link": "https://wandersite.ch/Tageswanderung/502_Graubuenden.html",
     "longitude": "9.35034226422738",
     "down": "-670",
-    "up": "+670"
+    "up": "+670",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/503_Graubuenden.html": {
     "duration": "4 hours 10",
@@ -162,7 +217,11 @@
     "link": "https://wandersite.ch/Tageswanderung/503_Graubuenden.html",
     "longitude": "9.67959853550434",
     "down": "-800",
-    "up": "+410"
+    "up": "+410",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/509_Graubuenden.html": {
     "duration": "2 hours 10",
@@ -173,7 +232,11 @@
     "link": "https://wandersite.ch/Tageswanderung/509_Graubuenden.html",
     "longitude": "9.847886987620846",
     "down": "-260",
-    "up": "+200"
+    "up": "+200",
+    "access": [
+      "AerialLift",
+      "Train"
+    ]
   },
   "Tageswanderung/510_Graubuenden.html": {
     "duration": "4 hours 0",
@@ -184,7 +247,10 @@
     "link": "https://wandersite.ch/Tageswanderung/510_Graubuenden.html",
     "longitude": "9.82365984791173",
     "down": "-1130",
-    "up": "+230"
+    "up": "+230",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/511_Graubuenden.html": {
     "duration": "4 hours 0",
@@ -195,7 +261,12 @@
     "link": "https://wandersite.ch/Tageswanderung/511_Graubuenden.html",
     "longitude": "9.515891674670854",
     "down": "-340",
-    "up": "+710"
+    "up": "+710",
+    "access": [
+      "AerialLift",
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/512_Graubuenden.html": {
     "duration": "4 hours 0",
@@ -206,7 +277,11 @@
     "link": "https://wandersite.ch/Tageswanderung/512_Graubuenden.html",
     "longitude": "9.41250804322487",
     "down": "-500",
-    "up": "+480"
+    "up": "+480",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/514%20Glarus.html": {
     "duration": "6 hours 15",
@@ -217,7 +292,12 @@
     "link": "https://wandersite.ch/Tageswanderung/514%20Glarus.html",
     "longitude": "9.17292958058652",
     "down": "-900",
-    "up": "+1250"
+    "up": "+1250",
+    "access": [
+      "AerialLift",
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/514a_graubuenden.html": {
     "duration": "4 hours 0",
@@ -228,7 +308,12 @@
     "link": "https://wandersite.ch/Tageswanderung/514a_graubuenden.html",
     "longitude": "9.267931482019984",
     "down": "-360",
-    "up": "+790"
+    "up": "+790",
+    "access": [
+      "AerialLift",
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/515_Graubuenden.html": {
     "duration": "4 hours 10",
@@ -239,7 +324,11 @@
     "link": "https://wandersite.ch/Tageswanderung/515_Graubuenden.html",
     "longitude": "9.528316659372152",
     "down": "-620",
-    "up": "+580"
+    "up": "+580",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/516_Graubuenden.html": {
     "duration": "3 hours 0",
@@ -250,7 +339,11 @@
     "link": "https://wandersite.ch/Tageswanderung/516_Graubuenden.html",
     "longitude": "9.55882811153883",
     "down": "-500",
-    "up": "+460"
+    "up": "+460",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/517_Graubuenden.html": {
     "duration": "5 hours 0",
@@ -261,7 +354,11 @@
     "link": "https://wandersite.ch/Tageswanderung/517_Graubuenden.html",
     "longitude": "9.850443212449767",
     "down": "-1300",
-    "up": "+250"
+    "up": "+250",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/518_Graubuenden.html": {
     "duration": "5 hours 50",
@@ -272,7 +369,12 @@
     "link": "https://wandersite.ch/Tageswanderung/518_Graubuenden.html",
     "longitude": "9.158668782010617",
     "down": "-800",
-    "up": "+600"
+    "up": "+600",
+    "access": [
+      "Bus",
+      "Car",
+      "Train"
+    ]
   },
   "Tageswanderung/519_Graubuenden.html": {
     "duration": "3 hours 15",
@@ -283,7 +385,10 @@
     "link": "https://wandersite.ch/Tageswanderung/519_Graubuenden.html",
     "longitude": "9.682446754832553",
     "down": "-150",
-    "up": "+410"
+    "up": "+410",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/519a_Graubuenden.html": {
     "duration": "3 hours 45",
@@ -294,7 +399,10 @@
     "link": "https://wandersite.ch/Tageswanderung/519a_Graubuenden.html",
     "longitude": "9.715834740974477",
     "down": "-620",
-    "up": "+500"
+    "up": "+500",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/520_Graubuenden.html": {
     "duration": "5 hours 10",
@@ -305,7 +413,11 @@
     "link": "https://wandersite.ch/Tageswanderung/520_Graubuenden.html",
     "longitude": "9.707729924047888",
     "down": "-1040",
-    "up": "+820"
+    "up": "+820",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/523_Graubuenden.html": {
     "duration": "4 hours 40",
@@ -316,7 +428,11 @@
     "link": "https://wandersite.ch/Tageswanderung/523_Graubuenden.html",
     "longitude": "9.27542983652258",
     "down": "-370",
-    "up": "+770"
+    "up": "+770",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/524_Graubuenden.html": {
     "duration": "2 hours 30",
@@ -327,7 +443,11 @@
     "link": "https://wandersite.ch/Tageswanderung/524_Graubuenden.html",
     "longitude": "9.419451061879649",
     "down": "-180",
-    "up": "+330"
+    "up": "+330",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/525_graubuenden.html": {
     "duration": "6 hours 25",
@@ -338,7 +458,11 @@
     "link": "https://wandersite.ch/Tageswanderung/525_graubuenden.html",
     "longitude": "10.292304877357733",
     "down": "-1310",
-    "up": "+530"
+    "up": "+530",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/526_Graubuenden.html": {
     "duration": "4 hours 30",
@@ -349,7 +473,12 @@
     "link": "https://wandersite.ch/Tageswanderung/526_Graubuenden.html",
     "longitude": "9.2150459213277",
     "down": "-900",
-    "up": "+530"
+    "up": "+530",
+    "access": [
+      "AerialLift",
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/528_Graubuenden.html": {
     "duration": "4 hours 10",
@@ -360,7 +489,11 @@
     "link": "https://wandersite.ch/Tageswanderung/528_Graubuenden.html",
     "longitude": "10.18156862899125",
     "down": "-260",
-    "up": "+510"
+    "up": "+510",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/529_Graubuenden.html": {
     "duration": "3 hours 10",
@@ -371,7 +504,11 @@
     "link": "https://wandersite.ch/Tageswanderung/529_Graubuenden.html",
     "longitude": "9.825396641353425",
     "down": "-830",
-    "up": "+260"
+    "up": "+260",
+    "access": [
+      "AerialLift",
+      "Train"
+    ]
   },
   "Tageswanderung/530_Graubuenden.html": {
     "duration": "4 hours 30",
@@ -382,7 +519,12 @@
     "link": "https://wandersite.ch/Tageswanderung/530_Graubuenden.html",
     "longitude": "9.826083655796566",
     "down": "-840",
-    "up": "+390"
+    "up": "+390",
+    "access": [
+      "AerialLift",
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/531_Graubuenden.html": {
     "duration": "4 hours 50",
@@ -393,7 +535,12 @@
     "link": "https://wandersite.ch/Tageswanderung/531_Graubuenden.html",
     "longitude": "9.86435430924972",
     "down": "-1080",
-    "up": "+640"
+    "up": "+640",
+    "access": [
+      "AerialLift",
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/531a_Graubuenden.html": {
     "duration": "4 hours 0",
@@ -404,7 +551,11 @@
     "link": "https://wandersite.ch/Tageswanderung/531a_Graubuenden.html",
     "longitude": "9.86401930118753",
     "down": "-570",
-    "up": "+570"
+    "up": "+570",
+    "access": [
+      "AerialLift",
+      "Train"
+    ]
   },
   "Tageswanderung/532_Graubuenden.html": {
     "duration": "3 hours 50",
@@ -415,7 +566,10 @@
     "link": "https://wandersite.ch/Tageswanderung/532_Graubuenden.html",
     "longitude": "9.716190748553213",
     "down": "-450",
-    "up": "+140"
+    "up": "+140",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/533_Graubuenden.html": {
     "duration": "3 hours 50",
@@ -426,7 +580,11 @@
     "link": "https://wandersite.ch/Tageswanderung/533_Graubuenden.html",
     "longitude": "9.542369759842687",
     "down": "-650",
-    "up": "+770"
+    "up": "+770",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/533a_Graubuenden.html": {
     "duration": "4 hours 30",
@@ -437,7 +595,11 @@
     "link": "https://wandersite.ch/Tageswanderung/533a_Graubuenden.html",
     "longitude": "9.513263546902333",
     "down": "-735",
-    "up": "+735"
+    "up": "+735",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/534_Graubuenden.html": {
     "duration": "2 hours 20",
@@ -448,7 +610,11 @@
     "link": "https://wandersite.ch/Tageswanderung/534_Graubuenden.html",
     "longitude": "9.526130990936698",
     "down": "-610",
-    "up": "+150"
+    "up": "+150",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/535_Graubuenden.html": {
     "duration": "3 hours 0",
@@ -459,7 +625,12 @@
     "link": "https://wandersite.ch/Tageswanderung/535_Graubuenden.html",
     "longitude": "9.588706959941586",
     "down": "-630",
-    "up": "+630"
+    "up": "+630",
+    "access": [
+      "AerialLift",
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/535a_Graubuenden.html": {
     "duration": "3 hours 0",
@@ -470,7 +641,11 @@
     "link": "https://wandersite.ch/Tageswanderung/535a_Graubuenden.html",
     "longitude": "9.63909885527114",
     "down": "-770",
-    "up": "+380"
+    "up": "+380",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/536_Graubuenden.html": {
     "duration": "5 hours 35",
@@ -481,7 +656,10 @@
     "link": "https://wandersite.ch/Tageswanderung/536_Graubuenden.html",
     "longitude": "8.670837504379568",
     "down": "-1170",
-    "up": "+570"
+    "up": "+570",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/537_Graubuenden.html": {
     "duration": "4 hours 20",
@@ -492,7 +670,11 @@
     "link": "https://wandersite.ch/Tageswanderung/537_Graubuenden.html",
     "longitude": "9.678602470645348",
     "down": "-980",
-    "up": "+650"
+    "up": "+650",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/538_Graubuenden.html": {
     "duration": "3 hours 15",
@@ -503,7 +685,10 @@
     "link": "https://wandersite.ch/Tageswanderung/538_Graubuenden.html",
     "longitude": "9.991875225578331",
     "down": "-290",
-    "up": "+440"
+    "up": "+440",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/539_Graubuenden.html": {
     "duration": "2 hours 20",
@@ -514,7 +699,12 @@
     "link": "https://wandersite.ch/Tageswanderung/539_Graubuenden.html",
     "longitude": "9.902368638043244",
     "down": "-290",
-    "up": "+160"
+    "up": "+160",
+    "access": [
+      "AerialLift",
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/540_Graubuenden.html": {
     "duration": "5 hours 0",
@@ -525,7 +715,10 @@
     "link": "https://wandersite.ch/Tageswanderung/540_Graubuenden.html",
     "longitude": "10.198795577459768",
     "down": "-600",
-    "up": "+460"
+    "up": "+460",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/541_Graubuenden.html": {
     "duration": "4 hours 10",
@@ -536,7 +729,11 @@
     "link": "https://wandersite.ch/Tageswanderung/541_Graubuenden.html",
     "longitude": "9.606728434911096",
     "down": "-100",
-    "up": "+860"
+    "up": "+860",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/542_Graubuenden.html": {
     "duration": "3 hours 30",
@@ -547,7 +744,11 @@
     "link": "https://wandersite.ch/Tageswanderung/542_Graubuenden.html",
     "longitude": "9.351454481139594",
     "down": "-570",
-    "up": "+140"
+    "up": "+140",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/543_Graubuenden.html": {
     "duration": "4 hours 30",
@@ -558,7 +759,10 @@
     "link": "https://wandersite.ch/Tageswanderung/543_Graubuenden.html",
     "longitude": "8.859923391239628",
     "down": "-530",
-    "up": "+130"
+    "up": "+130",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/544_Graubuenden.html": {
     "duration": "4 hours 50",
@@ -569,7 +773,11 @@
     "link": "https://wandersite.ch/Tageswanderung/544_Graubuenden.html",
     "longitude": "8.99476852208132",
     "down": "-670",
-    "up": "+700"
+    "up": "+700",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/545_Graubuenden.html": {
     "duration": "2 hours 10",
@@ -580,7 +788,11 @@
     "link": "https://wandersite.ch/Tageswanderung/545_Graubuenden.html",
     "longitude": "9.449146052085398",
     "down": "-190",
-    "up": "+100"
+    "up": "+100",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/546_Graubuenden.html": {
     "duration": "4 hours 15",
@@ -591,7 +803,11 @@
     "link": "https://wandersite.ch/Tageswanderung/546_Graubuenden.html",
     "longitude": "9.405781868027866",
     "down": "-460",
-    "up": "+740"
+    "up": "+740",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/547_Luzern.html": {
     "duration": "4 hours 45",
@@ -602,7 +818,12 @@
     "link": "https://wandersite.ch/Tageswanderung/547_Luzern.html",
     "longitude": "8.541917005330815",
     "down": "-680",
-    "up": "+660"
+    "up": "+660",
+    "access": [
+      "Boat",
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/547a_Luzern.html": {
     "duration": "2 hours 20",
@@ -613,7 +834,12 @@
     "link": "https://wandersite.ch/Tageswanderung/547a_Luzern.html",
     "longitude": "8.542367673418338",
     "down": "-220",
-    "up": "+220"
+    "up": "+220",
+    "access": [
+      "Boat",
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/547b_Luzern.html": {
     "duration": "3 hours 30",
@@ -624,7 +850,12 @@
     "link": "https://wandersite.ch/Tageswanderung/547b_Luzern.html",
     "longitude": "8.482961956573002",
     "down": "-680",
-    "up": "+680"
+    "up": "+680",
+    "access": [
+      "Boat",
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/549_Luzern.html": {
     "duration": "3 hours 15",
@@ -635,7 +866,13 @@
     "link": "https://wandersite.ch/Tageswanderung/549_Luzern.html",
     "longitude": "8.433671039190578",
     "down": "-0",
-    "up": "+1010"
+    "up": "+1010",
+    "access": [
+      "AerialLift",
+      "Boat",
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/550_Schwyz.html": {
     "duration": "2 hours 0",
@@ -646,7 +883,11 @@
     "link": "https://wandersite.ch/Tageswanderung/550_Schwyz.html",
     "longitude": "8.522634532603268",
     "down": "-250",
-    "up": "+50"
+    "up": "+50",
+    "access": [
+      "AerialLift",
+      "Train"
+    ]
   },
   "Tageswanderung/551_Luzern.html": {
     "duration": "5 hours 10",
@@ -657,7 +898,13 @@
     "link": "https://wandersite.ch/Tageswanderung/551_Luzern.html",
     "longitude": "8.537788896037377",
     "down": "-380",
-    "up": "+650"
+    "up": "+650",
+    "access": [
+      "AerialLift",
+      "Boat",
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/552_Schwyz.html": {
     "duration": "4 hours 55",
@@ -668,7 +915,12 @@
     "link": "https://wandersite.ch/Tageswanderung/552_Schwyz.html",
     "longitude": "8.534960276535365",
     "down": "-150",
-    "up": "+1230"
+    "up": "+1230",
+    "access": [
+      "AerialLift",
+      "Boat",
+      "Train"
+    ]
   },
   "Tageswanderung/553_Obwalden.html": {
     "duration": "6 hours 40",
@@ -679,7 +931,12 @@
     "link": "https://wandersite.ch/Tageswanderung/553_Obwalden.html",
     "longitude": "8.268466191783443",
     "down": "-1540",
-    "up": "+640"
+    "up": "+640",
+    "access": [
+      "AerialLift",
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/554_Zentralschweiz.html": {
     "duration": "6 hours 0",
@@ -690,7 +947,12 @@
     "link": "https://wandersite.ch/Tageswanderung/554_Zentralschweiz.html",
     "longitude": "8.709026012728724",
     "down": "-450",
-    "up": "+1450"
+    "up": "+1450",
+    "access": [
+      "AerialLift",
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/554b_Zentralschweiz.html": {
     "duration": "3 hours 40",
@@ -701,7 +963,12 @@
     "link": "https://wandersite.ch/Tageswanderung/554b_Zentralschweiz.html",
     "longitude": "8.759924922181963",
     "down": "-400",
-    "up": "+510"
+    "up": "+510",
+    "access": [
+      "AerialLift",
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/555_Uri.html": {
     "duration": "4 hours 20",
@@ -712,7 +979,12 @@
     "link": "https://wandersite.ch/Tageswanderung/555_Uri.html",
     "longitude": "8.642256610229209",
     "down": "-790",
-    "up": "+790"
+    "up": "+790",
+    "access": [
+      "AerialLift",
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/556_Schwyz.html": {
     "duration": "4 hours 20",
@@ -723,7 +995,12 @@
     "link": "https://wandersite.ch/Tageswanderung/556_Schwyz.html",
     "longitude": "8.634448977057437",
     "down": "-710",
-    "up": "+620"
+    "up": "+620",
+    "access": [
+      "AerialLift",
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/557_Zentralschweiz.html": {
     "duration": "3 hours 50",
@@ -734,7 +1011,11 @@
     "link": "https://wandersite.ch/Tageswanderung/557_Zentralschweiz.html",
     "longitude": "8.505994095957055",
     "down": "-520",
-    "up": "+590"
+    "up": "+590",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/558_Uri.html": {
     "duration": "2 hours 45",
@@ -745,7 +1026,12 @@
     "link": "https://wandersite.ch/Tageswanderung/558_Uri.html",
     "longitude": "8.64428227751984",
     "down": "-280",
-    "up": "+460"
+    "up": "+460",
+    "access": [
+      "AerialLift",
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/558a_Uri.html": {
     "duration": "3 hours 20",
@@ -756,7 +1042,12 @@
     "link": "https://wandersite.ch/Tageswanderung/558a_Uri.html",
     "longitude": "8.644136757839762",
     "down": "-640",
-    "up": "+180"
+    "up": "+180",
+    "access": [
+      "AerialLift",
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/559_Uri.html": {
     "duration": "6 hours 0",
@@ -767,7 +1058,11 @@
     "link": "https://wandersite.ch/Tageswanderung/559_Uri.html",
     "longitude": "8.645036803007631",
     "down": "-1260",
-    "up": "+820"
+    "up": "+820",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/560_Nidwalden.html": {
     "duration": "3 hours 15",
@@ -778,7 +1073,13 @@
     "link": "https://wandersite.ch/Tageswanderung/560_Nidwalden.html",
     "longitude": "8.396003888909046",
     "down": "-220",
-    "up": "+660"
+    "up": "+660",
+    "access": [
+      "AerialLift",
+      "Boat",
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/560a_Nidwalden.html": {
     "duration": "3 hours 40",
@@ -789,7 +1090,11 @@
     "link": "https://wandersite.ch/Tageswanderung/560a_Nidwalden.html",
     "longitude": "8.427226864436724",
     "down": "-650",
-    "up": "+650"
+    "up": "+650",
+    "access": [
+      "AerialLift",
+      "Train"
+    ]
   },
   "Tageswanderung/561_Uri.html": {
     "duration": "4 hours 0",
@@ -800,7 +1105,11 @@
     "link": "https://wandersite.ch/Tageswanderung/561_Uri.html",
     "longitude": "8.623985214110615",
     "down": "-670",
-    "up": "+680"
+    "up": "+680",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/561a_Uri.html": {
     "duration": "3 hours 30",
@@ -811,7 +1120,12 @@
     "link": "https://wandersite.ch/Tageswanderung/561a_Uri.html",
     "longitude": "8.681675163887286",
     "down": "-870",
-    "up": "+450"
+    "up": "+450",
+    "access": [
+      "AerialLift",
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/562_Schwyz.html": {
     "duration": "3 hours 30",
@@ -822,7 +1136,11 @@
     "link": "https://wandersite.ch/Tageswanderung/562_Schwyz.html",
     "longitude": "8.667904546947298",
     "down": "-520",
-    "up": "+400"
+    "up": "+400",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/562a_Schwyz.html": {
     "duration": "3 hours 0",
@@ -833,7 +1151,12 @@
     "link": "https://wandersite.ch/Tageswanderung/562a_Schwyz.html",
     "longitude": "8.675727498493664",
     "down": "-400",
-    "up": "+420"
+    "up": "+420",
+    "access": [
+      "AerialLift",
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/563_Glarus.html": {
     "duration": "6 hours 30",
@@ -844,7 +1167,12 @@
     "link": "https://wandersite.ch/Tageswanderung/563_Glarus.html",
     "longitude": "8.94330262103402",
     "down": "-1150",
-    "up": "+540"
+    "up": "+540",
+    "access": [
+      "AerialLift",
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/564_Uri.html": {
     "duration": "4 hours 0",
@@ -855,7 +1183,11 @@
     "link": "https://wandersite.ch/Tageswanderung/564_Uri.html",
     "longitude": "8.56341052202383",
     "down": "-210",
-    "up": "+880"
+    "up": "+880",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/565_Uri.html": {
     "duration": "3 hours 30",
@@ -866,7 +1198,11 @@
     "link": "https://wandersite.ch/Tageswanderung/565_Uri.html",
     "longitude": "8.499443861542767",
     "down": "-470",
-    "up": "+470"
+    "up": "+470",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/565a_uri.html": {
     "duration": "3 hours 0",
@@ -877,7 +1213,11 @@
     "link": "https://wandersite.ch/Tageswanderung/565a_uri.html",
     "longitude": "8.588322666794197",
     "down": "-560",
-    "up": "+200"
+    "up": "+200",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/565b_uri.html": {
     "duration": "1 hour 50",
@@ -888,7 +1228,10 @@
     "link": "https://wandersite.ch/Tageswanderung/565b_uri.html",
     "longitude": "8.588765666018988",
     "down": "-40",
-    "up": "+370"
+    "up": "+370",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/566_Zug.html": {
     "duration": "2 hours 20",
@@ -899,7 +1242,11 @@
     "link": "https://wandersite.ch/Tageswanderung/566_Zug.html",
     "longitude": "8.524173458210038",
     "down": "-555",
-    "up": "+100"
+    "up": "+100",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/566a_Zug.html": {
     "duration": "2 hours 20",
@@ -910,7 +1257,11 @@
     "link": "https://wandersite.ch/Tageswanderung/566a_Zug.html",
     "longitude": "8.55263776584035",
     "down": "-305",
-    "up": "+305"
+    "up": "+305",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/567_Schwyz.html": {
     "duration": "3 hours 0",
@@ -921,7 +1272,11 @@
     "link": "https://wandersite.ch/Tageswanderung/567_Schwyz.html",
     "longitude": "8.69819391353291",
     "down": "-800",
-    "up": "+500"
+    "up": "+500",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/568_Schwyz.html": {
     "duration": "3 hours 0",
@@ -932,7 +1287,12 @@
     "link": "https://wandersite.ch/Tageswanderung/568_Schwyz.html",
     "longitude": "8.797702074819231",
     "down": "-900",
-    "up": "+300"
+    "up": "+300",
+    "access": [
+      "AerialLift",
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/569_Zentralschweiz.html": {
     "duration": "6 hours 45",
@@ -943,7 +1303,12 @@
     "link": "https://wandersite.ch/Tageswanderung/569_Zentralschweiz.html",
     "longitude": "8.230823554214398",
     "down": "-700",
-    "up": "+1560"
+    "up": "+1560",
+    "access": [
+      "AerialLift",
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/569b_Zentralschweiz.html": {
     "duration": "4 hours 0",
@@ -954,7 +1319,10 @@
     "link": "https://wandersite.ch/Tageswanderung/569b_Zentralschweiz.html",
     "longitude": "8.085816372606663",
     "down": "-650",
-    "up": "+650"
+    "up": "+650",
+    "access": [
+      "Bus"
+    ]
   },
   "Tageswanderung/570_Schwyz.html": {
     "duration": "5 hours 0",
@@ -965,7 +1333,10 @@
     "link": "https://wandersite.ch/Tageswanderung/570_Schwyz.html",
     "longitude": "8.709910459775113",
     "down": "-360",
-    "up": "+490"
+    "up": "+490",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/570a_Schwyz.html": {
     "duration": "1 hour 10",
@@ -976,7 +1347,10 @@
     "link": "https://wandersite.ch/Tageswanderung/570a_Schwyz.html",
     "longitude": "8.81768272879092",
     "down": "-30",
-    "up": "+30"
+    "up": "+30",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/571_Obwalden.html": {
     "duration": "4 hours 0",
@@ -987,7 +1361,12 @@
     "link": "https://wandersite.ch/Tageswanderung/571_Obwalden.html",
     "longitude": "8.420193879481674",
     "down": "-670",
-    "up": "+560"
+    "up": "+560",
+    "access": [
+      "AerialLift",
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/571a_nidwalden.html": {
     "duration": "3 hours 30",
@@ -998,7 +1377,12 @@
     "link": "https://wandersite.ch/Tageswanderung/571a_nidwalden.html",
     "longitude": "8.417334471986353",
     "down": "-350",
-    "up": "+620"
+    "up": "+620",
+    "access": [
+      "AerialLift",
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/572_Uri.html": {
     "duration": "5 hours 30",
@@ -1009,7 +1393,10 @@
     "link": "https://wandersite.ch/Tageswanderung/572_Uri.html",
     "longitude": "8.50346365094073",
     "down": "-900",
-    "up": "+800"
+    "up": "+800",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/573_Uri.html": {
     "duration": "6 hours 0",
@@ -1020,7 +1407,10 @@
     "link": "https://wandersite.ch/Tageswanderung/573_Uri.html",
     "longitude": "8.609068936152493",
     "down": "-720",
-    "up": "+1030"
+    "up": "+1030",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/574_Schwyz.html": {
     "duration": "6 hours 0",
@@ -1031,7 +1421,11 @@
     "link": "https://wandersite.ch/Tageswanderung/574_Schwyz.html",
     "longitude": "8.695715186906675",
     "down": "-820",
-    "up": "+960"
+    "up": "+960",
+    "access": [
+      "AerialLift",
+      "Train"
+    ]
   },
   "Tageswanderung/574a_Schwyz.html": {
     "duration": "4 hours 30",
@@ -1042,7 +1436,11 @@
     "link": "https://wandersite.ch/Tageswanderung/574a_Schwyz.html",
     "longitude": "8.772350735460126",
     "down": "-270",
-    "up": "+160"
+    "up": "+160",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/575_Uri.html": {
     "duration": "3 hours 0",
@@ -1053,7 +1451,12 @@
     "link": "https://wandersite.ch/Tageswanderung/575_Uri.html",
     "longitude": "8.56670954400411",
     "down": "-500",
-    "up": "+500"
+    "up": "+500",
+    "access": [
+      "Boat",
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/576_BernUri.html": {
     "duration": "6 hours 45",
@@ -1064,7 +1467,11 @@
     "link": "https://wandersite.ch/Tageswanderung/576_BernUri.html",
     "longitude": "8.47140611523026",
     "down": "-1020",
-    "up": "+1100"
+    "up": "+1100",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/577_Schwyz.html": {
     "duration": "4 hours 0",
@@ -1075,7 +1482,11 @@
     "link": "https://wandersite.ch/Tageswanderung/577_Schwyz.html",
     "longitude": "8.757247485639668",
     "down": "-210",
-    "up": "+1000"
+    "up": "+1000",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/577a_Schwyz.html": {
     "duration": "6 hours 30",
@@ -1086,7 +1497,11 @@
     "link": "https://wandersite.ch/Tageswanderung/577a_Schwyz.html",
     "longitude": "8.772310765190392",
     "down": "-1150",
-    "up": "+1300"
+    "up": "+1300",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/577b_Schwyz.html": {
     "duration": "1 hour 0",
@@ -1097,7 +1512,12 @@
     "link": "https://wandersite.ch/Tageswanderung/577b_Schwyz.html",
     "longitude": "8.720042877232666",
     "down": "-380",
-    "up": "+10"
+    "up": "+10",
+    "access": [
+      "AerialLift",
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/577d_Schwyz.html": {
     "duration": "3 hours 10",
@@ -1108,7 +1528,11 @@
     "link": "https://wandersite.ch/Tageswanderung/577d_Schwyz.html",
     "longitude": "8.853914128829903",
     "down": "-480",
-    "up": "+480"
+    "up": "+480",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/577e_Schwyz.html": {
     "duration": "5 hours 30",
@@ -1119,7 +1543,10 @@
     "link": "https://wandersite.ch/Tageswanderung/577e_Schwyz.html",
     "longitude": "8.869539909027027",
     "down": "-1070",
-    "up": "+1070"
+    "up": "+1070",
+    "access": [
+      "Car"
+    ]
   },
   "Tageswanderung/578_Schwyz.html": {
     "duration": "5 hours 10",
@@ -1130,7 +1557,10 @@
     "link": "https://wandersite.ch/Tageswanderung/578_Schwyz.html",
     "longitude": "8.555223624644126",
     "down": "-1130",
-    "up": "+770"
+    "up": "+770",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/578a_Schwyz.html": {
     "duration": "1 hour 30",
@@ -1141,7 +1571,11 @@
     "link": "https://wandersite.ch/Tageswanderung/578a_Schwyz.html",
     "longitude": "8.549901635300184",
     "down": "-140",
-    "up": "+90"
+    "up": "+90",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/579_Luzern.html": {
     "duration": "3 hours 20",
@@ -1152,7 +1586,11 @@
     "link": "https://wandersite.ch/Tageswanderung/579_Luzern.html",
     "longitude": "8.399513891309674",
     "down": "-420",
-    "up": "+420"
+    "up": "+420",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/579a_Luzern.html": {
     "duration": "4 hours 45",
@@ -1163,7 +1601,11 @@
     "link": "https://wandersite.ch/Tageswanderung/579a_Luzern.html",
     "longitude": "8.138584127713543",
     "down": "-440",
-    "up": "+560"
+    "up": "+560",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/580_Obwalden.html": {
     "duration": "6 hours 15",
@@ -1174,7 +1616,11 @@
     "link": "https://wandersite.ch/Tageswanderung/580_Obwalden.html",
     "longitude": "8.26915115327596",
     "down": "-1380",
-    "up": "+1130"
+    "up": "+1130",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/580a_obwalden.html": {
     "duration": "3 hours 10",
@@ -1185,7 +1631,11 @@
     "link": "https://wandersite.ch/Tageswanderung/580a_obwalden.html",
     "longitude": "8.237798896427636",
     "down": "-420",
-    "up": "+420"
+    "up": "+420",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/581_Zug.html": {
     "duration": "3 hours 20",
@@ -1196,7 +1646,11 @@
     "link": "https://wandersite.ch/Tageswanderung/581_Zug.html",
     "longitude": "8.567281461680356",
     "down": "-550",
-    "up": "+270"
+    "up": "+270",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/581a_Zug.html": {
     "duration": "3 hours 10",
@@ -1207,7 +1661,10 @@
     "link": "https://wandersite.ch/Tageswanderung/581a_Zug.html",
     "longitude": "8.517030101397706",
     "down": "-270",
-    "up": "+240"
+    "up": "+240",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/582_Uri.html": {
     "duration": "4 hours 30",
@@ -1218,7 +1675,12 @@
     "link": "https://wandersite.ch/Tageswanderung/582_Uri.html",
     "longitude": "8.755930488423072",
     "down": "-720",
-    "up": "+720"
+    "up": "+720",
+    "access": [
+      "AerialLift",
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/582a_Zug_Luzern.html": {
     "duration": "1 hour 50",
@@ -1229,7 +1691,12 @@
     "link": "https://wandersite.ch/Tageswanderung/582a_Zug_Luzern.html",
     "longitude": "8.429885076225759",
     "down": "-160",
-    "up": "+150"
+    "up": "+150",
+    "access": [
+      "Boat",
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/583_Obwalden.html": {
     "duration": "4 hours 10",
@@ -1240,7 +1707,11 @@
     "link": "https://wandersite.ch/Tageswanderung/583_Obwalden.html",
     "longitude": "8.231745141746636",
     "down": "-690",
-    "up": "+430"
+    "up": "+430",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/584_Obwalden.html": {
     "duration": "4 hours 40",
@@ -1251,7 +1722,12 @@
     "link": "https://wandersite.ch/Tageswanderung/584_Obwalden.html",
     "longitude": "8.30249789047031",
     "down": "-120",
-    "up": "+1150"
+    "up": "+1150",
+    "access": [
+      "AerialLift",
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/585_Obwalden.html": {
     "duration": "6 hours 20",
@@ -1262,7 +1738,11 @@
     "link": "https://wandersite.ch/Tageswanderung/585_Obwalden.html",
     "longitude": "8.289766816261377",
     "down": "-1130",
-    "up": "+1250"
+    "up": "+1250",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/585a_Obwalden.html": {
     "duration": "2 hours 50",
@@ -1273,7 +1753,10 @@
     "link": "https://wandersite.ch/Tageswanderung/585a_Obwalden.html",
     "longitude": "8.371877653134783",
     "down": "-50",
-    "up": "+480"
+    "up": "+480",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/586_Obwalden.html": {
     "duration": "4 hours 20",
@@ -1284,7 +1767,11 @@
     "link": "https://wandersite.ch/Tageswanderung/586_Obwalden.html",
     "longitude": "8.269079170233926",
     "down": "-590",
-    "up": "+590"
+    "up": "+590",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/587_Uri.html": {
     "duration": "4 hours 0",
@@ -1295,7 +1782,12 @@
     "link": "https://wandersite.ch/Tageswanderung/587_Uri.html",
     "longitude": "8.621953309380118",
     "down": "-180",
-    "up": "+810"
+    "up": "+810",
+    "access": [
+      "AerialLift",
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/588_Rophaien.html": {
     "duration": "5 hours 0",
@@ -1306,7 +1798,11 @@
     "link": "https://wandersite.ch/Tageswanderung/588_Rophaien.html",
     "longitude": "8.654199511000998",
     "down": "-1070",
-    "up": "+1070"
+    "up": "+1070",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/589_Schwyz.html": {
     "duration": "4 hours 30",
@@ -1317,7 +1813,11 @@
     "link": "https://wandersite.ch/Tageswanderung/589_Schwyz.html",
     "longitude": "8.873646230227797",
     "down": "-640",
-    "up": "+630"
+    "up": "+630",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/590_Schwyz.html": {
     "duration": "4 hours 0",
@@ -1328,7 +1828,10 @@
     "link": "https://wandersite.ch/Tageswanderung/590_Schwyz.html",
     "longitude": "8.846564147645973",
     "down": "-570",
-    "up": "+570"
+    "up": "+570",
+    "access": [
+      "Car"
+    ]
   },
   "Tageswanderung/591_Obwalden.html": {
     "duration": "4 hours 0",
@@ -1339,7 +1842,11 @@
     "link": "https://wandersite.ch/Tageswanderung/591_Obwalden.html",
     "longitude": "8.605362993798945",
     "down": "-350",
-    "up": "+360"
+    "up": "+360",
+    "access": [
+      "Boat",
+      "Train"
+    ]
   },
   "Tageswanderung/592_Schwyz.html": {
     "duration": "3 hours 10",
@@ -1350,7 +1857,12 @@
     "link": "https://wandersite.ch/Tageswanderung/592_Schwyz.html",
     "longitude": "8.771600154134783",
     "down": "-510",
-    "up": "+420"
+    "up": "+420",
+    "access": [
+      "AerialLift",
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/592a_Schwyz.html": {
     "duration": "4 hours 15",
@@ -1361,7 +1873,11 @@
     "link": "https://wandersite.ch/Tageswanderung/592a_Schwyz.html",
     "longitude": "8.782385515199083",
     "down": "-940",
-    "up": "+370"
+    "up": "+370",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/593_Luzern.html": {
     "duration": "3 hours 45",
@@ -1372,7 +1888,10 @@
     "link": "https://wandersite.ch/Tageswanderung/593_Luzern.html",
     "longitude": "8.433823559617638",
     "down": "-280",
-    "up": "+260"
+    "up": "+260",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/594_Uri.html": {
     "duration": "6 hours 0",
@@ -1383,7 +1902,11 @@
     "link": "https://wandersite.ch/Tageswanderung/594_Uri.html",
     "longitude": "8.61548519989228",
     "down": "-1150",
-    "up": "+1150"
+    "up": "+1150",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/595_Uri.html": {
     "duration": "4 hours 20",
@@ -1394,7 +1917,12 @@
     "link": "https://wandersite.ch/Tageswanderung/595_Uri.html",
     "longitude": "8.698532217943526",
     "down": "-590",
-    "up": "+325"
+    "up": "+325",
+    "access": [
+      "AerialLift",
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/596_Nidwalden.html": {
     "duration": "4 hours 0",
@@ -1405,7 +1933,13 @@
     "link": "https://wandersite.ch/Tageswanderung/596_Nidwalden.html",
     "longitude": "8.534920155648358",
     "down": "-660",
-    "up": "+360"
+    "up": "+360",
+    "access": [
+      "AerialLift",
+      "Boat",
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/596a_Nidwalden.html": {
     "duration": "2 hours 10",
@@ -1416,7 +1950,12 @@
     "link": "https://wandersite.ch/Tageswanderung/596a_Nidwalden.html",
     "longitude": "8.505042087616633",
     "down": "-80",
-    "up": "+390"
+    "up": "+390",
+    "access": [
+      "AerialLift",
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/597_Luzern.html": {
     "duration": "4 hours 0",
@@ -1427,7 +1966,10 @@
     "link": "https://wandersite.ch/Tageswanderung/597_Luzern.html",
     "longitude": "7.9166715681521165",
     "down": "-270",
-    "up": "+350"
+    "up": "+350",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/598_Uri.html": {
     "duration": "4 hours 50",
@@ -1438,7 +1980,12 @@
     "link": "https://wandersite.ch/Tageswanderung/598_Uri.html",
     "longitude": "8.755930488423072",
     "down": "-1040",
-    "up": "+480"
+    "up": "+480",
+    "access": [
+      "AerialLift",
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/599_Uri.html": {
     "duration": "2 hours 25",
@@ -1449,7 +1996,10 @@
     "link": "https://wandersite.ch/Tageswanderung/599_Uri.html",
     "longitude": "8.578339424487822",
     "down": "-30",
-    "up": "+130"
+    "up": "+130",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/600%20Oberwallis.html": {
     "duration": "3 hours 20",
@@ -1460,7 +2010,10 @@
     "link": "https://wandersite.ch/Tageswanderung/600%20Oberwallis.html",
     "longitude": "7.765164884697312",
     "down": "-430",
-    "up": "+280"
+    "up": "+280",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/601%20Oberwallis.html": {
     "duration": "2 hours 45",
@@ -1471,7 +2024,12 @@
     "link": "https://wandersite.ch/Tageswanderung/601%20Oberwallis.html",
     "longitude": "7.984041966314999",
     "down": "-360",
-    "up": "+220"
+    "up": "+220",
+    "access": [
+      "AerialLift",
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/602%20Oberwallis.html": {
     "duration": "2 hours 40",
@@ -1482,7 +2040,11 @@
     "link": "https://wandersite.ch/Tageswanderung/602%20Oberwallis.html",
     "longitude": "7.774184453772561",
     "down": "-520",
-    "up": "+310"
+    "up": "+310",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/603%20Oberwallis.html": {
     "duration": "4 hours 0",
@@ -1493,7 +2055,11 @@
     "link": "https://wandersite.ch/Tageswanderung/603%20Oberwallis.html",
     "longitude": "8.044425612775234",
     "down": "-560",
-    "up": "+260"
+    "up": "+260",
+    "access": [
+      "AerialLift",
+      "Train"
+    ]
   },
   "Tageswanderung/604%20Oberwallis.html": {
     "duration": "4 hours 20",
@@ -1504,7 +2070,12 @@
     "link": "https://wandersite.ch/Tageswanderung/604%20Oberwallis.html",
     "longitude": "7.941121029201883",
     "down": "-130",
-    "up": "+1040"
+    "up": "+1040",
+    "access": [
+      "AerialLift",
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/605%20Oberwallis.html": {
     "duration": "3 hours 0",
@@ -1515,7 +2086,10 @@
     "link": "https://wandersite.ch/Tageswanderung/605%20Oberwallis.html",
     "longitude": "7.717228626455423",
     "down": "-240",
-    "up": "+160"
+    "up": "+160",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/606%20Oberwallis.html": {
     "duration": "5 hours 0",
@@ -1526,7 +2100,12 @@
     "link": "https://wandersite.ch/Tageswanderung/606%20Oberwallis.html",
     "longitude": "8.076692910902008",
     "down": "-850",
-    "up": "+420"
+    "up": "+420",
+    "access": [
+      "AerialLift",
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/607%20Unterwallis.html": {
     "duration": "5 hours 0",
@@ -1537,7 +2116,11 @@
     "link": "https://wandersite.ch/Tageswanderung/607%20Unterwallis.html",
     "longitude": "7.495013292407654",
     "down": "-400",
-    "up": "+750"
+    "up": "+750",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/608%20Oberwallis.html": {
     "duration": "4 hours 0",
@@ -1548,7 +2131,11 @@
     "link": "https://wandersite.ch/Tageswanderung/608%20Oberwallis.html",
     "longitude": "7.98780663988936",
     "down": "-150",
-    "up": "+800"
+    "up": "+800",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/609%20Oberwallis.html": {
     "duration": "2 hours 15",
@@ -1559,7 +2146,11 @@
     "link": "https://wandersite.ch/Tageswanderung/609%20Oberwallis.html",
     "longitude": "7.854351932225719",
     "down": "-420",
-    "up": "+120"
+    "up": "+120",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/610%20Unterwallis.html": {
     "duration": "3 hours 40",
@@ -1570,7 +2161,11 @@
     "link": "https://wandersite.ch/Tageswanderung/610%20Unterwallis.html",
     "longitude": "6.856995711719962",
     "down": "-600",
-    "up": "+300"
+    "up": "+300",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/611_Oberwallis.html": {
     "duration": "4 hours 0",
@@ -1581,7 +2176,10 @@
     "link": "https://wandersite.ch/Tageswanderung/611_Oberwallis.html",
     "longitude": "7.748308646472708",
     "down": "-600",
-    "up": "+600"
+    "up": "+600",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/612_Unterwallis.html": {
     "duration": "6 hours 30",
@@ -1592,7 +2190,10 @@
     "link": "https://wandersite.ch/Tageswanderung/612_Unterwallis.html",
     "longitude": "7.082392854421872",
     "down": "-1500",
-    "up": "+1990"
+    "up": "+1990",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/613_Oberwallis.html": {
     "duration": "3 hours 40",
@@ -1603,7 +2204,11 @@
     "link": "https://wandersite.ch/Tageswanderung/613_Oberwallis.html",
     "longitude": "8.017165069453661",
     "down": "-280",
-    "up": "+770"
+    "up": "+770",
+    "access": [
+      "AerialLift",
+      "Train"
+    ]
   },
   "Tageswanderung/614_Oberwallis.html": {
     "duration": "5 hours 15",
@@ -1614,7 +2219,11 @@
     "link": "https://wandersite.ch/Tageswanderung/614_Oberwallis.html",
     "longitude": "8.11662495512773",
     "down": "-360",
-    "up": "+680"
+    "up": "+680",
+    "access": [
+      "AerialLift",
+      "Train"
+    ]
   },
   "Tageswanderung/615%20Oberwallis.html": {
     "duration": "3 hours 30",
@@ -1625,7 +2234,11 @@
     "link": "https://wandersite.ch/Tageswanderung/615%20Oberwallis.html",
     "longitude": "7.947324927965816",
     "down": "-420",
-    "up": "+520"
+    "up": "+520",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/616_Oberwallis.html": {
     "duration": "2 hours 45",
@@ -1636,7 +2249,11 @@
     "link": "https://wandersite.ch/Tageswanderung/616_Oberwallis.html",
     "longitude": "7.832216582247555",
     "down": "-200",
-    "up": "+200"
+    "up": "+200",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/617_Oberwallis.html": {
     "duration": "4 hours 0",
@@ -1647,7 +2264,12 @@
     "link": "https://wandersite.ch/Tageswanderung/617_Oberwallis.html",
     "longitude": "7.811940429566564",
     "down": "-530",
-    "up": "+880"
+    "up": "+880",
+    "access": [
+      "AerialLift",
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/618_Oberwallis.html": {
     "duration": "3 hours 10",
@@ -1658,7 +2280,11 @@
     "link": "https://wandersite.ch/Tageswanderung/618_Oberwallis.html",
     "longitude": "7.842489947343626",
     "down": "-260",
-    "up": "+260"
+    "up": "+260",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/619_oberwallis.html": {
     "duration": "5 hours 0",
@@ -1669,7 +2295,12 @@
     "link": "https://wandersite.ch/Tageswanderung/619_oberwallis.html",
     "longitude": "7.974658914210937",
     "down": "-710",
-    "up": "+880"
+    "up": "+880",
+    "access": [
+      "AerialLift",
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/620_Unterwallis.html": {
     "duration": "6 hours 0",
@@ -1680,7 +2311,11 @@
     "link": "https://wandersite.ch/Tageswanderung/620_Unterwallis.html",
     "longitude": "7.1413434579849",
     "down": "-980",
-    "up": "+980"
+    "up": "+980",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/620a_unterwallis.html": {
     "duration": "5 hours 30",
@@ -1691,7 +2326,11 @@
     "link": "https://wandersite.ch/Tageswanderung/620a_unterwallis.html",
     "longitude": "7.141463461918351",
     "down": "-1400",
-    "up": "+840"
+    "up": "+840",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/622a_Oberwallis.html": {
     "duration": "4 hours 25",
@@ -1702,7 +2341,11 @@
     "link": "https://wandersite.ch/Tageswanderung/622a_Oberwallis.html",
     "longitude": "7.643267848548349",
     "down": "-710",
-    "up": "+720"
+    "up": "+720",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/622b_Oberwallis.html": {
     "duration": "3 hours 40",
@@ -1713,7 +2356,11 @@
     "link": "https://wandersite.ch/Tageswanderung/622b_Oberwallis.html",
     "longitude": "7.63467811079084",
     "down": "-430",
-    "up": "+650"
+    "up": "+650",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/623_Unterwallis.html": {
     "duration": "4 hours 50",
@@ -1724,7 +2371,11 @@
     "link": "https://wandersite.ch/Tageswanderung/623_Unterwallis.html",
     "longitude": "7.35869221392927",
     "down": "-400",
-    "up": "+420"
+    "up": "+420",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/623a_unterwallis.html": {
     "duration": "2 hours 40",
@@ -1735,7 +2386,11 @@
     "link": "https://wandersite.ch/Tageswanderung/623a_unterwallis.html",
     "longitude": "7.190003922614954",
     "down": "-440",
-    "up": "+440"
+    "up": "+440",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/623b_unterwallis.html": {
     "duration": "3 hours 40",
@@ -1746,7 +2401,11 @@
     "link": "https://wandersite.ch/Tageswanderung/623b_unterwallis.html",
     "longitude": "7.086161569895697",
     "down": "-340",
-    "up": "+340"
+    "up": "+340",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/624_Oberwallis.html": {
     "duration": "3 hours 20",
@@ -1757,7 +2416,11 @@
     "link": "https://wandersite.ch/Tageswanderung/624_Oberwallis.html",
     "longitude": "7.9152724152577",
     "down": "-60",
-    "up": "+770"
+    "up": "+770",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/625_Unterwallis.html": {
     "duration": "4 hours 15",
@@ -1768,7 +2431,10 @@
     "link": "https://wandersite.ch/Tageswanderung/625_Unterwallis.html",
     "longitude": "7.031650286822626",
     "down": "-590",
-    "up": "+590"
+    "up": "+590",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/626_Oberwallis.html": {
     "duration": "1 hour 45",
@@ -1779,7 +2445,11 @@
     "link": "https://wandersite.ch/Tageswanderung/626_Oberwallis.html",
     "longitude": "7.835554973409856",
     "down": "-180",
-    "up": "+230"
+    "up": "+230",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/627_Unterwallis.html": {
     "duration": "7 hours 0",
@@ -1790,7 +2460,11 @@
     "link": "https://wandersite.ch/Tageswanderung/627_Unterwallis.html",
     "longitude": "6.856995711719962",
     "down": "-2120",
-    "up": "+1460"
+    "up": "+1460",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/628_Oberwallis.html": {
     "duration": "4 hours 10",
@@ -1801,7 +2475,10 @@
     "link": "https://wandersite.ch/Tageswanderung/628_Oberwallis.html",
     "longitude": "7.76076407456484",
     "down": "-930",
-    "up": "+320"
+    "up": "+320",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/629_Oberwallis.html": {
     "duration": "1 hour 40",
@@ -1812,7 +2489,10 @@
     "link": "https://wandersite.ch/Tageswanderung/629_Oberwallis.html",
     "longitude": "7.826385139045086",
     "down": "-20",
-    "up": "+310"
+    "up": "+310",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/630_Oberwallis.html": {
     "duration": "3 hours 15",
@@ -1823,7 +2503,11 @@
     "link": "https://wandersite.ch/Tageswanderung/630_Oberwallis.html",
     "longitude": "7.945001525927216",
     "down": "-370",
-    "up": "+370"
+    "up": "+370",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/631_Oberwallis.html": {
     "duration": "6 hours 20",
@@ -1834,7 +2518,11 @@
     "link": "https://wandersite.ch/Tageswanderung/631_Oberwallis.html",
     "longitude": "8.143003120183659",
     "down": "-470",
-    "up": "+1570"
+    "up": "+1570",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/632_Oberwallis.html": {
     "duration": "5 hours 30",
@@ -1845,7 +2533,12 @@
     "link": "https://wandersite.ch/Tageswanderung/632_Oberwallis.html",
     "longitude": "7.903881895050595",
     "down": "-780",
-    "up": "+450"
+    "up": "+450",
+    "access": [
+      "AerialLift",
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/633_Wallis.html": {
     "duration": "8 hours 40",
@@ -1856,7 +2549,11 @@
     "link": "https://wandersite.ch/Tageswanderung/633_Wallis.html",
     "longitude": "6.848331426554899",
     "down": "-1170",
-    "up": "+1810"
+    "up": "+1810",
+    "access": [
+      "Boat",
+      "Train"
+    ]
   },
   "Tageswanderung/634_Oberwallis.html": {
     "duration": "3 hours 15",
@@ -1867,7 +2564,10 @@
     "link": "https://wandersite.ch/Tageswanderung/634_Oberwallis.html",
     "longitude": "7.908609333760597",
     "down": "-550",
-    "up": "+430"
+    "up": "+430",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/635_Oberwallis.html": {
     "duration": "3 hours 30",
@@ -1878,7 +2578,11 @@
     "link": "https://wandersite.ch/Tageswanderung/635_Oberwallis.html",
     "longitude": "7.9860917889982925",
     "down": "-80",
-    "up": "+730"
+    "up": "+730",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/636_Oberwallis.html": {
     "duration": "3 hours 15",
@@ -1889,7 +2593,11 @@
     "link": "https://wandersite.ch/Tageswanderung/636_Oberwallis.html",
     "longitude": "8.162910931390215",
     "down": "-760",
-    "up": "+280"
+    "up": "+280",
+    "access": [
+      "AerialLift",
+      "Train"
+    ]
   },
   "Tageswanderung/637_Oberwallis.html": {
     "duration": "4 hours 30",
@@ -1900,7 +2608,11 @@
     "link": "https://wandersite.ch/Tageswanderung/637_Oberwallis.html",
     "longitude": "7.831565203317504",
     "down": "-550",
-    "up": "+550"
+    "up": "+550",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/651%20Zuerich.html": {
     "duration": "4 hours 0",
@@ -1911,7 +2623,11 @@
     "link": "https://wandersite.ch/Tageswanderung/651%20Zuerich.html",
     "longitude": "8.45899811757663",
     "down": "-400",
-    "up": "+500"
+    "up": "+500",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/652%20Zuerich.html": {
     "duration": "3 hours 20",
@@ -1922,7 +2638,10 @@
     "link": "https://wandersite.ch/Tageswanderung/652%20Zuerich.html",
     "longitude": "8.521143240114567",
     "down": "-440",
-    "up": "+260"
+    "up": "+260",
+    "access": [
+      "Bus"
+    ]
   },
   "Tageswanderung/653%20Zuerich%20Zug.html": {
     "duration": "2 hours 15",
@@ -1933,7 +2652,11 @@
     "link": "https://wandersite.ch/Tageswanderung/653%20Zuerich%20Zug.html",
     "longitude": "8.566334332188456",
     "down": "-220",
-    "up": "+330"
+    "up": "+330",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/653a_Zuerichsee.html": {
     "duration": "2 hours 30",
@@ -1944,7 +2667,10 @@
     "link": "https://wandersite.ch/Tageswanderung/653a_Zuerichsee.html",
     "longitude": "8.597140398679974",
     "down": "-70",
-    "up": "+70"
+    "up": "+70",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/653b_Zuerich.html": {
     "duration": "2 hours 30",
@@ -1955,7 +2681,10 @@
     "link": "https://wandersite.ch/Tageswanderung/653b_Zuerich.html",
     "longitude": "8.538826921736911",
     "down": "-35",
-    "up": "+80"
+    "up": "+80",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/654%20Zuerich.html": {
     "duration": "3 hours 30",
@@ -1966,7 +2695,11 @@
     "link": "https://wandersite.ch/Tageswanderung/654%20Zuerich.html",
     "longitude": "8.581618237572904",
     "down": "-280",
-    "up": "+460"
+    "up": "+460",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/655%20Zuerich.html": {
     "duration": "2 hours 45",
@@ -1977,7 +2710,11 @@
     "link": "https://wandersite.ch/Tageswanderung/655%20Zuerich.html",
     "longitude": "8.477244604613862",
     "down": "-330",
-    "up": "+240"
+    "up": "+240",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/656%20Zuerich.html": {
     "duration": "4 hours 0",
@@ -1988,7 +2725,11 @@
     "link": "https://wandersite.ch/Tageswanderung/656%20Zuerich.html",
     "longitude": "8.583016748754467",
     "down": "-290",
-    "up": "+490"
+    "up": "+490",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/657%20Zuerichsee.html": {
     "duration": "4 hours 30",
@@ -1999,7 +2740,10 @@
     "link": "https://wandersite.ch/Tageswanderung/657%20Zuerichsee.html",
     "longitude": "8.94066962923356",
     "down": "-330",
-    "up": "+330"
+    "up": "+330",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/657a_Ricken.html": {
     "duration": "3 hours 50",
@@ -2010,7 +2754,11 @@
     "link": "https://wandersite.ch/Tageswanderung/657a_Ricken.html",
     "longitude": "9.050202100110534",
     "down": "-700",
-    "up": "+700"
+    "up": "+700",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/658%20Zuerich.html": {
     "duration": "3 hours 40",
@@ -2021,7 +2769,10 @@
     "link": "https://wandersite.ch/Tageswanderung/658%20Zuerich.html",
     "longitude": "8.495271848800325",
     "down": "-240",
-    "up": "+440"
+    "up": "+440",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/658a_Zuerich.html": {
     "duration": "3 hours 0",
@@ -2032,7 +2783,10 @@
     "link": "https://wandersite.ch/Tageswanderung/658a_Zuerich.html",
     "longitude": "8.526469762363053",
     "down": "-430",
-    "up": "+430"
+    "up": "+430",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/659_Zuerich.html": {
     "duration": "1 hour 15",
@@ -2043,7 +2797,10 @@
     "link": "https://wandersite.ch/Tageswanderung/659_Zuerich.html",
     "longitude": "8.577235767504936",
     "down": "-40",
-    "up": "+160"
+    "up": "+160",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/660_Zuerich.html": {
     "duration": "1 hour 40",
@@ -2054,7 +2811,11 @@
     "link": "https://wandersite.ch/Tageswanderung/660_Zuerich.html",
     "longitude": "8.647954739685318",
     "down": "-290",
-    "up": "+30"
+    "up": "+30",
+    "access": [
+      "Boat",
+      "Train"
+    ]
   },
   "Tageswanderung/660a_Zuerich.html": {
     "duration": "3 hours 30",
@@ -2065,7 +2826,11 @@
     "link": "https://wandersite.ch/Tageswanderung/660a_Zuerich.html",
     "longitude": "8.637553174655988",
     "down": "-570",
-    "up": "+310"
+    "up": "+310",
+    "access": [
+      "Boat",
+      "Train"
+    ]
   },
   "Tageswanderung/661%20Zuerich.html": {
     "duration": "1 hour 40",
@@ -2076,7 +2841,11 @@
     "link": "https://wandersite.ch/Tageswanderung/661%20Zuerich.html",
     "longitude": "8.725219595836437",
     "down": "-170",
-    "up": "+150"
+    "up": "+150",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/661a_Zuerich.html": {
     "duration": "4 hours 45",
@@ -2087,7 +2856,11 @@
     "link": "https://wandersite.ch/Tageswanderung/661a_Zuerich.html",
     "longitude": "8.562595921587569",
     "down": "-340",
-    "up": "+350"
+    "up": "+350",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/662%20Zuerich.html": {
     "duration": "2 hours 0",
@@ -2098,7 +2871,11 @@
     "link": "https://wandersite.ch/Tageswanderung/662%20Zuerich.html",
     "longitude": "8.706669236412264",
     "down": "-120",
-    "up": "+120"
+    "up": "+120",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/662a_zuerich.html": {
     "duration": "3 hours 40",
@@ -2109,7 +2886,11 @@
     "link": "https://wandersite.ch/Tageswanderung/662a_zuerich.html",
     "longitude": "8.703443912915764",
     "down": "-230",
-    "up": "+270"
+    "up": "+270",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/663%20Zuercher%20Unterland.html": {
     "duration": "2 hours 50",
@@ -2120,7 +2901,10 @@
     "link": "https://wandersite.ch/Tageswanderung/663%20Zuercher%20Unterland.html",
     "longitude": "8.514911195603311",
     "down": "-200",
-    "up": "+200"
+    "up": "+200",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/663a_weinland.html": {
     "duration": "3 hours 45",
@@ -2131,7 +2915,10 @@
     "link": "https://wandersite.ch/Tageswanderung/663a_weinland.html",
     "longitude": "8.656402092618647",
     "down": "-270",
-    "up": "+250"
+    "up": "+250",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/664%20Zuerichsee.html": {
     "duration": "3 hours 15",
@@ -2142,7 +2929,12 @@
     "link": "https://wandersite.ch/Tageswanderung/664%20Zuerichsee.html",
     "longitude": "8.720967471404101",
     "down": "-350",
-    "up": "+160"
+    "up": "+160",
+    "access": [
+      "Boat",
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/664b_zuerichsee.html": {
     "duration": "1 hour 0",
@@ -2153,7 +2945,11 @@
     "link": "https://wandersite.ch/Tageswanderung/664b_zuerichsee.html",
     "longitude": "8.770234924114222",
     "down": "-60",
-    "up": "+60"
+    "up": "+60",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/665_Zuerichsee.html": {
     "duration": "4 hours 0",
@@ -2164,7 +2960,11 @@
     "link": "https://wandersite.ch/Tageswanderung/665_Zuerichsee.html",
     "longitude": "8.767170646051174",
     "down": "-600",
-    "up": "+700"
+    "up": "+700",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/666_Aargau.html": {
     "duration": "4 hours 30",
@@ -2175,7 +2975,11 @@
     "link": "https://wandersite.ch/Tageswanderung/666_Aargau.html",
     "longitude": "7.998855292752138",
     "down": "-380",
-    "up": "+400"
+    "up": "+400",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/666a_Aargau.html": {
     "duration": "3 hours 30",
@@ -2186,7 +2990,11 @@
     "link": "https://wandersite.ch/Tageswanderung/666a_Aargau.html",
     "longitude": "8.050237137157453",
     "down": "-260",
-    "up": "+210"
+    "up": "+210",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/667_Rhein.html": {
     "duration": "2 hours 50",
@@ -2197,7 +3005,11 @@
     "link": "https://wandersite.ch/Tageswanderung/667_Rhein.html",
     "longitude": "8.521871279772604",
     "down": "-110",
-    "up": "+80"
+    "up": "+80",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/668_Zuerich.html": {
     "duration": "5 hours 50",
@@ -2208,7 +3020,10 @@
     "link": "https://wandersite.ch/Tageswanderung/668_Zuerich.html",
     "longitude": "8.692095515932875",
     "down": "-490",
-    "up": "+510"
+    "up": "+510",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/669_Zuerichsee.html": {
     "duration": "3 hours 30",
@@ -2219,7 +3034,11 @@
     "link": "https://wandersite.ch/Tageswanderung/669_Zuerichsee.html",
     "longitude": "8.681161617975361",
     "down": "-350",
-    "up": "+50"
+    "up": "+50",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/670_Zuerich.html": {
     "duration": "3 hours 50",
@@ -2230,7 +3049,11 @@
     "link": "https://wandersite.ch/Tageswanderung/670_Zuerich.html",
     "longitude": "8.468233095822663",
     "down": "-130",
-    "up": "+260"
+    "up": "+260",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/671_Zuerich.html": {
     "duration": "4 hours 15",
@@ -2241,7 +3064,11 @@
     "link": "https://wandersite.ch/Tageswanderung/671_Zuerich.html",
     "longitude": "8.468233095822663",
     "down": "-320",
-    "up": "+100"
+    "up": "+100",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/672_Zuerich.html": {
     "duration": "5 hours 50",
@@ -2252,7 +3079,10 @@
     "link": "https://wandersite.ch/Tageswanderung/672_Zuerich.html",
     "longitude": "8.468233095822663",
     "down": "-230",
-    "up": "+320"
+    "up": "+320",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/673_Aargau.html": {
     "duration": "4 hours 15",
@@ -2263,7 +3093,11 @@
     "link": "https://wandersite.ch/Tageswanderung/673_Aargau.html",
     "longitude": "8.366955168279887",
     "down": "-300",
-    "up": "+300"
+    "up": "+300",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/674_Sihltal.html": {
     "duration": "3 hours 0",
@@ -2274,7 +3108,11 @@
     "link": "https://wandersite.ch/Tageswanderung/674_Sihltal.html",
     "longitude": "8.576849043905776",
     "down": "-150",
-    "up": "+320"
+    "up": "+320",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/675a_Aargau.html": {
     "duration": "5 hours 40",
@@ -2285,7 +3123,10 @@
     "link": "https://wandersite.ch/Tageswanderung/675a_Aargau.html",
     "longitude": "8.381671296520413",
     "down": "-10",
-    "up": "+40"
+    "up": "+40",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/675b_Aargau.html": {
     "duration": "3 hours 20",
@@ -2296,7 +3137,10 @@
     "link": "https://wandersite.ch/Tageswanderung/675b_Aargau.html",
     "longitude": "8.266687127045302",
     "down": "-200",
-    "up": "+250"
+    "up": "+250",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/676_Aargau.html": {
     "duration": "3 hours 45",
@@ -2307,7 +3151,10 @@
     "link": "https://wandersite.ch/Tageswanderung/676_Aargau.html",
     "longitude": "8.367270621144892",
     "down": "-490",
-    "up": "+320"
+    "up": "+320",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/677_Zuerich.html": {
     "duration": "3 hours 30",
@@ -2318,7 +3165,12 @@
     "link": "https://wandersite.ch/Tageswanderung/677_Zuerich.html",
     "longitude": "8.583371751745256",
     "down": "-380",
-    "up": "+270"
+    "up": "+270",
+    "access": [
+      "Boat",
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/677a_Zuerich.html": {
     "duration": "2 hours 30",
@@ -2329,7 +3181,10 @@
     "link": "https://wandersite.ch/Tageswanderung/677a_Zuerich.html",
     "longitude": "8.591573230891047",
     "down": "-160",
-    "up": "+400"
+    "up": "+400",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/679_Zuerich.html": {
     "duration": "2 hours 20",
@@ -2340,7 +3195,11 @@
     "link": "https://wandersite.ch/Tageswanderung/679_Zuerich.html",
     "longitude": "8.389159344387876",
     "down": "-150",
-    "up": "+160"
+    "up": "+160",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/680_Aargau.html": {
     "duration": "2 hours 30",
@@ -2351,7 +3210,10 @@
     "link": "https://wandersite.ch/Tageswanderung/680_Aargau.html",
     "longitude": "8.012998190869933",
     "down": "-220",
-    "up": "+260"
+    "up": "+260",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/681_Aargau.html": {
     "duration": "2 hours 30",
@@ -2362,7 +3224,11 @@
     "link": "https://wandersite.ch/Tageswanderung/681_Aargau.html",
     "longitude": "8.012998190869933",
     "down": "-225",
-    "up": "+180"
+    "up": "+180",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/682_Aargau.html": {
     "duration": "3 hours 40",
@@ -2373,7 +3239,11 @@
     "link": "https://wandersite.ch/Tageswanderung/682_Aargau.html",
     "longitude": "8.012998190869933",
     "down": "-80",
-    "up": "+120"
+    "up": "+120",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/684_Aargau.html": {
     "duration": "4 hours 40",
@@ -2384,7 +3254,10 @@
     "link": "https://wandersite.ch/Tageswanderung/684_Aargau.html",
     "longitude": "8.163137933202508",
     "down": "-360",
-    "up": "+360"
+    "up": "+360",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/684a_Aargau.html": {
     "duration": "3 hours 10",
@@ -2395,7 +3268,11 @@
     "link": "https://wandersite.ch/Tageswanderung/684a_Aargau.html",
     "longitude": "8.216928332501277",
     "down": "-330",
-    "up": "+280"
+    "up": "+280",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/685_Weinland.html": {
     "duration": "2 hours 50",
@@ -2406,7 +3283,11 @@
     "link": "https://wandersite.ch/Tageswanderung/685_Weinland.html",
     "longitude": "8.605423514157703",
     "down": "-150",
-    "up": "+130"
+    "up": "+130",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/686_Zuerich.html": {
     "duration": "3 hours 10",
@@ -2417,7 +3298,11 @@
     "link": "https://wandersite.ch/Tageswanderung/686_Zuerich.html",
     "longitude": "8.69890512480453",
     "down": "-90",
-    "up": "+250"
+    "up": "+250",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/686a_zuerich.html": {
     "duration": "2 hours 30",
@@ -2428,7 +3313,10 @@
     "link": "https://wandersite.ch/Tageswanderung/686a_zuerich.html",
     "longitude": "8.722940022219015",
     "down": "-200",
-    "up": "+150"
+    "up": "+150",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/687_Aargau.html": {
     "duration": "2 hours 0",
@@ -2439,7 +3327,10 @@
     "link": "https://wandersite.ch/Tageswanderung/687_Aargau.html",
     "longitude": "8.300636043291732",
     "down": "-180",
-    "up": "+140"
+    "up": "+140",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/687a_Aargau.html": {
     "duration": "4 hours 20",
@@ -2450,7 +3341,10 @@
     "link": "https://wandersite.ch/Tageswanderung/687a_Aargau.html",
     "longitude": "8.339888909114462",
     "down": "-290",
-    "up": "+260"
+    "up": "+260",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/688_Aargau.html": {
     "duration": "2 hours 50",
@@ -2461,7 +3355,11 @@
     "link": "https://wandersite.ch/Tageswanderung/688_Aargau.html",
     "longitude": "8.372233602594694",
     "down": "-0",
-    "up": "+20"
+    "up": "+20",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/688a_Aargau.html": {
     "duration": "3 hours 50",
@@ -2472,7 +3370,11 @@
     "link": "https://wandersite.ch/Tageswanderung/688a_Aargau.html",
     "longitude": "8.396673829704815",
     "down": "-10",
-    "up": "+30"
+    "up": "+30",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/689_Aargau.html": {
     "duration": "5 hours 30",
@@ -2483,7 +3385,11 @@
     "link": "https://wandersite.ch/Tageswanderung/689_Aargau.html",
     "longitude": "8.05037214098713",
     "down": "-660",
-    "up": "+630"
+    "up": "+630",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/689a_Aargau.html": {
     "duration": "3 hours 20",
@@ -2494,7 +3400,11 @@
     "link": "https://wandersite.ch/Tageswanderung/689a_Aargau.html",
     "longitude": "8.051178142955372",
     "down": "-330",
-    "up": "+380"
+    "up": "+380",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/690_Zuerich.html": {
     "duration": "3 hours 10",
@@ -2505,7 +3415,10 @@
     "link": "https://wandersite.ch/Tageswanderung/690_Zuerich.html",
     "longitude": "8.482511799004625",
     "down": "-150",
-    "up": "+150"
+    "up": "+150",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/691_Aargau.html": {
     "duration": "3 hours 0",
@@ -2516,7 +3429,11 @@
     "link": "https://wandersite.ch/Tageswanderung/691_Aargau.html",
     "longitude": "8.227532403709704",
     "down": "-240",
-    "up": "+250"
+    "up": "+250",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/692_Aargau.html": {
     "duration": "3 hours 40",
@@ -2527,7 +3444,11 @@
     "link": "https://wandersite.ch/Tageswanderung/692_Aargau.html",
     "longitude": "8.203753003351686",
     "down": "-400",
-    "up": "+320"
+    "up": "+320",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/692a_aargau.htm": {
     "duration": "4 hours 45",
@@ -2538,7 +3459,10 @@
     "link": "https://wandersite.ch/Tageswanderung/692a_aargau.htm",
     "longitude": "8.114650099278593",
     "down": "-580",
-    "up": "+650"
+    "up": "+650",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/693a_Zuerich.html": {
     "duration": "5 hours 0",
@@ -2549,7 +3473,11 @@
     "link": "https://wandersite.ch/Tageswanderung/693a_Zuerich.html",
     "longitude": "8.705972503868887",
     "down": "-500",
-    "up": "+450"
+    "up": "+450",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/693b_Zuerich.html": {
     "duration": "4 hours 20",
@@ -2560,7 +3488,11 @@
     "link": "https://wandersite.ch/Tageswanderung/693b_Zuerich.html",
     "longitude": "8.680915696318765",
     "down": "-210",
-    "up": "+240"
+    "up": "+240",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/693c_Zuerich.html": {
     "duration": "5 hours 55",
@@ -2571,7 +3503,11 @@
     "link": "https://wandersite.ch/Tageswanderung/693c_Zuerich.html",
     "longitude": "8.738328976230486",
     "down": "-230",
-    "up": "+340"
+    "up": "+340",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/693d_Zuerich.html": {
     "duration": "4 hours 45",
@@ -2582,7 +3518,11 @@
     "link": "https://wandersite.ch/Tageswanderung/693d_Zuerich.html",
     "longitude": "8.811802143598078",
     "down": "-360",
-    "up": "+270"
+    "up": "+270",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/694_Zuerich.html": {
     "duration": "3 hours 40",
@@ -2593,7 +3533,10 @@
     "link": "https://wandersite.ch/Tageswanderung/694_Zuerich.html",
     "longitude": "8.418487952965636",
     "down": "-260",
-    "up": "+340"
+    "up": "+340",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/695_zuerich.html": {
     "duration": "3 hours 0",
@@ -2604,7 +3547,10 @@
     "link": "https://wandersite.ch/Tageswanderung/695_zuerich.html",
     "longitude": "8.677674292520061",
     "down": "-170",
-    "up": "+230"
+    "up": "+230",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/700%20Bern.html": {
     "duration": "2 hours 35",
@@ -2615,7 +3561,12 @@
     "link": "https://wandersite.ch/Tageswanderung/700%20Bern.html",
     "longitude": "7.903494955387283",
     "down": "-0",
-    "up": "+840"
+    "up": "+840",
+    "access": [
+      "AerialLift",
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/701%20Bern.html": {
     "duration": "4 hours 30",
@@ -2626,7 +3577,10 @@
     "link": "https://wandersite.ch/Tageswanderung/701%20Bern.html",
     "longitude": "7.851256531731842",
     "down": "-725",
-    "up": "+650"
+    "up": "+650",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/701a_Bern.html": {
     "duration": "5 hours 30",
@@ -2637,7 +3591,11 @@
     "link": "https://wandersite.ch/Tageswanderung/701a_Bern.html",
     "longitude": "7.785827464446904",
     "down": "-1170",
-    "up": "+1170"
+    "up": "+1170",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/702%20Bern.html": {
     "duration": "3 hours 50",
@@ -2648,7 +3606,10 @@
     "link": "https://wandersite.ch/Tageswanderung/702%20Bern.html",
     "longitude": "7.938992447206716",
     "down": "-790",
-    "up": "+530"
+    "up": "+530",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/702a_Bern.html": {
     "duration": "1 hour 20",
@@ -2659,7 +3620,10 @@
     "link": "https://wandersite.ch/Tageswanderung/702a_Bern.html",
     "longitude": "7.9417263865127605",
     "down": "-240",
-    "up": "+70"
+    "up": "+70",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/703%20Bern.html": {
     "duration": "4 hours 45",
@@ -2670,7 +3634,10 @@
     "link": "https://wandersite.ch/Tageswanderung/703%20Bern.html",
     "longitude": "8.162214545983739",
     "down": "-1420",
-    "up": "+200"
+    "up": "+200",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/704%20Bern.html": {
     "duration": "3 hours 50",
@@ -2681,7 +3648,10 @@
     "link": "https://wandersite.ch/Tageswanderung/704%20Bern.html",
     "longitude": "8.14132324287171",
     "down": "-590",
-    "up": "+590"
+    "up": "+590",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/705%20Bern.html": {
     "duration": "5 hours 30",
@@ -2692,7 +3662,12 @@
     "link": "https://wandersite.ch/Tageswanderung/705%20Bern.html",
     "longitude": "7.483789542519562",
     "down": "-670",
-    "up": "+680"
+    "up": "+680",
+    "access": [
+      "AerialLift",
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/705a_Bern.html": {
     "duration": "1 hour 30",
@@ -2703,7 +3678,11 @@
     "link": "https://wandersite.ch/Tageswanderung/705a_Bern.html",
     "longitude": "7.5341637098578715",
     "down": "-240",
-    "up": "+240"
+    "up": "+240",
+    "access": [
+      "AerialLift",
+      "Train"
+    ]
   },
   "Tageswanderung/706%20Bern.html": {
     "duration": "2 hours 30",
@@ -2714,7 +3693,11 @@
     "link": "https://wandersite.ch/Tageswanderung/706%20Bern.html",
     "longitude": "7.621560192332796",
     "down": "-20",
-    "up": "+330"
+    "up": "+330",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/706a_Bern.html": {
     "duration": "4 hours 30",
@@ -2725,7 +3708,11 @@
     "link": "https://wandersite.ch/Tageswanderung/706a_Bern.html",
     "longitude": "7.740832563684408",
     "down": "-220",
-    "up": "+420"
+    "up": "+420",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/707%20Bern.html": {
     "duration": "7 hours 30",
@@ -2736,7 +3723,11 @@
     "link": "https://wandersite.ch/Tageswanderung/707%20Bern.html",
     "longitude": "7.522298725573745",
     "down": "-1410",
-    "up": "+970"
+    "up": "+970",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/707a_Bern.html": {
     "duration": "4 hours 30",
@@ -2747,7 +3738,11 @@
     "link": "https://wandersite.ch/Tageswanderung/707a_Bern.html",
     "longitude": "7.309836402345724",
     "down": "-1040",
-    "up": "+300"
+    "up": "+300",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/708%20Bern.html": {
     "duration": "7 hours 0",
@@ -2758,7 +3753,11 @@
     "link": "https://wandersite.ch/Tageswanderung/708%20Bern.html",
     "longitude": "7.711685107944425",
     "down": "-990",
-    "up": "+940"
+    "up": "+940",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/708a_Bern.html": {
     "duration": "3 hours 30",
@@ -2769,7 +3768,11 @@
     "link": "https://wandersite.ch/Tageswanderung/708a_Bern.html",
     "longitude": "7.652228744174502",
     "down": "-680",
-    "up": "+280"
+    "up": "+280",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/709%20Bern.html": {
     "duration": "5 hours 50",
@@ -2780,7 +3783,11 @@
     "link": "https://wandersite.ch/Tageswanderung/709%20Bern.html",
     "longitude": "7.760992876943103",
     "down": "-750",
-    "up": "+850"
+    "up": "+850",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/710_b_Bern.html": {
     "duration": "1 hour 30",
@@ -2791,7 +3798,11 @@
     "link": "https://wandersite.ch/Tageswanderung/710_b_Bern.html",
     "longitude": "7.692109202370546",
     "down": "-220",
-    "up": "+170"
+    "up": "+170",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/710_d_Bern.html": {
     "duration": "2 hours 40",
@@ -2802,7 +3813,11 @@
     "link": "https://wandersite.ch/Tageswanderung/710_d_Bern.html",
     "longitude": "7.693698261168105",
     "down": "-310",
-    "up": "+310"
+    "up": "+310",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/710aBern.html": {
     "duration": "3 hours 0",
@@ -2813,7 +3828,11 @@
     "link": "https://wandersite.ch/Tageswanderung/710aBern.html",
     "longitude": "7.644299765732266",
     "down": "-240",
-    "up": "+770"
+    "up": "+770",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/710c_Bern.html": {
     "duration": "4 hours 0",
@@ -2824,7 +3843,11 @@
     "link": "https://wandersite.ch/Tageswanderung/710c_Bern.html",
     "longitude": "7.595447367521343",
     "down": "-140",
-    "up": "+130"
+    "up": "+130",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/711%20Bern.html": {
     "duration": "3 hours 15",
@@ -2835,7 +3858,11 @@
     "link": "https://wandersite.ch/Tageswanderung/711%20Bern.html",
     "longitude": "8.169153320172642",
     "down": "-120",
-    "up": "+720"
+    "up": "+720",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/712%20Bern.html": {
     "duration": "5 hours 20",
@@ -2846,7 +3873,11 @@
     "link": "https://wandersite.ch/Tageswanderung/712%20Bern.html",
     "longitude": "8.027933642165886",
     "down": "-760",
-    "up": "+840"
+    "up": "+840",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/712a_Bern.html": {
     "duration": "4 hours 0",
@@ -2857,7 +3888,11 @@
     "link": "https://wandersite.ch/Tageswanderung/712a_Bern.html",
     "longitude": "7.81777418851002",
     "down": "-0",
-    "up": "+5"
+    "up": "+5",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/712b_bern.html": {
     "duration": "5 hours 20",
@@ -2868,7 +3903,11 @@
     "link": "https://wandersite.ch/Tageswanderung/712b_bern.html",
     "longitude": "7.931196119558631",
     "down": "-890",
-    "up": "+890"
+    "up": "+890",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/712c_Bern.html": {
     "duration": "4 hours 0",
@@ -2879,7 +3918,11 @@
     "link": "https://wandersite.ch/Tageswanderung/712c_Bern.html",
     "longitude": "7.850878404239678",
     "down": "-540",
-    "up": "+540"
+    "up": "+540",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/713%20Bern.html": {
     "duration": "5 hours 0",
@@ -2890,7 +3933,11 @@
     "link": "https://wandersite.ch/Tageswanderung/713%20Bern.html",
     "longitude": "8.053775354621889",
     "down": "-550",
-    "up": "+400"
+    "up": "+400",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/714%20Bern.html": {
     "duration": "4 hours 20",
@@ -2901,7 +3948,11 @@
     "link": "https://wandersite.ch/Tageswanderung/714%20Bern.html",
     "longitude": "7.267564809628024",
     "down": "-580",
-    "up": "+550"
+    "up": "+550",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/714a%20Bern.html": {
     "duration": "4 hours 40",
@@ -2912,7 +3963,10 @@
     "link": "https://wandersite.ch/Tageswanderung/714a%20Bern.html",
     "longitude": "7.205125519993076",
     "down": "-930",
-    "up": "+520"
+    "up": "+520",
+    "access": [
+      "Bus"
+    ]
   },
   "Tageswanderung/715%20Bern.html": {
     "duration": "6 hours 30",
@@ -2923,7 +3977,10 @@
     "link": "https://wandersite.ch/Tageswanderung/715%20Bern.html",
     "longitude": "7.444284663825028",
     "down": "-1150",
-    "up": "+1070"
+    "up": "+1070",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/716%20Luzern.html": {
     "duration": "5 hours 45",
@@ -2934,7 +3991,11 @@
     "link": "https://wandersite.ch/Tageswanderung/716%20Luzern.html",
     "longitude": "8.115649468728371",
     "down": "-840",
-    "up": "+700"
+    "up": "+700",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/717%20Bern.html": {
     "duration": "2 hours 10",
@@ -2945,7 +4006,10 @@
     "link": "https://wandersite.ch/Tageswanderung/717%20Bern.html",
     "longitude": "7.563523949408098",
     "down": "-150",
-    "up": "+250"
+    "up": "+250",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/718_Bern.html": {
     "duration": "3 hours 10",
@@ -2956,7 +4020,10 @@
     "link": "https://wandersite.ch/Tageswanderung/718_Bern.html",
     "longitude": "7.690637636706718",
     "down": "-0",
-    "up": "+1006"
+    "up": "+1006",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/719_Bern.html": {
     "duration": "3 hours 30",
@@ -2967,7 +4034,11 @@
     "link": "https://wandersite.ch/Tageswanderung/719_Bern.html",
     "longitude": "7.734988931974804",
     "down": "-480",
-    "up": "+480"
+    "up": "+480",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/721_Bern.html": {
     "duration": "3 hours 0",
@@ -2978,7 +4049,12 @@
     "link": "https://wandersite.ch/Tageswanderung/721_Bern.html",
     "longitude": "8.138495381041547",
     "down": "-360",
-    "up": "+410"
+    "up": "+410",
+    "access": [
+      "AerialLift",
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/722%20Bern.html": {
     "duration": "6 hours 40",
@@ -2989,7 +4065,11 @@
     "link": "https://wandersite.ch/Tageswanderung/722%20Bern.html",
     "longitude": "7.436166405356156",
     "down": "-1180",
-    "up": "+1320"
+    "up": "+1320",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/722b_bern.html": {
     "duration": "2 hours 35",
@@ -3000,7 +4080,11 @@
     "link": "https://wandersite.ch/Tageswanderung/722b_bern.html",
     "longitude": "7.4752771374225855",
     "down": "-400",
-    "up": "+450"
+    "up": "+450",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/723_Bern.html": {
     "duration": "5 hours 10",
@@ -3011,7 +4095,10 @@
     "link": "https://wandersite.ch/Tageswanderung/723_Bern.html",
     "longitude": "7.471471855008612",
     "down": "-520",
-    "up": "+500"
+    "up": "+500",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/723a_Bern.html": {
     "duration": "3 hours 40",
@@ -3022,7 +4109,11 @@
     "link": "https://wandersite.ch/Tageswanderung/723a_Bern.html",
     "longitude": "7.4697187907288",
     "down": "-370",
-    "up": "+460"
+    "up": "+460",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/724_Bielersee.html": {
     "duration": "2 hours 50",
@@ -3033,7 +4124,12 @@
     "link": "https://wandersite.ch/Tageswanderung/724_Bielersee.html",
     "longitude": "7.109975027759734",
     "down": "-150",
-    "up": "+120"
+    "up": "+120",
+    "access": [
+      "Boat",
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/724a_bielersee.html": {
     "duration": "3 hours 20",
@@ -3044,7 +4140,11 @@
     "link": "https://wandersite.ch/Tageswanderung/724a_bielersee.html",
     "longitude": "7.056218199515301",
     "down": "-220",
-    "up": "+220"
+    "up": "+220",
+    "access": [
+      "Boat",
+      "Train"
+    ]
   },
   "Tageswanderung/725%20Bern.html": {
     "duration": "3 hours 0",
@@ -3055,7 +4155,11 @@
     "link": "https://wandersite.ch/Tageswanderung/725%20Bern.html",
     "longitude": "7.597764770176952",
     "down": "-310",
-    "up": "+270"
+    "up": "+270",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/726_Bern.html": {
     "duration": "2 hours 10",
@@ -3066,7 +4170,11 @@
     "link": "https://wandersite.ch/Tageswanderung/726_Bern.html",
     "longitude": "8.308458299553696",
     "down": "-20",
-    "up": "+480"
+    "up": "+480",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/727_Bern.html": {
     "duration": "3 hours 10",
@@ -3077,7 +4185,11 @@
     "link": "https://wandersite.ch/Tageswanderung/727_Bern.html",
     "longitude": "7.441370380764578",
     "down": "-620",
-    "up": "+540"
+    "up": "+540",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/728_Bern.html": {
     "duration": "4 hours 10",
@@ -3088,7 +4200,11 @@
     "link": "https://wandersite.ch/Tageswanderung/728_Bern.html",
     "longitude": "7.844328378389768",
     "down": "-610",
-    "up": "+500"
+    "up": "+500",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/729_Bern.html": {
     "duration": "5 hours 30",
@@ -3099,7 +4215,11 @@
     "link": "https://wandersite.ch/Tageswanderung/729_Bern.html",
     "longitude": "7.602141109631435",
     "down": "-1010",
-    "up": "+830"
+    "up": "+830",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/729b_Bern.html": {
     "duration": "3 hours 50",
@@ -3110,7 +4230,11 @@
     "link": "https://wandersite.ch/Tageswanderung/729b_Bern.html",
     "longitude": "7.57873553995435",
     "down": "-590",
-    "up": "+60"
+    "up": "+60",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/730_Bern.html": {
     "duration": "8 hours 50",
@@ -3121,7 +4245,11 @@
     "link": "https://wandersite.ch/Tageswanderung/730_Bern.html",
     "longitude": "7.623616997193812",
     "down": "-2240",
-    "up": "+2130"
+    "up": "+2130",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/730a_Bern.html": {
     "duration": "2 hours 30",
@@ -3132,7 +4260,11 @@
     "link": "https://wandersite.ch/Tageswanderung/730a_Bern.html",
     "longitude": "7.624582638077232",
     "down": "-260",
-    "up": "+150"
+    "up": "+150",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/731_Bern.html": {
     "duration": "5 hours 10",
@@ -3143,7 +4275,12 @@
     "link": "https://wandersite.ch/Tageswanderung/731_Bern.html",
     "longitude": "7.538971522993188",
     "down": "-910",
-    "up": "+910"
+    "up": "+910",
+    "access": [
+      "Bus",
+      "Car",
+      "Train"
+    ]
   },
   "Tageswanderung/731a_Bern.html": {
     "duration": "1 hour 50",
@@ -3154,7 +4291,12 @@
     "link": "https://wandersite.ch/Tageswanderung/731a_Bern.html",
     "longitude": "7.562776197006975",
     "down": "-0",
-    "up": "+750"
+    "up": "+750",
+    "access": [
+      "AerialLift",
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/732_Bern.html": {
     "duration": "1 hour 05",
@@ -3165,7 +4307,12 @@
     "link": "https://wandersite.ch/Tageswanderung/732_Bern.html",
     "longitude": "7.916434366650019",
     "down": "-130",
-    "up": "+20"
+    "up": "+20",
+    "access": [
+      "AerialLift",
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/733_Bern.html": {
     "duration": "3 hours 50",
@@ -3176,7 +4323,11 @@
     "link": "https://wandersite.ch/Tageswanderung/733_Bern.html",
     "longitude": "7.711860751916738",
     "down": "-320",
-    "up": "+320"
+    "up": "+320",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/733a_Bern.html": {
     "duration": "4 hours 0",
@@ -3187,7 +4338,10 @@
     "link": "https://wandersite.ch/Tageswanderung/733a_Bern.html",
     "longitude": "7.854831433098545",
     "down": "-520",
-    "up": "+520"
+    "up": "+520",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/734_Bern.html": {
     "duration": "5 hours 0",
@@ -3198,7 +4352,10 @@
     "link": "https://wandersite.ch/Tageswanderung/734_Bern.html",
     "longitude": "7.553334615868206",
     "down": "-470",
-    "up": "+500"
+    "up": "+500",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/735_Bern.html": {
     "duration": "2 hours 10",
@@ -3209,7 +4366,12 @@
     "link": "https://wandersite.ch/Tageswanderung/735_Bern.html",
     "longitude": "8.249171766299902",
     "down": "-70",
-    "up": "+470"
+    "up": "+470",
+    "access": [
+      "AerialLift",
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/735a_Bern.html": {
     "duration": "3 hours 30",
@@ -3220,7 +4382,12 @@
     "link": "https://wandersite.ch/Tageswanderung/735a_Bern.html",
     "longitude": "8.219235617107188",
     "down": "-620",
-    "up": "+690"
+    "up": "+690",
+    "access": [
+      "AerialLift",
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/736_Bern.html": {
     "duration": "4 hours 10",
@@ -3231,7 +4398,13 @@
     "link": "https://wandersite.ch/Tageswanderung/736_Bern.html",
     "longitude": "7.770831447584034",
     "down": "-40",
-    "up": "+1400"
+    "up": "+1400",
+    "access": [
+      "AerialLift",
+      "Boat",
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/737_Bern.html": {
     "duration": "1 hour 40",
@@ -3242,7 +4415,11 @@
     "link": "https://wandersite.ch/Tageswanderung/737_Bern.html",
     "longitude": "8.209733493187473",
     "down": "-30",
-    "up": "+60"
+    "up": "+60",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/738%20Luzern.html": {
     "duration": "3 hours 10",
@@ -3253,7 +4430,11 @@
     "link": "https://wandersite.ch/Tageswanderung/738%20Luzern.html",
     "longitude": "7.785017771500246",
     "down": "-530",
-    "up": "+340"
+    "up": "+340",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/739_Bern.html": {
     "duration": "2 hours 30",
@@ -3264,7 +4445,11 @@
     "link": "https://wandersite.ch/Tageswanderung/739_Bern.html",
     "longitude": "7.901677310882321",
     "down": "-110",
-    "up": "+150"
+    "up": "+150",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/739a_Bern.html": {
     "duration": "4 hours 45",
@@ -3275,7 +4460,11 @@
     "link": "https://wandersite.ch/Tageswanderung/739a_Bern.html",
     "longitude": "7.7419293559399724",
     "down": "-440",
-    "up": "+570"
+    "up": "+570",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/740%20Luzern.html": {
     "duration": "2 hours 40",
@@ -3286,7 +4475,10 @@
     "link": "https://wandersite.ch/Tageswanderung/740%20Luzern.html",
     "longitude": "7.97140114828914",
     "down": "-250",
-    "up": "+110"
+    "up": "+110",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/740a_Luzern.html": {
     "duration": "1 hour 20",
@@ -3297,7 +4489,11 @@
     "link": "https://wandersite.ch/Tageswanderung/740a_Luzern.html",
     "longitude": "8.045001509343853",
     "down": "-10",
-    "up": "+420"
+    "up": "+420",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/741a_Bern.html": {
     "duration": "4 hours 45",
@@ -3308,7 +4504,11 @@
     "link": "https://wandersite.ch/Tageswanderung/741a_Bern.html",
     "longitude": "7.618417706337025",
     "down": "-520",
-    "up": "+740"
+    "up": "+740",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/742_Luzern.html": {
     "duration": "5 hours 0",
@@ -3319,7 +4519,10 @@
     "link": "https://wandersite.ch/Tageswanderung/742_Luzern.html",
     "longitude": "8.061811947625381",
     "down": "-480",
-    "up": "+650"
+    "up": "+650",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/743_Bern.html": {
     "duration": "1 hour 25",
@@ -3330,7 +4533,11 @@
     "link": "https://wandersite.ch/Tageswanderung/743_Bern.html",
     "longitude": "7.673883006256429",
     "down": "-300",
-    "up": "+20"
+    "up": "+20",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/743b_Bern.html": {
     "duration": "4 hours 20",
@@ -3341,7 +4548,11 @@
     "link": "https://wandersite.ch/Tageswanderung/743b_Bern.html",
     "longitude": "7.7088886953903035",
     "down": "-840",
-    "up": "+340"
+    "up": "+340",
+    "access": [
+      "AerialLift",
+      "Train"
+    ]
   },
   "Tageswanderung/744_Bern.html": {
     "duration": "1 hour 45",
@@ -3352,7 +4563,10 @@
     "link": "https://wandersite.ch/Tageswanderung/744_Bern.html",
     "longitude": "7.90416352147763",
     "down": "-220",
-    "up": "+220"
+    "up": "+220",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/744a_Bern.html": {
     "duration": "6 hours 0",
@@ -3363,7 +4577,10 @@
     "link": "https://wandersite.ch/Tageswanderung/744a_Bern.html",
     "longitude": "7.911437449946245",
     "down": "-610",
-    "up": "+830"
+    "up": "+830",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/745_Bern.html": {
     "duration": "2 hours 40",
@@ -3374,7 +4591,10 @@
     "link": "https://wandersite.ch/Tageswanderung/745_Bern.html",
     "longitude": "7.448310552946334",
     "down": "-380",
-    "up": "+380"
+    "up": "+380",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/746_Bern.html": {
     "duration": "4 hours 30",
@@ -3385,7 +4605,11 @@
     "link": "https://wandersite.ch/Tageswanderung/746_Bern.html",
     "longitude": "7.785122623817887",
     "down": "-300",
-    "up": "+370"
+    "up": "+370",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/746a_Bern_Aargau.html": {
     "duration": "3 hours 40",
@@ -3396,7 +4620,10 @@
     "link": "https://wandersite.ch/Tageswanderung/746a_Bern_Aargau.html",
     "longitude": "7.768496529708239",
     "down": "-160",
-    "up": "+160"
+    "up": "+160",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/747_Bern.html": {
     "duration": "2 hours 50",
@@ -3407,7 +4634,11 @@
     "link": "https://wandersite.ch/Tageswanderung/747_Bern.html",
     "longitude": "7.853646806061567",
     "down": "-240",
-    "up": "+340"
+    "up": "+340",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/748_Jura.html": {
     "duration": "3 hours 15",
@@ -3418,7 +4649,11 @@
     "link": "https://wandersite.ch/Tageswanderung/748_Jura.html",
     "longitude": "8.164350970193665",
     "down": "-160",
-    "up": "+430"
+    "up": "+430",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/749_Jura.html": {
     "duration": "3 hours 45",
@@ -3429,7 +4664,10 @@
     "link": "https://wandersite.ch/Tageswanderung/749_Jura.html",
     "longitude": "7.903976394047839",
     "down": "-570",
-    "up": "+700"
+    "up": "+700",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/750%20Jura.html": {
     "duration": "4 hours 0",
@@ -3440,7 +4678,11 @@
     "link": "https://wandersite.ch/Tageswanderung/750%20Jura.html",
     "longitude": "7.971702381915967",
     "down": "-580",
-    "up": "+480"
+    "up": "+480",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/751Jura.html": {
     "duration": "4 hours 0",
@@ -3451,7 +4693,11 @@
     "link": "https://wandersite.ch/Tageswanderung/751Jura.html",
     "longitude": "7.376948552325217",
     "down": "-650",
-    "up": "+780"
+    "up": "+780",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/752%20Jura.html": {
     "duration": "4 hours 0",
@@ -3462,7 +4708,12 @@
     "link": "https://wandersite.ch/Tageswanderung/752%20Jura.html",
     "longitude": "7.507558248075541",
     "down": "-520",
-    "up": "+580"
+    "up": "+580",
+    "access": [
+      "AerialLift",
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/752a%20Jura.html": {
     "duration": "4 hours 20",
@@ -3473,7 +4724,11 @@
     "link": "https://wandersite.ch/Tageswanderung/752a%20Jura.html",
     "longitude": "7.292290246403135",
     "down": "-160",
-    "up": "+930"
+    "up": "+930",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/753%20Jura.html": {
     "duration": "3 hours 50",
@@ -3484,7 +4739,11 @@
     "link": "https://wandersite.ch/Tageswanderung/753%20Jura.html",
     "longitude": "6.99559657565491",
     "down": "-205",
-    "up": "+230"
+    "up": "+230",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/754_Jura.html": {
     "duration": "5 hours 15",
@@ -3495,7 +4754,11 @@
     "link": "https://wandersite.ch/Tageswanderung/754_Jura.html",
     "longitude": "7.245366147199413",
     "down": "-570",
-    "up": "+630"
+    "up": "+630",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/754a_Jura.html": {
     "duration": "3 hours 15",
@@ -3506,7 +4769,10 @@
     "link": "https://wandersite.ch/Tageswanderung/754a_Jura.html",
     "longitude": "7.1553727010522135",
     "down": "-160",
-    "up": "+160"
+    "up": "+160",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/755%20Jura.html": {
     "duration": "5 hours 15",
@@ -3517,7 +4783,10 @@
     "link": "https://wandersite.ch/Tageswanderung/755%20Jura.html",
     "longitude": "6.609691118977542",
     "down": "-620",
-    "up": "+950"
+    "up": "+950",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/756%20Jura.html": {
     "duration": "4 hours 45",
@@ -3528,7 +4797,10 @@
     "link": "https://wandersite.ch/Tageswanderung/756%20Jura.html",
     "longitude": "6.994280564921999",
     "down": "-580",
-    "up": "+580"
+    "up": "+580",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/756a_jura.html": {
     "duration": "3 hours 50",
@@ -3539,7 +4811,11 @@
     "link": "https://wandersite.ch/Tageswanderung/756a_jura.html",
     "longitude": "7.114957417818901",
     "down": "-430",
-    "up": "+220"
+    "up": "+220",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/757%20Jura.html": {
     "duration": "6 hours 0",
@@ -3550,7 +4826,10 @@
     "link": "https://wandersite.ch/Tageswanderung/757%20Jura.html",
     "longitude": "7.60116043864921",
     "down": "-770",
-    "up": "+820"
+    "up": "+820",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/758%20Nordwestschweiz.html": {
     "duration": "4 hours 0",
@@ -3561,7 +4840,10 @@
     "link": "https://wandersite.ch/Tageswanderung/758%20Nordwestschweiz.html",
     "longitude": "7.656417078712635",
     "down": "-440",
-    "up": "+470"
+    "up": "+470",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/758aNordwestschweiz.html": {
     "duration": "4 hours 30",
@@ -3572,7 +4854,10 @@
     "link": "https://wandersite.ch/Tageswanderung/758aNordwestschweiz.html",
     "longitude": "7.602740452529477",
     "down": "-670",
-    "up": "+670"
+    "up": "+670",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/758b_Nordwestschweiz.html": {
     "duration": "2 hours 30",
@@ -3583,7 +4868,10 @@
     "link": "https://wandersite.ch/Tageswanderung/758b_Nordwestschweiz.html",
     "longitude": "7.627477789114146",
     "down": "-450",
-    "up": "+450"
+    "up": "+450",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/759%20Fricktal.html": {
     "duration": "5 hours 0",
@@ -3594,7 +4882,11 @@
     "link": "https://wandersite.ch/Tageswanderung/759%20Fricktal.html",
     "longitude": "7.828079994525588",
     "down": "-470",
-    "up": "+500"
+    "up": "+500",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/760%20Jura.html": {
     "duration": "1 hour 50",
@@ -3605,7 +4897,11 @@
     "link": "https://wandersite.ch/Tageswanderung/760%20Jura.html",
     "longitude": "7.508492233637737",
     "down": "-200",
-    "up": "+200"
+    "up": "+200",
+    "access": [
+      "AerialLift",
+      "Train"
+    ]
   },
   "Tageswanderung/761%20Jura.html": {
     "duration": "2 hours 40",
@@ -3616,7 +4912,11 @@
     "link": "https://wandersite.ch/Tageswanderung/761%20Jura.html",
     "longitude": "7.083345092142261",
     "down": "-30",
-    "up": "+800"
+    "up": "+800",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/762%20Jura.html": {
     "duration": "7 hours 25",
@@ -3627,7 +4927,10 @@
     "link": "https://wandersite.ch/Tageswanderung/762%20Jura.html",
     "longitude": "6.159256845461202",
     "down": "-940",
-    "up": "+930"
+    "up": "+930",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/763%20Fricktal.html": {
     "duration": "7 hours 50",
@@ -3638,7 +4941,11 @@
     "link": "https://wandersite.ch/Tageswanderung/763%20Fricktal.html",
     "longitude": "8.126784536988716",
     "down": "-930",
-    "up": "+950"
+    "up": "+950",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/763a_fricktal.html": {
     "duration": "3 hours 30",
@@ -3649,7 +4956,11 @@
     "link": "https://wandersite.ch/Tageswanderung/763a_fricktal.html",
     "longitude": "8.121526458919758",
     "down": "-400",
-    "up": "+270"
+    "up": "+270",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/764%20Fricktal.html": {
     "duration": "4 hours 20",
@@ -3660,7 +4971,11 @@
     "link": "https://wandersite.ch/Tageswanderung/764%20Fricktal.html",
     "longitude": "8.070745813102102",
     "down": "-490",
-    "up": "+500"
+    "up": "+500",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/765%20Fricktal.html": {
     "duration": "4 hours 30",
@@ -3671,7 +4986,11 @@
     "link": "https://wandersite.ch/Tageswanderung/765%20Fricktal.html",
     "longitude": "8.070745813102102",
     "down": "-690",
-    "up": "+600"
+    "up": "+600",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/767%20Nordwestschweiz.html": {
     "duration": "3 hours 20",
@@ -3682,7 +5001,11 @@
     "link": "https://wandersite.ch/Tageswanderung/767%20Nordwestschweiz.html",
     "longitude": "9.168670198093446",
     "down": "-120",
-    "up": "+560"
+    "up": "+560",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/768_Jura.html": {
     "duration": "4 hours 15",
@@ -3693,7 +5016,10 @@
     "link": "https://wandersite.ch/Tageswanderung/768_Jura.html",
     "longitude": "7.856336096027553",
     "down": "-740",
-    "up": "+590"
+    "up": "+590",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/768a_Jura.html": {
     "duration": "4 hours 10",
@@ -3704,7 +5030,11 @@
     "link": "https://wandersite.ch/Tageswanderung/768a_Jura.html",
     "longitude": "7.85134879365795",
     "down": "-380",
-    "up": "+390"
+    "up": "+390",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/769_Jura.html": {
     "duration": "4 hours 20",
@@ -3715,7 +5045,11 @@
     "link": "https://wandersite.ch/Tageswanderung/769_Jura.html",
     "longitude": "7.292439667071721",
     "down": "-680",
-    "up": "+840"
+    "up": "+840",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/770_Jura.html": {
     "duration": "5 hours 20",
@@ -3726,7 +5060,11 @@
     "link": "https://wandersite.ch/Tageswanderung/770_Jura.html",
     "longitude": "7.555304866924152",
     "down": "-610",
-    "up": "+940"
+    "up": "+940",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/770a_Jura.html": {
     "duration": "4 hours 0",
@@ -3737,7 +5075,11 @@
     "link": "https://wandersite.ch/Tageswanderung/770a_Jura.html",
     "longitude": "7.547319026398381",
     "down": "-520",
-    "up": "+600"
+    "up": "+600",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/771_Jura.html": {
     "duration": "4 hours 45",
@@ -3748,7 +5090,10 @@
     "link": "https://wandersite.ch/Tageswanderung/771_Jura.html",
     "longitude": "7.01438280794584",
     "down": "-550",
-    "up": "+90"
+    "up": "+90",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/771a_Jura.html": {
     "duration": "4 hours 15",
@@ -3759,7 +5104,10 @@
     "link": "https://wandersite.ch/Tageswanderung/771a_Jura.html",
     "longitude": "6.957192714630326",
     "down": "-270",
-    "up": "+330"
+    "up": "+330",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/772_Nordwestschweiz.html": {
     "duration": "4 hours 30",
@@ -3770,7 +5118,10 @@
     "link": "https://wandersite.ch/Tageswanderung/772_Nordwestschweiz.html",
     "longitude": "7.853697937501978",
     "down": "-430",
-    "up": "+480"
+    "up": "+480",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/773_Jura.html": {
     "duration": "3 hours 15",
@@ -3781,7 +5132,11 @@
     "link": "https://wandersite.ch/Tageswanderung/773_Jura.html",
     "longitude": "7.872155997760725",
     "down": "-400",
-    "up": "+430"
+    "up": "+430",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/774_Baselland.html": {
     "duration": "3 hours 20",
@@ -3792,7 +5147,11 @@
     "link": "https://wandersite.ch/Tageswanderung/774_Baselland.html",
     "longitude": "7.603113463430194",
     "down": "-220",
-    "up": "+440"
+    "up": "+440",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/775_Jura.html": {
     "duration": "5 hours 10",
@@ -3803,7 +5162,11 @@
     "link": "https://wandersite.ch/Tageswanderung/775_Jura.html",
     "longitude": "7.479491623754196",
     "down": "-470",
-    "up": "+350"
+    "up": "+350",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/775a_Jura.html": {
     "duration": "4 hours 20",
@@ -3814,7 +5177,11 @@
     "link": "https://wandersite.ch/Tageswanderung/775a_Jura.html",
     "longitude": "7.355010849403073",
     "down": "-670",
-    "up": "+670"
+    "up": "+670",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/776_Nordwestschweiz.html": {
     "duration": "3 hours 20",
@@ -3825,7 +5192,11 @@
     "link": "https://wandersite.ch/Tageswanderung/776_Nordwestschweiz.html",
     "longitude": "7.684480362663385",
     "down": "-530",
-    "up": "+440"
+    "up": "+440",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/776a_Nordwestschweiz.html": {
     "duration": "3 hours 30",
@@ -3836,7 +5207,11 @@
     "link": "https://wandersite.ch/Tageswanderung/776a_Nordwestschweiz.html",
     "longitude": "7.706676917370108",
     "down": "-640",
-    "up": "+280"
+    "up": "+280",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/777_Baselland.html": {
     "duration": "5 hours 0",
@@ -3847,7 +5222,11 @@
     "link": "https://wandersite.ch/Tageswanderung/777_Baselland.html",
     "longitude": "7.611409677688524",
     "down": "-570",
-    "up": "+670"
+    "up": "+670",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/778_Baselland.html": {
     "duration": "2 hours 10",
@@ -3858,7 +5237,11 @@
     "link": "https://wandersite.ch/Tageswanderung/778_Baselland.html",
     "longitude": "7.611464670750884",
     "down": "-230",
-    "up": "+270"
+    "up": "+270",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/779_Jura.html": {
     "duration": "4 hours 15",
@@ -3869,7 +5252,11 @@
     "link": "https://wandersite.ch/Tageswanderung/779_Jura.html",
     "longitude": "7.380898594854635",
     "down": "-360",
-    "up": "+500"
+    "up": "+500",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/780_Jura.html": {
     "duration": "5 hours 30",
@@ -3880,7 +5267,10 @@
     "link": "https://wandersite.ch/Tageswanderung/780_Jura.html",
     "longitude": "7.08387721845791",
     "down": "-650",
-    "up": "+270"
+    "up": "+270",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/781_Fricktal.html": {
     "duration": "5 hours 40",
@@ -3891,7 +5281,11 @@
     "link": "https://wandersite.ch/Tageswanderung/781_Fricktal.html",
     "longitude": "8.060290983147262",
     "down": "-500",
-    "up": "+520"
+    "up": "+520",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/781a_Fricktal.html": {
     "duration": "4 hours 10",
@@ -3902,7 +5296,11 @@
     "link": "https://wandersite.ch/Tageswanderung/781a_Fricktal.html",
     "longitude": "8.159108112014575",
     "down": "-650",
-    "up": "+440"
+    "up": "+440",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/782_Jura.html": {
     "duration": "4 hours 0",
@@ -3913,7 +5311,10 @@
     "link": "https://wandersite.ch/Tageswanderung/782_Jura.html",
     "longitude": "6.365817861118271",
     "down": "-660",
-    "up": "+130"
+    "up": "+130",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/782a_Jura.html": {
     "duration": "4 hours 30",
@@ -3924,7 +5325,10 @@
     "link": "https://wandersite.ch/Tageswanderung/782a_Jura.html",
     "longitude": "6.552144620538441",
     "down": "-260",
-    "up": "+470"
+    "up": "+470",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/783_Jura.html": {
     "duration": "3 hours 50",
@@ -3935,7 +5339,10 @@
     "link": "https://wandersite.ch/Tageswanderung/783_Jura.html",
     "longitude": "7.178154510778846",
     "down": "-570",
-    "up": "+570"
+    "up": "+570",
+    "access": [
+      "Bus"
+    ]
   },
   "Tageswanderung/784_Jura.html": {
     "duration": "5 hours 0",
@@ -3946,7 +5353,10 @@
     "link": "https://wandersite.ch/Tageswanderung/784_Jura.html",
     "longitude": "6.118329393400422",
     "down": "-370",
-    "up": "+420"
+    "up": "+420",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/784a_Jura.html": {
     "duration": "4 hours 20",
@@ -3957,7 +5367,11 @@
     "link": "https://wandersite.ch/Tageswanderung/784a_Jura.html",
     "longitude": "6.440276437427423",
     "down": "-720",
-    "up": "+220"
+    "up": "+220",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/785_Jura.html": {
     "duration": "5 hours 20",
@@ -3968,7 +5382,10 @@
     "link": "https://wandersite.ch/Tageswanderung/785_Jura.html",
     "longitude": "7.843922610474852",
     "down": "-860",
-    "up": "+790"
+    "up": "+790",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/785a_jura.html": {
     "duration": "3 hours 30",
@@ -3979,7 +5396,11 @@
     "link": "https://wandersite.ch/Tageswanderung/785a_jura.html",
     "longitude": "7.872607020238791",
     "down": "-650",
-    "up": "+370"
+    "up": "+370",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/786_Jura.html": {
     "duration": "1 hour 50",
@@ -3990,7 +5411,11 @@
     "link": "https://wandersite.ch/Tageswanderung/786_Jura.html",
     "longitude": "7.474647626100296",
     "down": "-240",
-    "up": "+20"
+    "up": "+20",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/787_Jura.html": {
     "duration": "5 hours 20",
@@ -4001,7 +5426,11 @@
     "link": "https://wandersite.ch/Tageswanderung/787_Jura.html",
     "longitude": "7.656240553222012",
     "down": "-1180",
-    "up": "+700"
+    "up": "+700",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/788_Jura.html": {
     "duration": "4 hours 15",
@@ -4012,7 +5441,10 @@
     "link": "https://wandersite.ch/Tageswanderung/788_Jura.html",
     "longitude": "6.722527622154305",
     "down": "-740",
-    "up": "+740"
+    "up": "+740",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/789_Nordwestschweiz.html": {
     "duration": "1 hour 50",
@@ -4023,7 +5455,12 @@
     "link": "https://wandersite.ch/Tageswanderung/789_Nordwestschweiz.html",
     "longitude": "7.700257804721002",
     "down": "-310",
-    "up": "+310"
+    "up": "+310",
+    "access": [
+      "AerialLift",
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/789b_nordwestschweiz.html": {
     "duration": "4 hours 10",
@@ -4034,7 +5471,11 @@
     "link": "https://wandersite.ch/Tageswanderung/789b_nordwestschweiz.html",
     "longitude": "7.748752882449117",
     "down": "-720",
-    "up": "+720"
+    "up": "+720",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/789c_nordwestschweiz.html": {
     "duration": "3 hours 40",
@@ -4045,7 +5486,11 @@
     "link": "https://wandersite.ch/Tageswanderung/789c_nordwestschweiz.html",
     "longitude": "7.736051011119312",
     "down": "-370",
-    "up": "+520"
+    "up": "+520",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/790_Jura.html": {
     "duration": "3 hours 30",
@@ -4056,7 +5501,10 @@
     "link": "https://wandersite.ch/Tageswanderung/790_Jura.html",
     "longitude": "6.835874364126569",
     "down": "-110",
-    "up": "+350"
+    "up": "+350",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/791_Jura_NE.html": {
     "duration": "3 hours 20",
@@ -4067,7 +5515,11 @@
     "link": "https://wandersite.ch/Tageswanderung/791_Jura_NE.html",
     "longitude": "6.869734305833215",
     "down": "-530",
-    "up": "+380"
+    "up": "+380",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/792_Jura.html": {
     "duration": "3 hours 45",
@@ -4078,7 +5530,10 @@
     "link": "https://wandersite.ch/Tageswanderung/792_Jura.html",
     "longitude": "7.8564361025553975",
     "down": "-480",
-    "up": "+300"
+    "up": "+300",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/794_Jura_AG.html": {
     "duration": "3 hours 10",
@@ -4089,7 +5544,11 @@
     "link": "https://wandersite.ch/Tageswanderung/794_Jura_AG.html",
     "longitude": "7.976168248037508",
     "down": "-370",
-    "up": "+430"
+    "up": "+430",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/794a_jura_so.html": {
     "duration": "2 hours 10",
@@ -4100,7 +5559,11 @@
     "link": "https://wandersite.ch/Tageswanderung/794a_jura_so.html",
     "longitude": "7.708943590152604",
     "down": "-200",
-    "up": "+200"
+    "up": "+200",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/795_Jura.html": {
     "duration": "4 hours 40",
@@ -4111,7 +5574,11 @@
     "link": "https://wandersite.ch/Tageswanderung/795_Jura.html",
     "longitude": "7.527858677272152",
     "down": "-860",
-    "up": "+860"
+    "up": "+860",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/795a_Jura_SO.html": {
     "duration": "5 hours 15",
@@ -4122,7 +5589,11 @@
     "link": "https://wandersite.ch/Tageswanderung/795a_Jura_SO.html",
     "longitude": "7.631633766704015",
     "down": "-790",
-    "up": "+940"
+    "up": "+940",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/795b_jura_be.html": {
     "duration": "3 hours 20",
@@ -4133,7 +5604,11 @@
     "link": "https://wandersite.ch/Tageswanderung/795b_jura_be.html",
     "longitude": "7.6421649045049",
     "down": "-550",
-    "up": "+380"
+    "up": "+380",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/796_Jura_AG.html": {
     "duration": "3 hours 50",
@@ -4144,7 +5619,11 @@
     "link": "https://wandersite.ch/Tageswanderung/796_Jura_AG.html",
     "longitude": "8.060357962405723",
     "down": "-640",
-    "up": "+400"
+    "up": "+400",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/797_Fricktal.html": {
     "duration": "4 hours 40",
@@ -4155,7 +5634,11 @@
     "link": "https://wandersite.ch/Tageswanderung/797_Fricktal.html",
     "longitude": "8.210845865065046",
     "down": "-330",
-    "up": "+360"
+    "up": "+360",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/798_Solothurn.html": {
     "duration": "2 hours 50",
@@ -4166,7 +5649,11 @@
     "link": "https://wandersite.ch/Tageswanderung/798_Solothurn.html",
     "longitude": "7.906902501589493",
     "down": "-360",
-    "up": "+380"
+    "up": "+380",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/799_Solothurn.html": {
     "duration": "4 hours 30",
@@ -4177,7 +5664,11 @@
     "link": "https://wandersite.ch/Tageswanderung/799_Solothurn.html",
     "longitude": "7.522384615768591",
     "down": "-400",
-    "up": "+350"
+    "up": "+350",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/799b_Solothurn.html": {
     "duration": "4 hours 15",
@@ -4188,7 +5679,11 @@
     "link": "https://wandersite.ch/Tageswanderung/799b_Solothurn.html",
     "longitude": "7.509784164090325",
     "down": "-350",
-    "up": "+320"
+    "up": "+320",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/800%20Fribourg.html": {
     "duration": "5 hours 0",
@@ -4199,7 +5694,12 @@
     "link": "https://wandersite.ch/Tageswanderung/800%20Fribourg.html",
     "longitude": "7.0118144335335195",
     "down": "-200",
-    "up": "+200"
+    "up": "+200",
+    "access": [
+      "AerialLift",
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/801%20Vaud.html": {
     "duration": "3 hours 30",
@@ -4210,7 +5710,11 @@
     "link": "https://wandersite.ch/Tageswanderung/801%20Vaud.html",
     "longitude": "6.867021764802593",
     "down": "-100",
-    "up": "+250"
+    "up": "+250",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/802%20Fribourg.html": {
     "duration": "5 hours 20",
@@ -4221,7 +5725,11 @@
     "link": "https://wandersite.ch/Tageswanderung/802%20Fribourg.html",
     "longitude": "7.024277632303064",
     "down": "-810",
-    "up": "+460"
+    "up": "+460",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/802a_Fribourg.html": {
     "duration": "2 hours 30",
@@ -4232,7 +5740,11 @@
     "link": "https://wandersite.ch/Tageswanderung/802a_Fribourg.html",
     "longitude": "7.0711094449855825",
     "down": "-140",
-    "up": "+150"
+    "up": "+150",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/803%20Suedwestschweiz.html": {
     "duration": "6 hours 20",
@@ -4243,7 +5755,10 @@
     "link": "https://wandersite.ch/Tageswanderung/803%20Suedwestschweiz.html",
     "longitude": "6.939458763578191",
     "down": "-540",
-    "up": "+700"
+    "up": "+700",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/804%20Fribourg.html": {
     "duration": "4 hours 45",
@@ -4254,7 +5769,10 @@
     "link": "https://wandersite.ch/Tageswanderung/804%20Fribourg.html",
     "longitude": "6.932906472667088",
     "down": "-750",
-    "up": "+800"
+    "up": "+800",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/805_Fribourg.html": {
     "duration": "3 hours 30",
@@ -4265,7 +5783,11 @@
     "link": "https://wandersite.ch/Tageswanderung/805_Fribourg.html",
     "longitude": "7.160015099552988",
     "down": "-470",
-    "up": "+340"
+    "up": "+340",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/805a_Fribourg.html": {
     "duration": "5 hours 10",
@@ -4276,7 +5798,11 @@
     "link": "https://wandersite.ch/Tageswanderung/805a_Fribourg.html",
     "longitude": "7.112237967347288",
     "down": "-730",
-    "up": "+690"
+    "up": "+690",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/806_Fribourg.html": {
     "duration": "3 hours 40",
@@ -4287,7 +5813,10 @@
     "link": "https://wandersite.ch/Tageswanderung/806_Fribourg.html",
     "longitude": "7.151122165592921",
     "down": "-350",
-    "up": "+350"
+    "up": "+350",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/807_Fribourg.html": {
     "duration": "3 hours 50",
@@ -4298,7 +5827,10 @@
     "link": "https://wandersite.ch/Tageswanderung/807_Fribourg.html",
     "longitude": "7.319437822968943",
     "down": "-310",
-    "up": "+330"
+    "up": "+330",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/808_Fribourg.html": {
     "duration": "5 hours 30",
@@ -4309,7 +5841,11 @@
     "link": "https://wandersite.ch/Tageswanderung/808_Fribourg.html",
     "longitude": "6.999994658758862",
     "down": "-440",
-    "up": "+380"
+    "up": "+380",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/809_Fribourg.html": {
     "duration": "4 hours 15",
@@ -4320,7 +5856,11 @@
     "link": "https://wandersite.ch/Tageswanderung/809_Fribourg.html",
     "longitude": "7.139436766193553",
     "down": "-880",
-    "up": "+680"
+    "up": "+680",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/810_Fribourg.html": {
     "duration": "3 hours 15",
@@ -4331,7 +5871,11 @@
     "link": "https://wandersite.ch/Tageswanderung/810_Fribourg.html",
     "longitude": "7.208967776102451",
     "down": "-570",
-    "up": "+260"
+    "up": "+260",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/811_Fribourg.html": {
     "duration": "5 hours 20",
@@ -4342,7 +5886,11 @@
     "link": "https://wandersite.ch/Tageswanderung/811_Fribourg.html",
     "longitude": "7.25999895866058",
     "down": "-640",
-    "up": "+780"
+    "up": "+780",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/812_Fribourg.html": {
     "duration": "6 hours 50",
@@ -4353,7 +5901,10 @@
     "link": "https://wandersite.ch/Tageswanderung/812_Fribourg.html",
     "longitude": "7.264670512907674",
     "down": "-1240",
-    "up": "+1400"
+    "up": "+1400",
+    "access": [
+      "Bus"
+    ]
   },
   "Tageswanderung/813_Fribourg.html": {
     "duration": "4 hours 10",
@@ -4364,7 +5915,11 @@
     "link": "https://wandersite.ch/Tageswanderung/813_Fribourg.html",
     "longitude": "7.285539866113944",
     "down": "-630",
-    "up": "+670"
+    "up": "+670",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/814_Fribourg.html": {
     "duration": "6 hours 50",
@@ -4375,7 +5930,11 @@
     "link": "https://wandersite.ch/Tageswanderung/814_Fribourg.html",
     "longitude": "7.11011388165405",
     "down": "-1050",
-    "up": "+1190"
+    "up": "+1190",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/815_Fribourg.html": {
     "duration": "6 hours 30",
@@ -4386,7 +5945,10 @@
     "link": "https://wandersite.ch/Tageswanderung/815_Fribourg.html",
     "longitude": "7.11011388165405",
     "down": "-1260",
-    "up": "+1290"
+    "up": "+1290",
+    "access": [
+      "Bus"
+    ]
   },
   "Tageswanderung/816%20Vaud.html": {
     "duration": "4 hours 20",
@@ -4397,7 +5959,10 @@
     "link": "https://wandersite.ch/Tageswanderung/816%20Vaud.html",
     "longitude": "6.837792395461851",
     "down": "-820",
-    "up": "+530"
+    "up": "+530",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/817_Fribourg.html": {
     "duration": "4 hours 10",
@@ -4408,7 +5973,11 @@
     "link": "https://wandersite.ch/Tageswanderung/817_Fribourg.html",
     "longitude": "7.069441185470609",
     "down": "-150",
-    "up": "+200"
+    "up": "+200",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/819%20Nordwestschweiz.html": {
     "duration": "4 hours 20",
@@ -4419,7 +5988,12 @@
     "link": "https://wandersite.ch/Tageswanderung/819%20Nordwestschweiz.html",
     "longitude": "7.027584414295556",
     "down": "-370",
-    "up": "+370"
+    "up": "+370",
+    "access": [
+      "Boat",
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/820_Fribourg.html": {
     "duration": "2 hours 50",
@@ -4430,7 +6004,11 @@
     "link": "https://wandersite.ch/Tageswanderung/820_Fribourg.html",
     "longitude": "7.118048184460563",
     "down": "-210",
-    "up": "+330"
+    "up": "+330",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/821_Fribourg.html": {
     "duration": "4 hours 30",
@@ -4441,7 +6019,10 @@
     "link": "https://wandersite.ch/Tageswanderung/821_Fribourg.html",
     "longitude": "7.190272624636182",
     "down": "-120",
-    "up": "+200"
+    "up": "+200",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/822_Vaud.html": {
     "duration": "3 hours 20",
@@ -4452,7 +6033,11 @@
     "link": "https://wandersite.ch/Tageswanderung/822_Vaud.html",
     "longitude": "6.795502031216257",
     "down": "-470",
-    "up": "+120"
+    "up": "+120",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/823_Vaud.html": {
     "duration": "4 hours 30",
@@ -4463,7 +6048,10 @@
     "link": "https://wandersite.ch/Tageswanderung/823_Vaud.html",
     "longitude": "6.631404145050001",
     "down": "-250",
-    "up": "+270"
+    "up": "+270",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/824_waadt.html": {
     "duration": "3 hours 0",
@@ -4474,7 +6062,11 @@
     "link": "https://wandersite.ch/Tageswanderung/824_waadt.html",
     "longitude": "6.632260598552287",
     "down": "-170",
-    "up": "+260"
+    "up": "+260",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/840_Glarus.html": {
     "duration": "3 hours 30",
@@ -4485,7 +6077,11 @@
     "link": "https://wandersite.ch/Tageswanderung/840_Glarus.html",
     "longitude": "9.124905258485791",
     "down": "-990",
-    "up": "+430"
+    "up": "+430",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/841_Glarus.html": {
     "duration": "3 hours 15",
@@ -4496,7 +6092,10 @@
     "link": "https://wandersite.ch/Tageswanderung/841_Glarus.html",
     "longitude": "8.99368249066159",
     "down": "-470",
-    "up": "+470"
+    "up": "+470",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/842_Glarus.html": {
     "duration": "2 hours 40",
@@ -4507,10 +6106,14 @@
     "link": "https://wandersite.ch/Tageswanderung/842_Glarus.html",
     "longitude": "9.069568051264012",
     "down": "-70",
-    "up": "+40"
+    "up": "+40",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/843_glarus.html": {
-    "duration": "0 hour 40",
+    "duration": "0 hour 25",
     "latitude": "46.92199432636913",
     "name": "Elm - Tschinglen-Schlucht - Firstboden - Nideren / Elm",
     "difficulty": "Easy",
@@ -4518,7 +6121,11 @@
     "link": "https://wandersite.ch/Tageswanderung/843_glarus.html",
     "longitude": "9.173061000741493",
     "down": "-5",
-    "up": "+90"
+    "up": "+90",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/844_Glarus.html": {
     "duration": "3 hours 30",
@@ -4529,7 +6136,10 @@
     "link": "https://wandersite.ch/Tageswanderung/844_Glarus.html",
     "longitude": "8.98454445457146",
     "down": "-760",
-    "up": "+170"
+    "up": "+170",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/871_Zug.html": {
     "duration": "3 hours 30",
@@ -4540,7 +6150,11 @@
     "link": "https://wandersite.ch/Tageswanderung/871_Zug.html",
     "longitude": "8.576815043127013",
     "down": "-370",
-    "up": "+510"
+    "up": "+510",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/872_Luzern.html": {
     "duration": "3 hours 20",
@@ -4551,7 +6165,11 @@
     "link": "https://wandersite.ch/Tageswanderung/872_Luzern.html",
     "longitude": "8.406557104577368",
     "down": "-400",
-    "up": "+480"
+    "up": "+480",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/873_schwyz.html": {
     "duration": "3 hours 10",
@@ -4562,7 +6180,11 @@
     "link": "https://wandersite.ch/Tageswanderung/873_schwyz.html",
     "longitude": "8.722842249323612",
     "down": "-300",
-    "up": "+540"
+    "up": "+540",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/874_luzern.html": {
     "duration": "3 hours 20",
@@ -4573,7 +6195,11 @@
     "link": "https://wandersite.ch/Tageswanderung/874_luzern.html",
     "longitude": "8.40180590848876",
     "down": "-370",
-    "up": "+440"
+    "up": "+440",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/875_Luzern.html": {
     "duration": "1 hour 30",
@@ -4584,7 +6210,11 @@
     "link": "https://wandersite.ch/Tageswanderung/875_Luzern.html",
     "longitude": "8.251161732795913",
     "down": "-480",
-    "up": "+110"
+    "up": "+110",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/875a_Luzern.html": {
     "duration": "2 hours 45",
@@ -4595,7 +6225,10 @@
     "link": "https://wandersite.ch/Tageswanderung/875a_Luzern.html",
     "longitude": "8.277933274453012",
     "down": "-490",
-    "up": "+500"
+    "up": "+500",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/876_Zentralschweiz.html": {
     "duration": "3 hours 50",
@@ -4606,7 +6239,11 @@
     "link": "https://wandersite.ch/Tageswanderung/876_Zentralschweiz.html",
     "longitude": "8.505994095957055",
     "down": "-515",
-    "up": "+515"
+    "up": "+515",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/950_Graubuenden.html": {
     "duration": "2 hours 50",
@@ -4617,7 +6254,11 @@
     "link": "https://wandersite.ch/Tageswanderung/950_Graubuenden.html",
     "longitude": "10.386773722838079",
     "down": "-470",
-    "up": "+130"
+    "up": "+130",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/951_Graubuenden.html": {
     "duration": "2 hours 10",
@@ -4628,7 +6269,12 @@
     "link": "https://wandersite.ch/Tageswanderung/951_Graubuenden.html",
     "longitude": "9.179834898555075",
     "down": "-180",
-    "up": "+230"
+    "up": "+230",
+    "access": [
+      "AerialLift",
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/952_Graubuenden.html": {
     "duration": "4 hours 0",
@@ -4639,7 +6285,11 @@
     "link": "https://wandersite.ch/Tageswanderung/952_Graubuenden.html",
     "longitude": "9.694182577172995",
     "down": "-590",
-    "up": "+620"
+    "up": "+620",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/953_Graubuenden.html": {
     "duration": "4 hours 0",
@@ -4650,7 +6300,11 @@
     "link": "https://wandersite.ch/Tageswanderung/953_Graubuenden.html",
     "longitude": "9.576393200088827",
     "down": "-670",
-    "up": "+670"
+    "up": "+670",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/955_Graubuenden.html": {
     "duration": "5 hours 0",
@@ -4661,7 +6315,11 @@
     "link": "https://wandersite.ch/Tageswanderung/955_Graubuenden.html",
     "longitude": "9.813891090767576",
     "down": "-1000",
-    "up": "+240"
+    "up": "+240",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/956_Graubuenden.html": {
     "duration": "2 hours 50",
@@ -4672,7 +6330,11 @@
     "link": "https://wandersite.ch/Tageswanderung/956_Graubuenden.html",
     "longitude": "9.546677496879836",
     "down": "-260",
-    "up": "+160"
+    "up": "+160",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/957_Graubuenden.html": {
     "duration": "3 hours 40",
@@ -4683,7 +6345,11 @@
     "link": "https://wandersite.ch/Tageswanderung/957_Graubuenden.html",
     "longitude": "9.554036792034017",
     "down": "-230",
-    "up": "+220"
+    "up": "+220",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/958_Graubuenden.html": {
     "duration": "5 hours 0",
@@ -4694,7 +6360,11 @@
     "link": "https://wandersite.ch/Tageswanderung/958_Graubuenden.html",
     "longitude": "9.880259671862357",
     "down": "-910",
-    "up": "+760"
+    "up": "+760",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/959_Graubuenden.html": {
     "duration": "5 hours 30",
@@ -4705,7 +6375,10 @@
     "link": "https://wandersite.ch/Tageswanderung/959_Graubuenden.html",
     "longitude": "9.8426452940639",
     "down": "-720",
-    "up": "+720"
+    "up": "+720",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/960_Graubuenden.html": {
     "duration": "5 hours 0",
@@ -4716,7 +6389,10 @@
     "link": "https://wandersite.ch/Tageswanderung/960_Graubuenden.html",
     "longitude": "10.019611689031587",
     "down": "-900",
-    "up": "+340"
+    "up": "+340",
+    "access": [
+      "Train"
+    ]
   },
   "Tageswanderung/961_Graubuenden.html": {
     "duration": "8 hours 0",
@@ -4727,7 +6403,11 @@
     "link": "https://wandersite.ch/Tageswanderung/961_Graubuenden.html",
     "longitude": "10.362036564108234",
     "down": "-1490",
-    "up": "+1490"
+    "up": "+1490",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/962_graubuenden.html": {
     "duration": "2 hours 45",
@@ -4738,7 +6418,11 @@
     "link": "https://wandersite.ch/Tageswanderung/962_graubuenden.html",
     "longitude": "9.110266461597952",
     "down": "-400",
-    "up": "+300"
+    "up": "+300",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/963_Graubuenden.html": {
     "duration": "3 hours 50",
@@ -4749,7 +6433,11 @@
     "link": "https://wandersite.ch/Tageswanderung/963_Graubuenden.html",
     "longitude": "9.276757161363426",
     "down": "-780",
-    "up": "+340"
+    "up": "+340",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Tageswanderung/964_graubuenden.html": {
     "duration": "3 hours 0",
@@ -4760,7 +6448,11 @@
     "link": "https://wandersite.ch/Tageswanderung/964_graubuenden.html",
     "longitude": "9.497515168006556",
     "down": "-270",
-    "up": "+290"
+    "up": "+290",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Winterwandern/W32_Winter_GR.html": {
     "duration": "3 hours 15",
@@ -4771,7 +6463,11 @@
     "link": "https://wandersite.ch/Winterwandern/W32_Winter_GR.html",
     "longitude": "9.402121652951337",
     "down": "-485",
-    "up": "+445"
+    "up": "+445",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Winterwandern/W37_Winter_BE.html": {
     "duration": "3 hours 30",
@@ -4782,7 +6478,11 @@
     "link": "https://wandersite.ch/Winterwandern/W37_Winter_BE.html",
     "longitude": "7.4992826023110535",
     "down": "-280",
-    "up": "+400"
+    "up": "+400",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   },
   "Winterwandern/W38_Winter_SO.html": {
     "duration": "3 hours 0",
@@ -4793,6 +6493,10 @@
     "link": "https://wandersite.ch/Winterwandern/W38_Winter_SO.html",
     "longitude": "7.58011243684381",
     "down": "-550",
-    "up": "+380"
+    "up": "+380",
+    "access": [
+      "Bus",
+      "Train"
+    ]
   }
 }

@@ -33,24 +33,49 @@
             <input type="checkbox" id="roundtrip" class="checkbox-roundtrip">
             <label for="roundtrip">Round-trip</label>
         </span><br>
-        <span>
-            <input type="checkbox" id="easy" class="checkbox" checked>
-            <label for="easy"><img id="easy-rando" src="favicon.png" alt="easy"/></label>
-        </span>
+        Difficulty: <span id="difficulty-choice">
+            <span>
+                <input type="checkbox" id="easy" class="checkbox" checked>
+                <label for="easy"><img id="easy-rando" src="favicon.png" alt="easy"/></label>
+            </span>
 
-        <span>
-            <input type="checkbox" id="medium" class="checkbox" checked>
-            <label for="medium"><img id="medium-rando" src="favicon.png" alt="medium"/></label>
-        </span>
+            <span>
+                <input type="checkbox" id="medium" class="checkbox" checked>
+                <label for="medium"><img id="medium-rando" src="favicon.png" alt="medium"/></label>
+            </span>
 
-        <span>
-            <input type="checkbox" id="sportive" class="checkbox" checked>
-            <label for="sportive"><img id=sportive-rando src="favicon.png" alt="sportive"/></label>
-        </span>
+            <span>
+                <input type="checkbox" id="sportive" class="checkbox" checked>
+                <label for="sportive"><img id=sportive-rando src="favicon.png" alt="sportive"/></label>
+            </span>
 
-        <span>
-            <input type="checkbox" id="hard" class="checkbox" checked>
-            <label for="hard"><img id="hard-rando" src="favicon.png" alt="hard"/></label>
+            <span>
+                <input type="checkbox" id="hard" class="checkbox" checked>
+                <label for="hard"><img id="hard-rando" src="favicon.png" alt="hard"/></label>
+            </span>
+        </span>
+        <br>
+        Access: <span id="access-choice">
+            <span>
+                <input type="checkbox" id="Train" class="checkbox" checked>
+                <label for="Train">🚂</label>
+            </span>
+
+
+            <span>
+                <input type="checkbox" id="AerialLift" class="checkbox" checked>
+                <label for="AerialLift">🚡</label>
+            </span>
+
+            <span>
+                <input type="checkbox" id="Bus" class="checkbox" checked>
+                <label for="Bus">🚌</label>
+            </span>
+
+            <span>
+                <input type="checkbox" id="Car" class="checkbox" checked>
+                <label for="Car">🚗</label>
+            </span>
         </span>
     </div>
     <div id="tableContainer">
@@ -64,6 +89,18 @@
     <div id="mapid"></div>
 </div>
 <script>
+    const EMOJIS = {
+        "Train": "🚂",
+        "Car": "🚗",
+        "AerialLift": "🚡",
+        "Bus": "🚌",
+    }
+    const REV_EMOJI = {
+        "🚂": "Train",
+        "🚗": "Car",
+        "🚡": "AerialLift",
+        "🚌": "Bus",
+    }
     const columns = [
         {
             "id": "name",
@@ -118,6 +155,14 @@
             "id": "down",
             "title": "↘",
             "render": $.fn.dataTable.render.number(' ', ',', 0, '', ' meters')
+        }, {
+            "id": "access",
+            "title": "Access",
+            "render": {
+            _: function(val) {
+                    return val.map(a=>EMOJIS[a]).join(" ");
+                }
+            }
         },
     ];
     $(document).ready(function () {
@@ -273,7 +318,16 @@
         // roundtripFilter = watch(roundtripFilter);
         jQuery.fn.dataTableExt.afnFiltering.push(roundtripFilter);
 
+        accessFilter = function (oSettings, aData, iDataIndex) {
+            let access = aData[8];
+            console.log({access})
+            return access.split(" ").every(a=>!a || document.querySelector("#"+REV_EMOJI[a]).checked);
+        }
+        // accessFilter = watch(accessFilter);
+        jQuery.fn.dataTableExt.afnFiltering.push(accessFilter);
+
     });
+
 
 </script>
 </body>
