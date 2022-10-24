@@ -82,7 +82,7 @@
             <input type="radio" name="lang" value="de" id="lang-de"><label for="lang-de">🇩🇪</label>
         </span>
         <span>
-            <input type="radio" name="lang" value="en" id="lang-en"><label for="lang-en" checked>🇬🇧</label>
+            <input type="radio" name="lang" value="en" id="lang-en" checked><label for="lang-en">🇬🇧</label>
         </span>
         <span>
             <input type="radio" name="lang" value="fr" id="lang-fr"><label for="lang-fr">🇫🇷</label>
@@ -114,6 +114,13 @@
         "🚡": "AerialLift",
         "🚌": "Bus",
     }
+    const translations = {
+        'de': '//cdn.datatables.net/plug-ins/1.12.1/i18n/de-DE.json',
+        'fr': '//cdn.datatables.net/plug-ins/1.12.1/i18n/fr-FR.json',
+        'it': '//cdn.datatables.net/plug-ins/1.12.1/i18n/it-IT.json',
+        'en': '//cdn.datatables.net/plug-ins/1.12.1/i18n/en-GB.json',
+    };
+
     const columns = [
         {
             "id": "name",
@@ -239,11 +246,16 @@
         fetch("randos.json").then(r => r.json()).then(data_as_json => {
             const data = Object.values(data_as_json).map(row => columns.map(col => row[col["id"]]));
             window.data_as_json = data_as_json;
+            let lang = document.querySelector('input[name="lang"]:checked');
+            lang = lang === null ? "de" : lang.value;
             window.table = $('#randos').DataTable({
                 data: data,
                 columns: columns,
                 "lengthMenu": [[5, 10, 25, 50, -1], [5, 10, 25, 50, "All"]],
                 "pageLength": 10,
+                language: {
+                    url: translations[lang] || 'dataTables.english.json'
+                }
             });
             Object.values(data_as_json).forEach(rando => {
                 // Change slightly the coordinate in order to reduce the number of collisions

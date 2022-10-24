@@ -98,8 +98,8 @@ input.checkbox {
 }
 
 input[type='radio']:not(:checked) ~ label {
-    filter: grayscale(100%);
-    opacity: 0.4;
+    filter: grayscale(50%);
+    opacity: 0.2;
 }
 
 input[type='radio'] {
