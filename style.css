@@ -133,6 +133,24 @@ input[type='radio'] {
   display: inline-block;
 }
 
+.flip {
+  transform: scale(-1, 1);
+  display: inline-block;
+}
+
+#minDisplay, #maxDisplay, #zrhDistMinDisplay, #zrhDistMaxDisplay  {
+  display: inline-block;
+  text-align: left;
+}
+
+#minDisplay, #maxDisplay {
+  min-width: 40px;
+}
+
+#zrhDistMinDisplay, #zrhDistMaxDisplay {
+  min-width: 60px;
+}
+
 #access-choice {
   vertical-align: middle;
   display: inline-block;

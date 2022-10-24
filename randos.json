@@ -168,8 +168,8 @@
     "down": "-400",
     "up": "+460",
     "access": [
-      "AerialLift",
       "Bus",
+      "AerialLift",
       "Train"
     ],
     "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=20&X=712555&Y=193893&layers=Wanderland&trackId=3176993"
@@ -280,8 +280,8 @@
     "down": "-340",
     "up": "+710",
     "access": [
-      "AerialLift",
       "Bus",
+      "AerialLift",
       "Train"
     ],
     "map": "https://map.schweizmobil.ch/?lang=de&bgLayer=pk&season=summer&resolution=2.5&E=2754986&N=1184916&photos=yes&logo=yes&detours=yes&layers=Wanderland%2CStation&trackId=1916616028"
@@ -313,8 +313,8 @@
     "down": "-900",
     "up": "+1250",
     "access": [
-      "AerialLift",
       "Bus",
+      "AerialLift",
       "Train"
     ],
     "map": "https://www.schweizmobil.ch/de/wanderland/routen/route/etappe-01256.html"
@@ -330,8 +330,8 @@
     "down": "-360",
     "up": "+790",
     "access": [
-      "AerialLift",
       "Bus",
+      "AerialLift",
       "Train"
     ],
     "map": "https://map.wanderland.ch/?layers=Wanderland,Wanderwegnetz&bgLayer=pk&scale=100000&X=738352.4379045&Y=191635.1101945&trackId=1888249&lang=de"
@@ -395,8 +395,8 @@
     "down": "-800",
     "up": "+600",
     "access": [
-      "Bus",
       "Car",
+      "Bus",
       "Train"
     ],
     "map": "https://www.mapplus.ch/?lang=de&basemap=swisstopo_lk&blop=0.8&x=2731805.0523143&y=1161481.4361605&zl=4&hl=0&layers=swisstopo_wanderwege|hiking_mapplus&theme=4&subtheme=outdoor"
@@ -506,8 +506,8 @@
     "down": "-900",
     "up": "+530",
     "access": [
-      "AerialLift",
       "Bus",
+      "AerialLift",
       "Train"
     ],
     "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=10&season=summer&E=2735062&N=1190499&logo=no&layers=Wanderland&trackId=5818134"
@@ -555,8 +555,8 @@
     "down": "-840",
     "up": "+390",
     "access": [
-      "AerialLift",
       "Bus",
+      "AerialLift",
       "Train"
     ],
     "map": "https://map.schweizmobil.ch/?lang=de&bgLayer=pk&season=summer&resolution=10&E=2782144&N=1151166&photos=yes&logo=yes&layers=Wanderland&trackId=7728748"
@@ -572,8 +572,8 @@
     "down": "-1080",
     "up": "+640",
     "access": [
-      "AerialLift",
       "Bus",
+      "AerialLift",
       "Train"
     ],
     "map": "https://map.schweizmobil.ch/?lang=de&bgLayer=pk&season=summer&resolution=12.75&E=2782723&N=1200852&photos=yes&logo=yes&layers=Wanderland&trackId=7356321"
@@ -668,8 +668,8 @@
     "down": "-630",
     "up": "+630",
     "access": [
-      "AerialLift",
       "Bus",
+      "AerialLift",
       "Train"
     ],
     "map": "https://map.schweizmobil.ch/?lang=de&bgLayer=pk&season=summer&resolution=3.65&E=2763935&N=1209518&photos=yes&logo=yes&detours=yes&layers=Wanderland%2CStation&trackId=478583771"
@@ -747,8 +747,8 @@
     "down": "-290",
     "up": "+160",
     "access": [
-      "AerialLift",
       "Bus",
+      "AerialLift",
       "Train"
     ],
     "map": "https://map.wanderland.ch/?trackId=1245846&layers=WanderlandRoutenNational,WanderlandRoutenRegional,WanderlandRoutenLokal,Wanderwegnetz&karte=0.75"
@@ -925,9 +925,9 @@
     "down": "-0",
     "up": "+1010",
     "access": [
-      "AerialLift",
       "Boat",
       "Bus",
+      "AerialLift",
       "Train"
     ],
     "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=5&season=summer&E=2676747&N=1210568&layers=Wanderland&trackId=4260526"
@@ -959,9 +959,9 @@
     "down": "-380",
     "up": "+650",
     "access": [
-      "AerialLift",
       "Boat",
       "Bus",
+      "AerialLift",
       "Train"
     ],
     "map": "https://www.mapplus.ch/?lang=de&basemap=swisstopo_lk&blop=0.8&x=2683547.892273&y=1209417.8862121&zl=4&hl=0&layers=swisstopo_wanderwege|hiking_mapplus&theme=4&subtheme=outdoor"
@@ -977,8 +977,8 @@
     "down": "-150",
     "up": "+1230",
     "access": [
-      "AerialLift",
       "Boat",
+      "AerialLift",
       "Train"
     ],
     "map": "https://www.mapplus.ch/frame.php?map=&marker=no&x=683342&y=208719&zl=4&layers=hiking&swisstopo=1"
@@ -994,8 +994,8 @@
     "down": "-1540",
     "up": "+640",
     "access": [
-      "AerialLift",
       "Bus",
+      "AerialLift",
       "Train"
     ],
     "map": "https://map.schweizmobil.ch/?lang=de&bgLayer=pk&season=summer&resolution=10&E=2667170&N=1183301&photos=yes&logo=no&layers=Wanderland&trackId=6847524"
@@ -1011,8 +1011,8 @@
     "down": "-450",
     "up": "+1450",
     "access": [
-      "AerialLift",
       "Bus",
+      "AerialLift",
       "Train"
     ],
     "map": "https://map.wanderland.ch/?lang=de&p&etappe=55.06"
@@ -1028,8 +1028,8 @@
     "down": "-400",
     "up": "+510",
     "access": [
-      "AerialLift",
       "Bus",
+      "AerialLift",
       "Train"
     ],
     "map": "https://map.wanderland.ch/?layers=Wanderland,Wanderwegnetz&bgLayer=pk&scale=100000&X=701593.3611135&Y=189340.739836&trackId=1792972&lang=de"
@@ -1045,8 +1045,8 @@
     "down": "-790",
     "up": "+790",
     "access": [
-      "AerialLift",
       "Bus",
+      "AerialLift",
       "Train"
     ],
     "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=10&season=summer&E=2692052&N=1181394&layers=Wanderland&trackId=4835971"
@@ -1062,8 +1062,8 @@
     "down": "-710",
     "up": "+620",
     "access": [
-      "AerialLift",
       "Bus",
+      "AerialLift",
       "Train"
     ],
     "map": "https://www.schweizmobil.ch/de/wanderland/regionale-routen/route/etappe-01630.html"
@@ -1095,8 +1095,8 @@
     "down": "-280",
     "up": "+460",
     "access": [
-      "AerialLift",
       "Bus",
+      "AerialLift",
       "Train"
     ],
     "map": "https://map.wanderland.ch/?layers=Wanderland,Wanderwegnetz&bgLayer=pk&scale=100000&X=694038.853172&Y=195109.798071&trackId=2107300&lang=de"
@@ -1112,8 +1112,8 @@
     "down": "-640",
     "up": "+180",
     "access": [
-      "AerialLift",
       "Bus",
+      "AerialLift",
       "Train"
     ],
     "map": "https://map.wanderland.ch/?lang=de&p&route=587"
@@ -1145,9 +1145,9 @@
     "down": "-220",
     "up": "+660",
     "access": [
-      "AerialLift",
       "Boat",
       "Bus",
+      "AerialLift",
       "Train"
     ],
     "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=5&X=673980&Y=197540&layers=Wanderland&trackId=3210068"
@@ -1195,8 +1195,8 @@
     "down": "-870",
     "up": "+450",
     "access": [
-      "AerialLift",
       "Bus",
+      "AerialLift",
       "Train"
     ],
     "map": "https://www.mapplus.ch/frame.php?x=694790&y=190223&zl=4&layers=hiking&swisstopo=1"
@@ -1228,8 +1228,8 @@
     "down": "-400",
     "up": "+420",
     "access": [
-      "AerialLift",
       "Bus",
+      "AerialLift",
       "Train"
     ],
     "map": "https://www.wanderland.ch/de/lokale-routen/route-0827.html"
@@ -1245,8 +1245,8 @@
     "down": "-1150",
     "up": "+540",
     "access": [
-      "AerialLift",
       "Bus",
+      "AerialLift",
       "Train"
     ],
     "map": "https://www.mapplus.ch/frame.php?map=&marker=no&x=714464&y=204893&zl=4&layers=cablecar%7Chiking&swisstopo=1"
@@ -1373,8 +1373,8 @@
     "down": "-900",
     "up": "+300",
     "access": [
-      "AerialLift",
       "Bus",
+      "AerialLift",
       "Train"
     ],
     "map": "https://map.schweizmobil.ch/?language=de&N=1207443&E=2704162&resolution=3.85&lang=de&photos=yes&logo=yes&detours=yes&season=summer&bgLayer=pk&layers=Wanderland%2CStation&trackId=1020520459"
@@ -1390,8 +1390,8 @@
     "down": "-700",
     "up": "+1560",
     "access": [
-      "AerialLift",
       "Bus",
+      "AerialLift",
       "Train"
     ],
     "map": "https://www.mapplus.ch/frame.php?map=&marker=no&x=660495&y=181453&zl=4&layers=cablecar%7Chiking&swisstopo=1"
@@ -1452,8 +1452,8 @@
     "down": "-670",
     "up": "+560",
     "access": [
-      "AerialLift",
       "Bus",
+      "AerialLift",
       "Train"
     ],
     "map": "https://map.schweizmobil.ch/?lang=de&land=wanderland&route=573&bgLayer=pk&layers=Wanderland&season=summer&resolution=10&E=2674858&N=1189463"
@@ -1469,8 +1469,8 @@
     "down": "-350",
     "up": "+620",
     "access": [
-      "AerialLift",
       "Bus",
+      "AerialLift",
       "Train"
     ],
     "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=20&X=675408&Y=195168&layers=Wanderland&trackId=3213562"
@@ -1613,8 +1613,8 @@
     "down": "-380",
     "up": "+10",
     "access": [
-      "AerialLift",
       "Bus",
+      "AerialLift",
       "Train"
     ],
     "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=5&season=summer&E=2697573&N=1205203&logo=yes&layers=Wanderland%2CStation&trackId=5944688"
@@ -1787,8 +1787,8 @@
     "down": "-720",
     "up": "+720",
     "access": [
-      "AerialLift",
       "Bus",
+      "AerialLift",
       "Train"
     ],
     "map": "https://map.geo.admin.ch/?selectedNode=node_ch.swisstopo.vec25-wander1&Y=700595&X=181795&zoom=6&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.vec25-wander&layers_opacity=1&layers_visibility=true"
@@ -1837,8 +1837,8 @@
     "down": "-120",
     "up": "+1150",
     "access": [
-      "AerialLift",
       "Bus",
+      "AerialLift",
       "Train"
     ],
     "map": "https://www.mapplus.ch/frame.php?map=&marker=no&x=665941&y=183980&zl=4&layers=cablecar%7Chiking&swisstopo=1"
@@ -1901,8 +1901,8 @@
     "down": "-180",
     "up": "+810",
     "access": [
-      "AerialLift",
       "Bus",
+      "AerialLift",
       "Train"
     ],
     "map": "https://map.wanderland.ch/?layers=wanderland,Wanderwegnetz&bgLayer=pk&scale=499998.99999999994&X=689454.90375&Y=176850.3853935&trackId=1487188&lang=de"
@@ -1981,8 +1981,8 @@
     "down": "-510",
     "up": "+420",
     "access": [
-      "AerialLift",
       "Bus",
+      "AerialLift",
       "Train"
     ],
     "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=10&X=699000&Y=207930&layers=Wanderland&trackId=2793468"
@@ -2045,8 +2045,8 @@
     "down": "-590",
     "up": "+325",
     "access": [
-      "AerialLift",
       "Bus",
+      "AerialLift",
       "Train"
     ],
     "map": "https://www.mapplus.ch/frame.php?map=&marker=no&x=696175&y=184043&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
@@ -2062,9 +2062,9 @@
     "down": "-660",
     "up": "+360",
     "access": [
-      "AerialLift",
       "Boat",
       "Bus",
+      "AerialLift",
       "Train"
     ],
     "map": "https://map.wanderland.ch/?lang=de&p&route=568"
@@ -2080,8 +2080,8 @@
     "down": "-80",
     "up": "+390",
     "access": [
-      "AerialLift",
       "Bus",
+      "AerialLift",
       "Train"
     ],
     "map": "https://map.wanderland.ch/?trackId=238327&layers=WanderlandRoutenNational,WanderlandRoutenRegional,WanderlandRoutenLokal,Wanderwegnetz&karte=0.75"
@@ -2112,8 +2112,8 @@
     "down": "-1040",
     "up": "+480",
     "access": [
-      "AerialLift",
       "Bus",
+      "AerialLift",
       "Train"
     ],
     "map": "https://map.geo.admin.ch/?selectedNode=node_ch.swisstopo.vec25-wander1&Y=700595&X=181795&zoom=6&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.vec25-wander&layers_opacity=1&layers_visibility=true"
@@ -2159,8 +2159,8 @@
     "down": "-360",
     "up": "+220",
     "access": [
-      "AerialLift",
       "Bus",
+      "AerialLift",
       "Train"
     ],
     "map": "https://map.wanderland.ch/?layers=wanderland,Wanderwegnetz&bgLayer=pk&scale=49999.9&X=643909.077417&Y=133957.67&trackId=1397788&lang=de"
@@ -2208,8 +2208,8 @@
     "down": "-130",
     "up": "+1040",
     "access": [
-      "AerialLift",
       "Bus",
+      "AerialLift",
       "Train"
     ],
     "map": "https://map.wanderland.ch/?trackId=230435&layers=WanderlandRoutenNational,WanderlandRoutenRegional,WanderlandRoutenLokal,Wanderwegnetz&karte=0.75"
@@ -2240,8 +2240,8 @@
     "down": "-850",
     "up": "+420",
     "access": [
-      "AerialLift",
       "Bus",
+      "AerialLift",
       "Train"
     ],
     "map": "https://map.wanderland.ch/?lang=de&p=&etappe=39.02&wanderwegnetz=all&bgLayer=pk&season=summer&resolution=5&E=2648417&N=1140017&layers=Wanderland&trackId=4901523"
@@ -2415,8 +2415,8 @@
     "down": "-530",
     "up": "+880",
     "access": [
-      "AerialLift",
       "Bus",
+      "AerialLift",
       "Train"
     ],
     "map": "https://www.mapplus.ch/frame.php?x=628822&y=115183&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
@@ -2448,8 +2448,8 @@
     "down": "-710",
     "up": "+880",
     "access": [
-      "AerialLift",
       "Bus",
+      "AerialLift",
       "Train"
     ],
     "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=5&season=summer&E=2643211&N=1137206&layers=Wanderland&trackId=4902907"
@@ -2702,8 +2702,8 @@
     "down": "-780",
     "up": "+450",
     "access": [
-      "AerialLift",
       "Bus",
+      "AerialLift",
       "Train"
     ],
     "map": "https://www.mapplus.ch/frame.php?x=635911&y=116827&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
@@ -3800,8 +3800,8 @@
     "down": "-0",
     "up": "+840",
     "access": [
-      "AerialLift",
       "Bus",
+      "AerialLift",
       "Train"
     ],
     "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=10&X=635630&Y=159170&layers=Wanderland&highlight=WanderlandEtappenNational*1.12"
@@ -3908,8 +3908,8 @@
     "down": "-670",
     "up": "+680",
     "access": [
-      "AerialLift",
       "Bus",
+      "AerialLift",
       "Train"
     ],
     "map": "https://www.mapplus.ch/?lang=de&basemap=swisstopo_lk&blop=0.8&x=2603453&y=1172732&zl=5&hl=0&layers=swisstopo_wanderwege|hiking_mapplus&theme=4&subtheme=outdoor"
@@ -4321,8 +4321,8 @@
     "down": "-360",
     "up": "+410",
     "access": [
-      "AerialLift",
       "Bus",
+      "AerialLift",
       "Train"
     ],
     "map": "https://map.wanderland.ch/?trackId=136322&layers=Wanderwegnetz&karte=0.75"
@@ -4562,8 +4562,8 @@
     "down": "-910",
     "up": "+910",
     "access": [
-      "Bus",
       "Car",
+      "Bus",
       "Train"
     ],
     "map": "https://map.schweizmobil.ch/?lang=de&bgLayer=pk&season=summer&resolution=10.79&E=2607430&N=1145947&photos=yes&logo=yes&detours=yes&layers=Wanderland%2CStation&trackId=1276621507"
@@ -4579,8 +4579,8 @@
     "down": "-0",
     "up": "+750",
     "access": [
-      "AerialLift",
       "Bus",
+      "AerialLift",
       "Train"
     ],
     "map": "https://www.mapplus.ch/frame.php?x=609536&y=145847&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
@@ -4596,8 +4596,8 @@
     "down": "-130",
     "up": "+20",
     "access": [
-      "AerialLift",
       "Bus",
+      "AerialLift",
       "Train"
     ],
     "map": "https://www.mapplus.ch/frame.php?map=&marker=no&x=636625&y=158641&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
@@ -4659,8 +4659,8 @@
     "down": "-70",
     "up": "+470",
     "access": [
-      "AerialLift",
       "Bus",
+      "AerialLift",
       "Train"
     ],
     "map": "https://www.mapplus.ch/frame.php?x=661940&y=177224&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
@@ -4676,8 +4676,8 @@
     "down": "-620",
     "up": "+690",
     "access": [
-      "AerialLift",
       "Bus",
+      "AerialLift",
       "Train"
     ],
     "map": "https://map.wanderland.ch/?layers=Wanderland&bgLayer=pk&X=661536&Y=180045&highlight=WanderlandEtappenNational*70.01%2CWanderlandEtappenRegional*70.01%2CWanderlandEtappenLokal*70.01%2CWanderlandEtappenHandicap*70.01%2CWanderlandRoutenRegional*70&lang=de&resolution=5&trackId=2196345"
@@ -4693,9 +4693,9 @@
     "down": "-40",
     "up": "+1400",
     "access": [
-      "AerialLift",
       "Boat",
       "Bus",
+      "AerialLift",
       "Train"
     ],
     "map": "https://www.mapplus.ch/frame.php?x=625407&y=172079&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
@@ -5024,8 +5024,8 @@
     "down": "-520",
     "up": "+580",
     "access": [
-      "AerialLift",
       "Bus",
+      "AerialLift",
       "Train"
     ],
     "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=2&X=597882&Y=231462&trackId=3121625"
@@ -5822,8 +5822,8 @@
     "down": "-310",
     "up": "+310",
     "access": [
-      "AerialLift",
       "Bus",
+      "AerialLift",
       "Train"
     ],
     "map": "https://map.schweizmobil.ch/?lang=de&bgLayer=pk&season=summer&resolution=1&E=2619826&N=1247326&photos=yes&logo=yes&layers=Station&trackId=138140446"
@@ -6077,8 +6077,8 @@
     "down": "-200",
     "up": "+200",
     "access": [
-      "AerialLift",
       "Bus",
+      "AerialLift",
       "Train"
     ],
     "map": "https://www.mapplus.ch/frame.php?map=&marker=no&x=567264&y=155242&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
@@ -6691,8 +6691,8 @@
     "down": "-180",
     "up": "+230",
     "access": [
-      "AerialLift",
       "Bus",
+      "AerialLift",
       "Train"
     ],
     "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=20&X=730924&Y=162112&layers=Wanderland&trackId=2208029"
