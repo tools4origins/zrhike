@@ -23,16 +23,21 @@
 <body>
 <div id="wrap">
     <div id="filters">
-        <label>Min. duration: <input id="min" type="range" min="0" max="9" value="0"/> <span
-                id="minDisplay">0h</span></label><br/>
-        <label>Max. duration: <input id="max" type="range" min="0" max="9" value="9"/> <span
-                id="maxDisplay">-</span></label><br/>
-        <label>Min. dist. from ZRH: <input id="zrhDistMin" type="range" min="0" max="20" value="0"/> <span
-                id="zrhDistMinDisplay">0km</span></label><br/>
-        <label>Max. dist. from ZRH: <input id="zrhDistMax" type="range" min="0" max="20" value="20"/> <span
-                id="zrhDistMaxDisplay">-</span></label><br/>
+        <label><span class="i18n">Min. duration</span>:
+            <input id="min" type="range" min="0" max="9" value="0"/>
+            <span id="minDisplay">0h</span></label><br/>
+        <label><span class="i18n">Max. duration</span>:
+            <input id="max" type="range" min="0" max="9" value="9"/>
+            <span id="maxDisplay">-</span></label><br/>
+        <label><span class="i18n">Min. dist. from ZRH</span>:
+            <input id="zrhDistMin" type="range" min="0" max="20" value="0"/>
+            <span id="zrhDistMinDisplay">0km</span></label><br/>
+        <label><span class="i18n">Max. dist. from ZRH</span>:
+            <input id="zrhDistMax" type="range" min="0" max="20" value="20"/>
+            <span id="zrhDistMaxDisplay">-</span>
+        </label><br/>
 
-        Difficulty: <span id="difficulty-choice">
+        <span class="i18n">Difficulty</span>: <span id="difficulty-choice">
             <span>
                 <input type="checkbox" id="easy" class="checkbox" checked>
                 <label for="easy"><img id="easy-rando" src="favicon.png" alt="easy"/></label>
@@ -54,7 +59,7 @@
             </span>
         </span>
         <br>
-        Access: <span id="access-choice">
+        <span class="i18n">Access</span>: <span id="access-choice">
             <span>
                 <input type="checkbox" id="Train" class="checkbox" checked>
                 <label for="Train">🚂</label>
@@ -108,27 +113,57 @@
         "AerialLift": "🚡",
         "Bus": "🚌",
     }
-    const REV_EMOJI = {
-        "🚂": "Train",
-        "🚗": "Car",
-        "🚡": "AerialLift",
-        "🚌": "Bus",
-    }
-    const translations = {
+
+    let lang = document.querySelector('input[name="lang"]:checked');
+    lang = lang === null ? "en" : lang.value;
+    const datatable_translations = {
         'de': '//cdn.datatables.net/plug-ins/1.12.1/i18n/de-DE.json',
         'fr': '//cdn.datatables.net/plug-ins/1.12.1/i18n/fr-FR.json',
         'it': '//cdn.datatables.net/plug-ins/1.12.1/i18n/it-IT.json',
         'en': '//cdn.datatables.net/plug-ins/1.12.1/i18n/en-GB.json',
     };
+    const i18n = {
+        "Min. duration": {de: "Min. Dauer", fr: "Durée min.", it: "Durata minima"},
+        "Max. duration": {de: "Max. Dauer", fr: "Durée max.", it: "Durata massima"},
+        "Duration": {de: "Dauer", fr: "Durée", it: "Durata"},
+        "Min. dist. from ZRH": {de: "Min. Entfernung von ZRH", fr: "Dist. min. de ZRH", it: "Distanza minima da ZRH"},
+        "Max. dist. from ZRH": {de: "Max. Entfernung von ZRH", fr: "Dist. max. de ZRH", it: "Distanza massima da ZRH"},
+        "Name": {de: "Wanderung", fr: "Nom", it: "nome"},
+        "Difficulty": {de: "Schwierigkeitsgrad", fr: "Difficulté", it: "Difficoltà"},
+        "Access": {de: "Karte", fr: "Accès", it: "Accesso"},
+        "Map": {de: "Wanderung", fr: "Carte", it: "mappa"},
+        "Easy": {de: "Einfach", fr: "Facile", it: "Facile"},
+        "Medium": {de: "Mittel", fr: "Moyen", it: "Medio"},
+        "Sportive": {de: "Sportlich", fr: "Sportive", it: "Sportivo"},
+        "Hard": {de: "Hart", fr: "Difficile", it: "Duro"},
+        "hours": {de: "h", fr: "heures", it: "ore"},
+        "hour": {de: "h", fr: "heure", it: "ora"},
+        "meters": {de: "Meter", fr: "mètres", it: "metri"},
+    };
+
+    translate = (text) => {
+        if (lang == "en") {
+            return text
+        }
+        if (!i18n[text] || !i18n[text][lang]) {
+            console.warn(text, lang);
+            return text;
+        }
+        return i18n[text][lang];
+    }
+    Array(...document.querySelectorAll(".i18n")).forEach(s => {
+        s.innerText = translate(s.innerText);;
+        s.classList.remove('.18n')
+    });
+
+
 
     const columns = [
         {
             "id": "name",
-            "title": "Name",
+            "title": translate("Name"),
             render: function (value, _, context) {
-                let lang = document.querySelector('input[name="lang"]:checked');
-                lang = lang === null ? "de" : lang.value;
-                return "<a href='" + translate(context[1], "de", lang) + "'>" + value + "</a>"
+                return "<a href='" + translate_url(context[1], "de", lang) + "'>" + value + "</a>"
             }
         }, {
             "id": "link",
@@ -144,10 +179,10 @@
             visible: false,
         }, {
             "id": "duration",
-            "title": "Duration",
+            "title": translate("Duration"),
             render: {
                 _: function (val) {
-                    return val.replace("aller-retour", "AR")
+                    return val.replace("hours", translate("hours")).replace("hour", translate("hour"))
                 },
                 sort: function (val) {
                     return (
@@ -159,8 +194,9 @@
             }
         }, {
             "id": "difficulty",
-            "title": "Difficulty",
+            "title": translate("Difficulty"),
             render: {
+                _: (val) => translate(val),
                 sort: function (val) {
                     let difficulties = ["Easy", "Medium", "Sportive", "Hard"];
                     if (difficulties.indexOf(val) == -1) {
@@ -172,22 +208,20 @@
         }, {
             "id": "up",
             "title": "↗",
-            "render": $.fn.dataTable.render.number(' ', ',', 0, '', ' meters')
+            "render": $.fn.dataTable.render.number(' ', ',', 0, '', ' ' + translate('meters'))
         }, {
             "id": "down",
             "title": "↘",
-            "render": $.fn.dataTable.render.number(' ', ',', 0, '', ' meters')
+            "render": $.fn.dataTable.render.number(' ', ',', 0, '', ' ' + translate('meters'))
         }, {
             "id": "access",
-            "title": "Access",
-            "render": {
-            _: function(val) {
-                    return val.map(a=>EMOJIS[a]).join(" ");
-                }
+            "title": translate("Access"),
+            "render": function(val) {
+                return '<span class="flip">' + val.map(a=>EMOJIS[a]).join(" ") + '</span>';
             }
         }, {
             "id": "map",
-            "title": "Map",
+            "title": translate("Map"),
             "render": function(val) {
                 return '<a class="table-map-link" href="' + val + '">🗺️</a>'
             }
@@ -224,7 +258,7 @@
         let distance_to_zrh = function(lat, lng) { return distance_between_locations(zrh_location, [lat, lng])}
         let zrh_location = [47.3778615, 8.5381286];
 
-        translate = function(link, from, to) {
+        translate_url = function(link, from, to) {
             if (from === to) {
                 return link;
             }
@@ -246,15 +280,13 @@
         fetch("randos.json").then(r => r.json()).then(data_as_json => {
             const data = Object.values(data_as_json).map(row => columns.map(col => row[col["id"]]));
             window.data_as_json = data_as_json;
-            let lang = document.querySelector('input[name="lang"]:checked');
-            lang = lang === null ? "de" : lang.value;
             window.table = $('#randos').DataTable({
                 data: data,
                 columns: columns,
                 "lengthMenu": [[5, 10, 25, 50, -1], [5, 10, 25, 50, "All"]],
                 "pageLength": 10,
                 language: {
-                    url: translations[lang] || 'dataTables.english.json'
+                    url: datatable_translations[lang] || 'dataTables.english.json'
                 }
             });
             Object.values(data_as_json).forEach(rando => {
@@ -266,8 +298,8 @@
                     .addTo(map)
                     .bindPopup(
                         '<h5>' + rando.name + '</h5>' +
-                        '<a href="' + rando.link + '">' +
-                        rando.duration + ', ' +
+                        '<a href="' + translate_url(rando.link, 'de', lang) + '">' +
+                        rando.duration.replace('hours', translate('hours')).replace('hour', translate('hour')) + ', ' +
                         '↗' + rando.up.replace('+', '') + 'm, ' +
                         '↘' + rando.down.replace('-', '') + 'm</a>' + '<br>' +
                         '<a href="'+rando.map+'" class="popup-map-link">🗺️</a>')
@@ -297,38 +329,34 @@
                 location.reload()
             });
         });
-        watch = (f) => ((oSettings, aData, iDataIndex) => {
-            let result = f(oSettings, aData, iDataIndex);
+        watch = (f) => ((oSettings, aData, iDataIndex, aDataRaw) => {
+            let result = f(oSettings, aData, iDataIndex,aDataRaw);
             if (result===false) {
-                console.log({result, f, oSettings, aData, iDataIndex});
+                console.log({result, f, oSettings, aData, iDataIndex, aDataRaw});
             }
             return result
         });
-        durationFilter = function (oSettings, aData, iDataIndex) {
+        durationFilter = function (oSettings, aData, iDataIndex, aDataRaw) {
             let iColumn = 4;
+            const maxValue = 9;
             let iMin = document.getElementById('min').value * 1;
             let iMax = document.getElementById('max').value * 1;
-            document.getElementById('minDisplay').innerText = iMin == 9 ? '-' : iMin + 'h';
-            document.getElementById('maxDisplay').innerText = iMax == 9 ? '-' : iMax + 'h';
+            document.getElementById('minDisplay').innerText = iMin == maxValue ? '-' : iMin + 'h';
+            document.getElementById('maxDisplay').innerText = iMax == maxValue ? '-' : iMax + 'h';
 
-            if (aData[iColumn].indexOf("jour") >= 0) {
-                if (iMax !== "" && iMax < 9) {
-                    return false
-                } else {
-                    return true
-                }
+            let durationInfo = aDataRaw[iColumn].split(" ");
+            if (durationInfo.length > 3) {  // duration contains days
+                return iMax == maxValue;
             }
-
-            let durationInfo = aData[iColumn].split("hour");
-            let iVersion = parseInt(durationInfo[0].replace(/[^0-9]/g, ""));
+            let hours = parseInt(durationInfo[0]);
 
             if (iMin === "" && iMax === "") {
                 return true;
-            } else if (iMin === "" && iVersion <= iMax) {
+            } else if (iMin === "" && hours <= iMax) {
                 return true;
-            } else if (iMin <= iVersion && "" === iMax) {
+            } else if (iMin <= hours && "" === iMax) {
                 return true;
-            } else if (iMin <= iVersion && iVersion <= iMax) {
+            } else if (iMin <= hours && hours <= iMax) {
                 return true;
             }
 
@@ -337,9 +365,9 @@
         // durationFilter = watch(durationFilter);
         jQuery.fn.dataTableExt.afnFiltering.push(durationFilter);
 
-        distanceFilter = function (oSettings, aData, iDataIndex) {
-            let latitude = aData[2] * 1;
-            let longitude = aData[3] * 1;
+        distanceFilter = function (oSettings, aData, iDataIndex, aDataRaw) {
+            let latitude = aDataRaw[2] * 1;
+            let longitude = aDataRaw[3] * 1;
             let distMin = document.getElementById('zrhDistMin').value * 10;
             let distMax = document.getElementById('zrhDistMax').value * 10;
             document.getElementById('zrhDistMinDisplay').innerText = distMin + 'km';
@@ -351,10 +379,10 @@
         // distanceFilter = watch(distanceFilter);
         jQuery.fn.dataTableExt.afnFiltering.push(distanceFilter);
 
-        difficultyFilter = function (oSettings, aData, iDataIndex) {
+        difficultyFilter = function (oSettings, aData, iDataIndex, aDataRaw) {
             let iColumn = 5;
 
-            let difficulty = aData[iColumn];
+            let difficulty = aDataRaw[iColumn];
 
             if (difficulty === "Easy" && !document.querySelector("#easy").checked) {
                 return false;
@@ -371,9 +399,9 @@
         // difficultyFilter = watch(difficultyFilter);
         jQuery.fn.dataTableExt.afnFiltering.push(difficultyFilter);
 
-        accessFilter = function (oSettings, aData, iDataIndex) {
-            let access = aData[8];
-            return access.split(" ").every(a=>!a || document.querySelector("#"+REV_EMOJI[a]).checked);
+        accessFilter = function (oSettings, aData, iDataIndex, aDataRaw) {
+            let access = aDataRaw[8];
+            return access.every(a=>document.querySelector("#"+a).checked);
         }
         // accessFilter = watch(accessFilter);
         jQuery.fn.dataTableExt.afnFiltering.push(accessFilter);
