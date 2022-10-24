@@ -12,7 +12,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?map=&marker=no&x=635597&y=183297&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
   },
   "Tageswanderung/404%20Ostschweiz.html": {
     "duration": "5 hours",
@@ -27,7 +28,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?layers=wanderland,Wanderwegnetz&bgLayer=pk&scale=499998.99999999994&X=716898.652416&Y=244890.5105295&trackId=1496272&lang=de"
   },
   "Tageswanderung/417%20Ostschweiz.html": {
     "duration": "3 hours 50",
@@ -42,7 +44,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?trackId=1217900&layers=WanderlandRoutenNational,WanderlandRoutenRegional,WanderlandRoutenLokal,Wanderwegnetz&karte=0.75"
   },
   "Tageswanderung/418%20Zuercher%20Oberland.html": {
     "duration": "2 hours 30",
@@ -57,7 +60,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?trackId=1217912&layers=WanderlandRoutenNational,WanderlandRoutenRegional,WanderlandRoutenLokal,Wanderwegnetz&karte=0.75"
   },
   "Tageswanderung/422%20Zuercher%20Oberland.html": {
     "duration": "4 hours 50",
@@ -72,7 +76,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&bgLayer=pk&season=summer&resolution=18.97&E=2713140&N=1242201&photos=yes&logo=yes&detours=yes&layers=Wanderland&trackId=454279868"
   },
   "Tageswanderung/435_Schaffhausen.html": {
     "duration": "3 hours 40",
@@ -86,7 +91,8 @@
     "up": "+160",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?trackId=1219649&layers=WanderlandRoutenNational,WanderlandRoutenRegional,WanderlandRoutenLokal,Wanderwegnetz&karte=0.75"
   },
   "Tageswanderung/437_Ostschweiz.html": {
     "duration": "3 hours 20",
@@ -101,7 +107,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&bgLayer=pk&season=summer&resolution=8.93&E=2720764&N=1240239&photos=yes&logo=yes&layers=Wanderland%2CStation&trackId=1514647117"
   },
   "Tageswanderung/440_Zuercher%20Oberland.html": {
     "duration": "3 hours 50",
@@ -116,7 +123,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?layers=wanderland,Wanderwegnetz&bgLayer=pk&scale=199999.6&X=710535.5329525&Y=242701.0838585&trackId=1503763&lang=de"
   },
   "Tageswanderung/441_Zuercher%20Oberland.html": {
     "duration": "2 hours 30",
@@ -131,7 +139,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&etappe=69.01&bgLayer=pk&resolution=20&X=704269&Y=260157&layers=Wanderland&trackId=2600802"
   },
   "Tageswanderung/442_Zuercher%20Oberland.html": {
     "duration": "4 hours 20",
@@ -145,7 +154,8 @@
     "up": "+410",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=20&X=702581&Y=254399&layers=Wanderland&trackId=3138701"
   },
   "Tageswanderung/495_Urnerboden.html": {
     "duration": "3 hours 20",
@@ -161,7 +171,8 @@
       "AerialLift",
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=20&X=712555&Y=193893&layers=Wanderland&trackId=3176993"
   },
   "Tageswanderung/500_Graubuenden.html": {
     "duration": "4 hours 40",
@@ -176,7 +187,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?layers=wanderland,Wanderwegnetz,Train,Bus,Trambus,Boat,Cableway,Funicular&bgLayer=pk&scale=99999.8&X=804885.6953275&Y=141664.3008935&trackId=1466072&lang=de"
   },
   "Tageswanderung/501_Graubuenden.html": {
     "duration": "6 hours 40",
@@ -191,7 +203,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/?lang=de&basemap=swisstopo_lk&blop=1&x=2803177.6261116&y=1133443.0882596&zl=3&hl=0&layers=swisstopo_wanderwege|hiking_mapplus&theme=4&subtheme=outdoor"
   },
   "Tageswanderung/502_Graubuenden.html": {
     "duration": "4 hours 10",
@@ -206,7 +219,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&season=summer&resolution=6.22&E=2746034&N=1173658&photos=yes&logo=yes&layers=Swisspark%2CAlpguardDog%2CWanderland%2CStation%2CAccomodation%2CServices&trackId=7862241"
   },
   "Tageswanderung/503_Graubuenden.html": {
     "duration": "4 hours 10",
@@ -221,7 +235,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=50&X=763518&Y=179212&layers=Wanderland&trackId=2905701"
   },
   "Tageswanderung/509_Graubuenden.html": {
     "duration": "2 hours 10",
@@ -236,7 +251,8 @@
     "access": [
       "AerialLift",
       "Train"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&bgLayer=pk&season=summer&resolution=5.94&E=2782744&N=1190367&photos=yes&logo=yes&layers=Wanderland%2CStation&trackId=7725374"
   },
   "Tageswanderung/510_Graubuenden.html": {
     "duration": "4 hours",
@@ -250,7 +266,8 @@
     "up": "+230",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&bgLayer=pk&season=summer&resolution=20&E=2778541&N=1188288&photos=yes&logo=yes&layers=Wanderland&trackId=7725638"
   },
   "Tageswanderung/511_Graubuenden.html": {
     "duration": "4 hours",
@@ -266,7 +283,8 @@
       "AerialLift",
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&bgLayer=pk&season=summer&resolution=2.5&E=2754986&N=1184916&photos=yes&logo=yes&detours=yes&layers=Wanderland%2CStation&trackId=1916616028"
   },
   "Tageswanderung/512_Graubuenden.html": {
     "duration": "4 hours",
@@ -281,7 +299,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&bgLayer=pk&season=summer&resolution=14.62&E=2752820&N=1189676&photos=yes&logo=yes&layers=Wanderland%2CStation&trackId=2066468864"
   },
   "Tageswanderung/514%20Glarus.html": {
     "duration": "6 hours 15",
@@ -297,7 +316,8 @@
       "AerialLift",
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.schweizmobil.ch/de/wanderland/routen/route/etappe-01256.html"
   },
   "Tageswanderung/514a_graubuenden.html": {
     "duration": "4 hours",
@@ -313,7 +333,8 @@
       "AerialLift",
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?layers=Wanderland,Wanderwegnetz&bgLayer=pk&scale=100000&X=738352.4379045&Y=191635.1101945&trackId=1888249&lang=de"
   },
   "Tageswanderung/515_Graubuenden.html": {
     "duration": "4 hours 10",
@@ -328,7 +349,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?map=&marker=no&x=759182&y=197526&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
   },
   "Tageswanderung/516_Graubuenden.html": {
     "duration": "3 hours",
@@ -343,7 +365,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?map=&marker=no&x=761676&y=191284&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
   },
   "Tageswanderung/517_Graubuenden.html": {
     "duration": "5 hours",
@@ -358,7 +381,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?map=&marker=no&x=785287&y=147041&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
   },
   "Tageswanderung/518_Graubuenden.html": {
     "duration": "5 hours 50",
@@ -374,7 +398,8 @@
       "Bus",
       "Car",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/?lang=de&basemap=swisstopo_lk&blop=0.8&x=2731805.0523143&y=1161481.4361605&zl=4&hl=0&layers=swisstopo_wanderwege|hiking_mapplus&theme=4&subtheme=outdoor"
   },
   "Tageswanderung/519_Graubuenden.html": {
     "duration": "3 hours 15",
@@ -388,7 +413,8 @@
     "up": "+410",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?bgLayer=pk&X=774562&Y=174129&lang=de&resolution=10&layers=Wanderland&trackId=3570104"
   },
   "Tageswanderung/519a_Graubuenden.html": {
     "duration": "3 hours 45",
@@ -402,7 +428,8 @@
     "up": "+500",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?layers=wanderland,Wanderwegnetz&bgLayer=pk&scale=199999.6&X=773466.2794865&Y=172960.806875&trackId=1471434&lang=de"
   },
   "Tageswanderung/520_Graubuenden.html": {
     "duration": "5 hours 10",
@@ -417,7 +444,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?trackId=1255941&layers=WanderlandRoutenNational,WanderlandRoutenRegional,WanderlandRoutenLokal,Wanderwegnetz&karte=0.75"
   },
   "Tageswanderung/523_Graubuenden.html": {
     "duration": "4 hours 40",
@@ -432,7 +460,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&bgLayer=pk&season=summer&resolution=4.99&E=2740703&N=1185544&photos=yes&logo=no&layers=Wanderland%2CStation&trackId=7726919"
   },
   "Tageswanderung/524_Graubuenden.html": {
     "duration": "2 hours 30",
@@ -447,7 +476,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=5.35&photos=yes&logo=yes&detours=yes&season=summer&layers=Wanderland%2CStation&E=2754334&N=1176532&trackId=196410096"
   },
   "Tageswanderung/525_graubuenden.html": {
     "duration": "6 hours 25",
@@ -462,7 +492,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=20&X=817544&Y=166470&layers=Wanderland&trackId=3167311"
   },
   "Tageswanderung/526_Graubuenden.html": {
     "duration": "4 hours 30",
@@ -478,7 +509,8 @@
       "AerialLift",
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=10&season=summer&E=2735062&N=1190499&logo=no&layers=Wanderland&trackId=5818134"
   },
   "Tageswanderung/528_Graubuenden.html": {
     "duration": "4 hours 10",
@@ -493,7 +525,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?&x=809379&y=186102&zl=4&layers=cablecar%7Chiking&swisstopo=1"
   },
   "Tageswanderung/529_Graubuenden.html": {
     "duration": "3 hours 10",
@@ -508,7 +541,8 @@
     "access": [
       "AerialLift",
       "Train"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&bgLayer=pk&season=summer&resolution=8.59&E=2782931&N=1155275&photos=yes&logo=no&layers=Wanderland&trackId=7728517"
   },
   "Tageswanderung/530_Graubuenden.html": {
     "duration": "4 hours 30",
@@ -524,7 +558,8 @@
       "AerialLift",
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&bgLayer=pk&season=summer&resolution=10&E=2782144&N=1151166&photos=yes&logo=yes&layers=Wanderland&trackId=7728748"
   },
   "Tageswanderung/531_Graubuenden.html": {
     "duration": "4 hours 50",
@@ -540,7 +575,8 @@
       "AerialLift",
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&bgLayer=pk&season=summer&resolution=12.75&E=2782723&N=1200852&photos=yes&logo=yes&layers=Wanderland&trackId=7356321"
   },
   "Tageswanderung/531a_Graubuenden.html": {
     "duration": "4 hours",
@@ -555,7 +591,8 @@
     "access": [
       "AerialLift",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?layers=wanderland,Wanderwegnetz&bgLayer=pk&scale=49999.9&X=786154.678125&Y=198569.613125&trackId=1493018&lang=de"
   },
   "Tageswanderung/532_Graubuenden.html": {
     "duration": "3 hours 50",
@@ -569,7 +606,8 @@
     "up": "+140",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=20&season=summer&E=2768034&N=1171877&photos=no&logo=no&layers=Wanderland&trackId=6366702"
   },
   "Tageswanderung/533_Graubuenden.html": {
     "duration": "3 hours 50",
@@ -584,7 +622,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?trackId=289785&layers=WanderlandRoutenNational,WanderlandRoutenRegional,WanderlandRoutenLokal,Wanderwegnetz&karte=0.75"
   },
   "Tageswanderung/533a_Graubuenden.html": {
     "duration": "4 hours 30",
@@ -599,7 +638,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?trackId=289726&layers=WanderlandRoutenNational,WanderlandRoutenRegional,WanderlandRoutenLokal,Wanderwegnetz&karte=0.75"
   },
   "Tageswanderung/534_Graubuenden.html": {
     "duration": "2 hours 20",
@@ -614,7 +654,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&bgLayer=pk&season=summer&resolution=10&E=2756092&N=1173917&photos=yes&logo=yes&layers=Wanderland&trackId=7728918"
   },
   "Tageswanderung/535_Graubuenden.html": {
     "duration": "3 hours",
@@ -630,7 +671,8 @@
       "AerialLift",
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&bgLayer=pk&season=summer&resolution=3.65&E=2763935&N=1209518&photos=yes&logo=yes&detours=yes&layers=Wanderland%2CStation&trackId=478583771"
   },
   "Tageswanderung/535a_Graubuenden.html": {
     "duration": "3 hours",
@@ -645,7 +687,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&bgLayer=pk&season=summer&resolution=13.6&E=2763877&N=1205443&photos=yes&logo=yes&layers=Wanderland&trackId=40723433"
   },
   "Tageswanderung/536_Graubuenden.html": {
     "duration": "5 hours 35",
@@ -659,7 +702,8 @@
     "up": "+570",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=10&season=summer&E=2699333&N=1169691&logo=yes&layers=Wanderland&trackId=5270718"
   },
   "Tageswanderung/537_Graubuenden.html": {
     "duration": "4 hours 20",
@@ -674,7 +718,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?layers=wanderland,Wanderwegnetz&bgLayer=pk&scale=199999.6&X=767647.9347035&Y=201102.155125&trackId=1471539&lang=de"
   },
   "Tageswanderung/538_Graubuenden.html": {
     "duration": "3 hours 15",
@@ -688,7 +733,8 @@
     "up": "+440",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=10&season=summer&E=2797965&N=1144770&layers=Wanderland&trackId=4610333"
   },
   "Tageswanderung/539_Graubuenden.html": {
     "duration": "2 hours 20",
@@ -704,7 +750,8 @@
       "AerialLift",
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?trackId=1245846&layers=WanderlandRoutenNational,WanderlandRoutenRegional,WanderlandRoutenLokal,Wanderwegnetz&karte=0.75"
   },
   "Tageswanderung/540_Graubuenden.html": {
     "duration": "5 hours",
@@ -718,7 +765,8 @@
     "up": "+460",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/?lang=de&basemap=swisstopo_lk&blop=1&x=2810828.3461493&y=1182343.0882596&zl=3&hl=0&layers=swisstopo_wanderwege|hiking_mapplus&theme=4&subtheme=outdoor"
   },
   "Tageswanderung/541_Graubuenden.html": {
     "duration": "4 hours 10",
@@ -733,7 +781,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&land=wanderland&etappe=43.11&lightbox&bgLayer=pk&layers=Wanderland&resolution=10&X=762540&Y=189037"
   },
   "Tageswanderung/542_Graubuenden.html": {
     "duration": "3 hours 30",
@@ -748,7 +797,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?map=&marker=no&x=745997&y=185506&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
   },
   "Tageswanderung/543_Graubuenden.html": {
     "duration": "4 hours 30",
@@ -762,7 +812,8 @@
     "up": "+130",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?map=&marker=no&x=708680&y=173972&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
   },
   "Tageswanderung/544_Graubuenden.html": {
     "duration": "4 hours 50",
@@ -777,7 +828,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?map=&marker=no&x=718911&y=178140&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
   },
   "Tageswanderung/545_Graubuenden.html": {
     "duration": "2 hours 10",
@@ -792,7 +844,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?map=&marker=no&x=753335&y=190246&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
   },
   "Tageswanderung/546_Graubuenden.html": {
     "duration": "4 hours 15",
@@ -807,7 +860,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&bgLayer=pk&season=summer&resolution=16.73&E=2752439&N=1192774&photos=yes&logo=yes&layers=Wanderland%2CStation&trackId=7729701"
   },
   "Tageswanderung/547_Luzern.html": {
     "duration": "4 hours 45",
@@ -823,7 +877,8 @@
       "Boat",
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/?lang=de&basemap=swisstopo_lk&blop=0.8&x=2683807.892273&y=1213245.8224366&zl=4&hl=0&layers=swisstopo_wanderwege|hiking_mapplus&theme=4&subtheme=outdoor"
   },
   "Tageswanderung/547a_Luzern.html": {
     "duration": "2 hours 20",
@@ -839,7 +894,8 @@
       "Boat",
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?layers=Wanderland,Wanderwegnetz&bgLayer=pk&scale=100000&X=683943.8235&Y=205972.0355&highlight=WanderlandEtappenNational*98.01,WanderlandEtappenRegional*98.01,WanderlandEtappenLokal*98.01,WanderlandEtappenHandicap*98.01&lang=de"
   },
   "Tageswanderung/547b_Luzern.html": {
     "duration": "3 hours 30",
@@ -855,7 +911,8 @@
       "Boat",
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?trackId=113909&layers=WanderlandRoutenRegional,WanderlandRoutenLokal,Wanderwegnetz&karte=0.75"
   },
   "Tageswanderung/549_Luzern.html": {
     "duration": "3 hours 15",
@@ -872,7 +929,8 @@
       "Boat",
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=5&season=summer&E=2676747&N=1210568&layers=Wanderland&trackId=4260526"
   },
   "Tageswanderung/550_Schwyz.html": {
     "duration": "2 hours",
@@ -887,7 +945,8 @@
     "access": [
       "AerialLift",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?layers=wanderland,Wanderwegnetz&bgLayer=pk&scale=49999.9&X=680297.8107695&Y=209686.358125&trackId=1506828&lang=de"
   },
   "Tageswanderung/551_Luzern.html": {
     "duration": "5 hours 10",
@@ -904,7 +963,8 @@
       "Boat",
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/?lang=de&basemap=swisstopo_lk&blop=0.8&x=2683547.892273&y=1209417.8862121&zl=4&hl=0&layers=swisstopo_wanderwege|hiking_mapplus&theme=4&subtheme=outdoor"
   },
   "Tageswanderung/552_Schwyz.html": {
     "duration": "4 hours 55",
@@ -920,7 +980,8 @@
       "AerialLift",
       "Boat",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?map=&marker=no&x=683342&y=208719&zl=4&layers=hiking&swisstopo=1"
   },
   "Tageswanderung/553_Obwalden.html": {
     "duration": "6 hours 40",
@@ -936,7 +997,8 @@
       "AerialLift",
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&bgLayer=pk&season=summer&resolution=10&E=2667170&N=1183301&photos=yes&logo=no&layers=Wanderland&trackId=6847524"
   },
   "Tageswanderung/554_Zentralschweiz.html": {
     "duration": "6 hours",
@@ -952,7 +1014,8 @@
       "AerialLift",
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&p&etappe=55.06"
   },
   "Tageswanderung/554b_Zentralschweiz.html": {
     "duration": "3 hours 40",
@@ -968,7 +1031,8 @@
       "AerialLift",
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?layers=Wanderland,Wanderwegnetz&bgLayer=pk&scale=100000&X=701593.3611135&Y=189340.739836&trackId=1792972&lang=de"
   },
   "Tageswanderung/555_Uri.html": {
     "duration": "4 hours 20",
@@ -984,7 +1048,8 @@
       "AerialLift",
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=10&season=summer&E=2692052&N=1181394&layers=Wanderland&trackId=4835971"
   },
   "Tageswanderung/556_Schwyz.html": {
     "duration": "4 hours 20",
@@ -1000,7 +1065,8 @@
       "AerialLift",
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.schweizmobil.ch/de/wanderland/regionale-routen/route/etappe-01630.html"
   },
   "Tageswanderung/557_Zentralschweiz.html": {
     "duration": "3 hours 50",
@@ -1015,7 +1081,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&p=&gemeinde=250365&bgLayer=pk&logo=no&season=summer&resolution=10&E=2684454&N=1203178&layers=Wanderland&trackId=5483051"
   },
   "Tageswanderung/558_Uri.html": {
     "duration": "2 hours 45",
@@ -1031,7 +1098,8 @@
       "AerialLift",
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?layers=Wanderland,Wanderwegnetz&bgLayer=pk&scale=100000&X=694038.853172&Y=195109.798071&trackId=2107300&lang=de"
   },
   "Tageswanderung/558a_Uri.html": {
     "duration": "3 hours 20",
@@ -1047,7 +1115,8 @@
       "AerialLift",
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&p&route=587"
   },
   "Tageswanderung/559_Uri.html": {
     "duration": "6 hours",
@@ -1062,7 +1131,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&p&etappe=1.07&wanderwegnetz=all&bgLayer=pk&layers=Wanderland&resolution=10&X=682329&Y=186421"
   },
   "Tageswanderung/560_Nidwalden.html": {
     "duration": "3 hours 15",
@@ -1079,7 +1149,8 @@
       "Boat",
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=5&X=673980&Y=197540&layers=Wanderland&trackId=3210068"
   },
   "Tageswanderung/560a_Nidwalden.html": {
     "duration": "3 hours 40",
@@ -1094,7 +1165,8 @@
     "access": [
       "AerialLift",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=5&season=summer&E=2676368&N=1198240&layers=Wanderland&trackId=4510627"
   },
   "Tageswanderung/561_Uri.html": {
     "duration": "4 hours",
@@ -1109,7 +1181,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?trackId=122047&layers=Wanderwegnetz&karte=0.75"
   },
   "Tageswanderung/561a_Uri.html": {
     "duration": "3 hours 30",
@@ -1125,7 +1198,8 @@
       "AerialLift",
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?x=694790&y=190223&zl=4&layers=hiking&swisstopo=1"
   },
   "Tageswanderung/562_Schwyz.html": {
     "duration": "3 hours 30",
@@ -1140,7 +1214,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=10&season=summer&E=2694810&N=1201678&layers=Wanderland%2CStation&trackId=4892781"
   },
   "Tageswanderung/562a_Schwyz.html": {
     "duration": "3 hours",
@@ -1156,7 +1231,8 @@
       "AerialLift",
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.wanderland.ch/de/lokale-routen/route-0827.html"
   },
   "Tageswanderung/563_Glarus.html": {
     "duration": "6 hours 30",
@@ -1172,7 +1248,8 @@
       "AerialLift",
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?map=&marker=no&x=714464&y=204893&zl=4&layers=cablecar%7Chiking&swisstopo=1"
   },
   "Tageswanderung/564_Uri.html": {
     "duration": "4 hours",
@@ -1187,7 +1264,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=20&X=686140&Y=164442&layers=Wanderland&trackId=2433500"
   },
   "Tageswanderung/565_Uri.html": {
     "duration": "3 hours 30",
@@ -1202,7 +1280,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=10&X=680843&Y=166072&layers=Wanderland&trackId=2433517"
   },
   "Tageswanderung/565a_uri.html": {
     "duration": "3 hours",
@@ -1217,7 +1296,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=50&X=695972&Y=176976&layers=Wanderland&trackId=3241452"
   },
   "Tageswanderung/565b_uri.html": {
     "duration": "1 hour 50",
@@ -1231,7 +1311,8 @@
     "up": "+370",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=20&E=2685142&N=1165733&layers=Wanderland&trackId=3873482"
   },
   "Tageswanderung/566_Zug.html": {
     "duration": "2 hours 20",
@@ -1246,7 +1327,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?layers=Wanderland,Wanderwegnetz&bgLayer=pk&scale=100000&X=682360.40625&Y=220381&lang=de"
   },
   "Tageswanderung/566a_Zug.html": {
     "duration": "2 hours 20",
@@ -1261,7 +1343,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&bgLayer=pk&season=summer&resolution=1.16&E=2684649&N=1226410&photos=yes&logo=yes&layers=Wanderland%2CStation&trackId=7851245"
   },
   "Tageswanderung/567_Schwyz.html": {
     "duration": "3 hours",
@@ -1276,7 +1359,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?trackId=1218613&layers=WanderlandRoutenNational,WanderlandRoutenRegional,WanderlandRoutenLokal&karte=0.75"
   },
   "Tageswanderung/568_Schwyz.html": {
     "duration": "3 hours",
@@ -1292,7 +1376,8 @@
       "AerialLift",
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?language=de&N=1207443&E=2704162&resolution=3.85&lang=de&photos=yes&logo=yes&detours=yes&season=summer&bgLayer=pk&layers=Wanderland%2CStation&trackId=1020520459"
   },
   "Tageswanderung/569_Zentralschweiz.html": {
     "duration": "6 hours 45",
@@ -1308,7 +1393,8 @@
       "AerialLift",
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?map=&marker=no&x=660495&y=181453&zl=4&layers=cablecar%7Chiking&swisstopo=1"
   },
   "Tageswanderung/569b_Zentralschweiz.html": {
     "duration": "4 hours",
@@ -1322,7 +1408,8 @@
     "up": "+650",
     "access": [
       "Bus"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&land=wanderland&route=815&photos=yes&logo=yes&detours=yes&season=summer&bgLayer=pk&resolution=10&E=2648844&N=1187500&layers=Wanderland&trackId=249137984"
   },
   "Tageswanderung/570_Schwyz.html": {
     "duration": "5 hours",
@@ -1336,7 +1423,8 @@
     "up": "+490",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?trackId=1216363&layers=WanderlandRoutenNational,WanderlandRoutenRegional,WanderlandRoutenLokal,Wanderwegnetz&karte=0.75"
   },
   "Tageswanderung/570a_Schwyz.html": {
     "duration": "1 hour 10",
@@ -1350,7 +1438,8 @@
     "up": "+30",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?layers=wanderland,Wanderwegnetz&bgLayer=pk&scale=199999.6&X=703347.008199&Y=229939.6375455&trackId=1468001&lang=de"
   },
   "Tageswanderung/571_Obwalden.html": {
     "duration": "4 hours",
@@ -1366,7 +1455,8 @@
       "AerialLift",
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&land=wanderland&route=573&bgLayer=pk&layers=Wanderland&season=summer&resolution=10&E=2674858&N=1189463"
   },
   "Tageswanderung/571a_nidwalden.html": {
     "duration": "3 hours 30",
@@ -1382,7 +1472,8 @@
       "AerialLift",
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=20&X=675408&Y=195168&layers=Wanderland&trackId=3213562"
   },
   "Tageswanderung/572_Uri.html": {
     "duration": "5 hours 30",
@@ -1396,7 +1487,8 @@
     "up": "+800",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=20&X=684360&Y=162400&layers=Wanderland&trackId=3035161"
   },
   "Tageswanderung/573_Uri.html": {
     "duration": "6 hours",
@@ -1410,7 +1502,8 @@
     "up": "+1030",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&p&etappe=7.11&wanderwegnetz=all&bgLayer=pk&resolution=20&layers=Wanderland%2CStation&E=2686720&N=1157660&trackId=3769701"
   },
   "Tageswanderung/574_Schwyz.html": {
     "duration": "6 hours",
@@ -1425,7 +1518,8 @@
     "access": [
       "AerialLift",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?map=&marker=no&x=695445&y=216172&zl=4&layers=hiking&swisstopo=1"
   },
   "Tageswanderung/574a_Schwyz.html": {
     "duration": "4 hours 30",
@@ -1440,7 +1534,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?layers=Station,Wanderland,Wanderwegnetz&bgLayer=pk&scale=200000&X=695329.5362185&Y=205870.2986035&trackId=2056085&lang=de"
   },
   "Tageswanderung/575_Uri.html": {
     "duration": "3 hours",
@@ -1456,7 +1551,8 @@
       "Boat",
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?map=&marker=no&x=685916&y=197580&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
   },
   "Tageswanderung/576_BernUri.html": {
     "duration": "6 hours 45",
@@ -1471,7 +1567,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/?lang=de&basemap=swisstopo_lk&blop=0.8&x=2678907.892273&y=1178537.8862121&zl=4&hl=0&layers=swisstopo_wanderwege|hiking_mapplus&theme=4&subtheme=outdoor"
   },
   "Tageswanderung/577_Schwyz.html": {
     "duration": "4 hours",
@@ -1486,7 +1583,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=10&season=summer&E=2699031&N=1205488&logo=yes&layers=Wanderland&trackId=5630407"
   },
   "Tageswanderung/577a_Schwyz.html": {
     "duration": "6 hours 30",
@@ -1501,7 +1599,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&bgLayer=pk&season=summer&resolution=10&E=2705882&N=1204072&photos=yes&logo=yes&layers=Wanderland&trackId=6499364"
   },
   "Tageswanderung/577b_Schwyz.html": {
     "duration": "1 hour",
@@ -1517,7 +1616,8 @@
       "AerialLift",
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=5&season=summer&E=2697573&N=1205203&logo=yes&layers=Wanderland%2CStation&trackId=5944688"
   },
   "Tageswanderung/577d_Schwyz.html": {
     "duration": "3 hours 10",
@@ -1532,7 +1632,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&bgLayer=pk&season=summer&resolution=5&E=2706676&N=1203266&photos=yes&logo=yes&trackId=6503869&layers=Wanderland"
   },
   "Tageswanderung/577e_Schwyz.html": {
     "duration": "5 hours 30",
@@ -1546,7 +1647,8 @@
     "up": "+1070",
     "access": [
       "Car"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&photos=no&logo=no&season=summer&resolution=10&E=2711820&N=1205999&bgLayer=pk&layers=Wanderland%2CStation&trackId=7201883"
   },
   "Tageswanderung/578_Schwyz.html": {
     "duration": "5 hours 10",
@@ -1560,7 +1662,8 @@
     "up": "+770",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?&x=684793&y=215010&zl=4&layers=cablecar%7Chiking&swisstopo=1"
   },
   "Tageswanderung/578a_Schwyz.html": {
     "duration": "1 hour 30",
@@ -1575,7 +1678,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&bgLayer=pk&season=summer&resolution=5.07&E=2686101&N=1210652&photos=yes&logo=yes&layers=Wanderland%2CStation&trackId=7838063"
   },
   "Tageswanderung/579_Luzern.html": {
     "duration": "3 hours 20",
@@ -1590,7 +1694,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=10&season=summer&E=2673138&N=1216857&layers=Wanderland&trackId=5116876"
   },
   "Tageswanderung/579a_Luzern.html": {
     "duration": "4 hours 45",
@@ -1605,7 +1710,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=20&season=summer&E=2655409&N=1216429&layers=Wanderland&trackId=5114712"
   },
   "Tageswanderung/580_Obwalden.html": {
     "duration": "6 hours 15",
@@ -1620,7 +1726,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=10&season=summer&E=2662239&N=1189816&logo=yes&layers=Wanderland&trackId=6134430"
   },
   "Tageswanderung/580a_obwalden.html": {
     "duration": "3 hours 10",
@@ -1635,7 +1742,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=10&season=summer&E=2661762&N=1192743&logo=yes&layers=Wanderland&trackId=6124756"
   },
   "Tageswanderung/581_Zug.html": {
     "duration": "3 hours 20",
@@ -1650,7 +1758,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=9.42&season=summer&E=2683547&N=1223003&logo=yes&photos=yes&layers=Wanderland&trackId=5324484"
   },
   "Tageswanderung/581a_Zug.html": {
     "duration": "3 hours 10",
@@ -1664,7 +1773,8 @@
     "up": "+240",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&land=wanderland&etappe=4.28&bgLayer=pk&logo=yes&season=summer&resolution=11.15&E=2681168&N=1221140&photos=yes&layers=Wanderland&trackId=7653489"
   },
   "Tageswanderung/582_Uri.html": {
     "duration": "4 hours 30",
@@ -1680,7 +1790,8 @@
       "AerialLift",
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.geo.admin.ch/?selectedNode=node_ch.swisstopo.vec25-wander1&Y=700595&X=181795&zoom=6&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.vec25-wander&layers_opacity=1&layers_visibility=true"
   },
   "Tageswanderung/582a_Zug_Luzern.html": {
     "duration": "1 hour 50",
@@ -1696,7 +1807,8 @@
       "Boat",
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&bgLayer=pk&season=summer&resolution=17.94&E=2675108&N=1219193&photos=yes&logo=yes&layers=Wanderland&trackId=593469747"
   },
   "Tageswanderung/583_Obwalden.html": {
     "duration": "4 hours 10",
@@ -1711,7 +1823,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?map=&marker=no&x=660481&y=189800&zl=4&layers=hiking&swisstopo=1"
   },
   "Tageswanderung/584_Obwalden.html": {
     "duration": "4 hours 40",
@@ -1727,7 +1840,8 @@
       "AerialLift",
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?map=&marker=no&x=665941&y=183980&zl=4&layers=cablecar%7Chiking&swisstopo=1"
   },
   "Tageswanderung/585_Obwalden.html": {
     "duration": "6 hours 20",
@@ -1742,7 +1856,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&bgLayer=pk&season=summer&resolution=4.98&E=2669265&N=1187027&photos=yes&logo=no&layers=Wanderland&trackId=7511329"
   },
   "Tageswanderung/585a_Obwalden.html": {
     "duration": "2 hours 50",
@@ -1756,7 +1871,8 @@
     "up": "+480",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=10&X=672470&Y=188140&layers=Wanderland&trackId=3191410"
   },
   "Tageswanderung/586_Obwalden.html": {
     "duration": "4 hours 20",
@@ -1771,7 +1887,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&photos=yes&logo=yes&season=summer&bgLayer=pk&resolution=5&E=2664294&N=1179588&layers=Wanderland&trackId=7832688"
   },
   "Tageswanderung/587_Uri.html": {
     "duration": "4 hours",
@@ -1787,7 +1904,8 @@
       "AerialLift",
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?layers=wanderland,Wanderwegnetz&bgLayer=pk&scale=499998.99999999994&X=689454.90375&Y=176850.3853935&trackId=1487188&lang=de"
   },
   "Tageswanderung/588_Rophaien.html": {
     "duration": "5 hours",
@@ -1802,7 +1920,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?map=&marker=no&x=692579&y=197676&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
   },
   "Tageswanderung/589_Schwyz.html": {
     "duration": "4 hours 30",
@@ -1817,7 +1936,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?map=&marker=no&x=708965&y=215758&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
   },
   "Tageswanderung/590_Schwyz.html": {
     "duration": "4 hours",
@@ -1831,7 +1951,8 @@
     "up": "+570",
     "access": [
       "Car"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&land=wanderland&route=453&layers=Wanderland&photos=yes&logo=yes&season=summer&bgLayer=pk&resolution=7.6&E=2709058&N=1219377&trackId=403136574"
   },
   "Tageswanderung/591_Obwalden.html": {
     "duration": "4 hours",
@@ -1846,7 +1967,8 @@
     "access": [
       "Boat",
       "Train"
-    ]
+    ],
+    "map": "https://www.wanderland.ch/de/routen/route-098.html"
   },
   "Tageswanderung/592_Schwyz.html": {
     "duration": "3 hours 10",
@@ -1862,7 +1984,8 @@
       "AerialLift",
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=10&X=699000&Y=207930&layers=Wanderland&trackId=2793468"
   },
   "Tageswanderung/592a_Schwyz.html": {
     "duration": "4 hours 15",
@@ -1877,7 +2000,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?layers=Wanderland,Wanderwegnetz&bgLayer=pk&scale=200000&X=694967.961222&Y=208564.3787765&trackId=2000805&lang=de"
   },
   "Tageswanderung/593_Luzern.html": {
     "duration": "3 hours 45",
@@ -1891,7 +2015,8 @@
     "up": "+260",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&p&etappe=98.03&wanderwegnetz=all"
   },
   "Tageswanderung/594_Uri.html": {
     "duration": "6 hours",
@@ -1906,7 +2031,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?map=&marker=no&x=689921&y=178284&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
   },
   "Tageswanderung/595_Uri.html": {
     "duration": "4 hours 20",
@@ -1922,7 +2048,8 @@
       "AerialLift",
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?map=&marker=no&x=696175&y=184043&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
   },
   "Tageswanderung/596_Nidwalden.html": {
     "duration": "4 hours",
@@ -1939,7 +2066,8 @@
       "Boat",
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&p&route=568"
   },
   "Tageswanderung/596a_Nidwalden.html": {
     "duration": "2 hours 10",
@@ -1955,7 +2083,8 @@
       "AerialLift",
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?trackId=238327&layers=WanderlandRoutenNational,WanderlandRoutenRegional,WanderlandRoutenLokal,Wanderwegnetz&karte=0.75"
   },
   "Tageswanderung/597_Luzern.html": {
     "duration": "4 hours",
@@ -1969,7 +2098,8 @@
     "up": "+350",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?x=636272&y=219569&zl=4&layers=cablecar%7Chiking&swisstopo=1"
   },
   "Tageswanderung/598_Uri.html": {
     "duration": "4 hours 50",
@@ -1985,7 +2115,8 @@
       "AerialLift",
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.geo.admin.ch/?selectedNode=node_ch.swisstopo.vec25-wander1&Y=700595&X=181795&zoom=6&bgLayer=ch.swisstopo.pixelkarte-farbe&layers=ch.swisstopo.vec25-wander&layers_opacity=1&layers_visibility=true"
   },
   "Tageswanderung/599_Uri.html": {
     "duration": "2 hours 25",
@@ -1999,7 +2130,8 @@
     "up": "+130",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?map=&marker=no&x=687283&y=164476&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
   },
   "Tageswanderung/600%20Oberwallis.html": {
     "duration": "3 hours 20",
@@ -2013,7 +2145,8 @@
     "up": "+280",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?layers=Wanderland&bgLayer=pk&X=634860&Y=127520&trackId=1527976&lang=de&resolution=20"
   },
   "Tageswanderung/601%20Oberwallis.html": {
     "duration": "2 hours 45",
@@ -2029,7 +2162,8 @@
       "AerialLift",
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?layers=wanderland,Wanderwegnetz&bgLayer=pk&scale=49999.9&X=643909.077417&Y=133957.67&trackId=1397788&lang=de"
   },
   "Tageswanderung/602%20Oberwallis.html": {
     "duration": "2 hours 40",
@@ -2044,7 +2178,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&p=&etappe=56.04&photos=yes&logo=yes&detours=yes&season=summer&bgLayer=pk&resolution=8.96&E=2628539&N=1140454&layers=Wanderland%2CStation&trackId=96994679"
   },
   "Tageswanderung/603%20Oberwallis.html": {
     "duration": "4 hours",
@@ -2059,7 +2194,8 @@
     "access": [
       "AerialLift",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?map=&marker=no&x=646594&y=138274&zl=4&layers=hiking&swisstopo=1"
   },
   "Tageswanderung/604%20Oberwallis.html": {
     "duration": "4 hours 20",
@@ -2075,7 +2211,8 @@
       "AerialLift",
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?trackId=230435&layers=WanderlandRoutenNational,WanderlandRoutenRegional,WanderlandRoutenLokal,Wanderwegnetz&karte=0.75"
   },
   "Tageswanderung/605%20Oberwallis.html": {
     "duration": "3 hours",
@@ -2089,7 +2226,8 @@
     "up": "+160",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/?lang=de&basemap=swisstopo_lk&blop=0.8&x=2621557.5690918&y=1101432.1448486&zl=3&hl=0&layers=swisstopo_wanderwege|hiking_mapplus&theme=4&subtheme=outdoor"
   },
   "Tageswanderung/606%20Oberwallis.html": {
     "duration": "5 hours",
@@ -2105,7 +2243,8 @@
       "AerialLift",
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&p=&etappe=39.02&wanderwegnetz=all&bgLayer=pk&season=summer&resolution=5&E=2648417&N=1140017&layers=Wanderland&trackId=4901523"
   },
   "Tageswanderung/607%20Unterwallis.html": {
     "duration": "5 hours",
@@ -2120,7 +2259,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/?lang=de&basemap=swisstopo_lk&blop=0.8&x=2604357.5690918&y=1107332.1448486&zl=3&hl=0&layers=swisstopo_wanderwege|hiking_mapplus&theme=4&subtheme=outdoor"
   },
   "Tageswanderung/608%20Oberwallis.html": {
     "duration": "4 hours",
@@ -2135,7 +2275,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?trackId=1235954&layers=WanderlandRoutenNational,WanderlandRoutenRegional,WanderlandRoutenLokal,Wanderwegnetz&karte=0.75"
   },
   "Tageswanderung/609%20Oberwallis.html": {
     "duration": "2 hours 15",
@@ -2150,7 +2291,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?layers=Wanderland,Wanderwegnetz&bgLayer=pk&scale=100000&X=628259.2583795&Y=138963.7183695&trackId=1566037&lang=de"
   },
   "Tageswanderung/610%20Unterwallis.html": {
     "duration": "3 hours 40",
@@ -2165,7 +2307,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?map=&marker=no&x=555110&y=117635&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
   },
   "Tageswanderung/611_Oberwallis.html": {
     "duration": "4 hours",
@@ -2179,7 +2322,8 @@
     "up": "+600",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&bgLayer=pk&season=summer&resolution=10&E=2622459&N=1095436&photos=yes&logo=yes&layers=Wanderland&trackId=7261151"
   },
   "Tageswanderung/612_Unterwallis.html": {
     "duration": "6 hours 30",
@@ -2193,7 +2337,8 @@
     "up": "+1990",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&showLogin=true&bgLayer=pk&resolution=50&X=579323&Y=97050&layers=Wanderland&trackId=2946849"
   },
   "Tageswanderung/613_Oberwallis.html": {
     "duration": "3 hours 40",
@@ -2208,7 +2353,8 @@
     "access": [
       "AerialLift",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=20&X=648490&Y=133461&layers=Wanderland&trackId=2530852"
   },
   "Tageswanderung/614_Oberwallis.html": {
     "duration": "5 hours 15",
@@ -2223,7 +2369,8 @@
     "access": [
       "AerialLift",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?map=&marker=no&x=652147&y=138306&zl=4&layers=hiking&swisstopo=1"
   },
   "Tageswanderung/615%20Oberwallis.html": {
     "duration": "3 hours 30",
@@ -2238,7 +2385,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?map=&marker=no&x=639175&y=130572&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
   },
   "Tageswanderung/616_Oberwallis.html": {
     "duration": "2 hours 45",
@@ -2253,7 +2401,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?x=630389&y=114882&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
   },
   "Tageswanderung/617_Oberwallis.html": {
     "duration": "4 hours",
@@ -2269,7 +2418,8 @@
       "AerialLift",
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?x=628822&y=115183&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
   },
   "Tageswanderung/618_Oberwallis.html": {
     "duration": "3 hours 10",
@@ -2284,7 +2434,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?x=631171&y=117048&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
   },
   "Tageswanderung/619_oberwallis.html": {
     "duration": "5 hours",
@@ -2300,7 +2451,8 @@
       "AerialLift",
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=5&season=summer&E=2643211&N=1137206&layers=Wanderland&trackId=4902907"
   },
   "Tageswanderung/620_Unterwallis.html": {
     "duration": "6 hours",
@@ -2315,7 +2467,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=10&X=575287&Y=114864&layers=Wanderland&trackId=2731286"
   },
   "Tageswanderung/620a_unterwallis.html": {
     "duration": "5 hours 30",
@@ -2330,7 +2483,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&bgLayer=pk&season=summer&resolution=10&E=2576703&N=1118128&photos=yes&logo=yes&layers=Wanderland%2CStation&trackId=6407852"
   },
   "Tageswanderung/622a_Oberwallis.html": {
     "duration": "4 hours 25",
@@ -2345,7 +2499,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?trackId=1230080&layers=WanderlandRoutenNational,WanderlandRoutenRegional,WanderlandRoutenLokal,Wanderwegnetz&karte=0.75"
   },
   "Tageswanderung/622b_Oberwallis.html": {
     "duration": "3 hours 40",
@@ -2360,7 +2515,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?karte=0.75&lang=de&bgLayer=pk&resolution=50&X=618260&Y=131420&layers=Wanderland&trackId=3108329"
   },
   "Tageswanderung/623_Unterwallis.html": {
     "duration": "4 hours 50",
@@ -2375,7 +2531,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?trackId=126494&layers=WanderlandRoutenNational,WanderlandRoutenRegional,WanderlandRoutenLokal,Wanderwegnetz&karte=0.75"
   },
   "Tageswanderung/623a_unterwallis.html": {
     "duration": "2 hours 40",
@@ -2390,7 +2547,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?layers=WanderlandEtappenNational%2CWanderlandEtappenRegional%2CWanderlandEtappenLokal%2CWanderwegnetz%2CStation&karte=0.75&lang=de&bgLayer=pk&season=summer&resolution=5&E=2580800&N=1114290&trackId=4040830"
   },
   "Tageswanderung/623b_unterwallis.html": {
     "duration": "3 hours 40",
@@ -2405,7 +2563,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=20&season=summer&E=2575483&N=1110176&layers=Wanderland&trackId=4087656"
   },
   "Tageswanderung/624_Oberwallis.html": {
     "duration": "3 hours 20",
@@ -2420,7 +2579,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?x=636739&y=125262&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
   },
   "Tageswanderung/625_Unterwallis.html": {
     "duration": "4 hours 15",
@@ -2434,7 +2594,8 @@
     "up": "+590",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/?lang=de&basemap=swisstopo_lk&blop=0.8&x=2568527.892273&y=1105844.2862121&zl=4&hl=0&layers=swisstopo_wanderwege|hiking_mapplus&theme=4&subtheme=outdoor"
   },
   "Tageswanderung/626_Oberwallis.html": {
     "duration": "1 hour 45",
@@ -2449,7 +2610,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?x=630607&y=122727&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
   },
   "Tageswanderung/627_Unterwallis.html": {
     "duration": "7 hours",
@@ -2464,7 +2626,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?map=&marker=no&x=555110&y=117635&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
   },
   "Tageswanderung/628_Oberwallis.html": {
     "duration": "4 hours 10",
@@ -2478,7 +2641,8 @@
     "up": "+320",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?layers=Wanderland,Wanderwegnetz&bgLayer=pk&scale=100000&X=624947.302938&Y=96554.1925787&trackId=1566060&lang=de"
   },
   "Tageswanderung/629_Oberwallis.html": {
     "duration": "1 hour 40",
@@ -2492,7 +2656,8 @@
     "up": "+310",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?x=629870&y=128776&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
   },
   "Tageswanderung/630_Oberwallis.html": {
     "duration": "3 hours 15",
@@ -2507,7 +2672,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?x=639018&y=127191&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
   },
   "Tageswanderung/631_Oberwallis.html": {
     "duration": "6 hours 20",
@@ -2522,7 +2688,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?karte=0.75&lang=de&bgLayer=pk&resolution=20&E=2650130&N=1140345&layers=Wanderland&trackId=3826540"
   },
   "Tageswanderung/632_Oberwallis.html": {
     "duration": "5 hours 30",
@@ -2538,7 +2705,8 @@
       "AerialLift",
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?x=635911&y=116827&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
   },
   "Tageswanderung/633_Wallis.html": {
     "duration": "8 hours 40",
@@ -2553,7 +2721,8 @@
     "access": [
       "Boat",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?x=554568&y=134432&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
   },
   "Tageswanderung/634_Oberwallis.html": {
     "duration": "3 hours 15",
@@ -2567,7 +2736,8 @@
     "up": "+430",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?layers=wanderland,Wanderwegnetz&bgLayer=pk&scale=199999.6&X=639293.3096705&Y=129310.7076335&trackId=1498117&lang=de"
   },
   "Tageswanderung/635_Oberwallis.html": {
     "duration": "3 hours 30",
@@ -2582,7 +2752,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?layers=WanderlandEtappenNational%2CWanderlandEtappenRegional%2CWanderlandEtappenLokal%2CWanderwegnetz&karte=0.75&lang=de&photos=yes&bgLayer=pk&logo=yes&season=summer&resolution=2.04&E=2642841&N=1131900&trackId=1127962789"
   },
   "Tageswanderung/636_Oberwallis.html": {
     "duration": "3 hours 15",
@@ -2597,7 +2768,8 @@
     "access": [
       "AerialLift",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=5&X=656055&Y=144795&layers=Wanderland&trackId=2929478"
   },
   "Tageswanderung/637_Oberwallis.html": {
     "duration": "4 hours 30",
@@ -2612,7 +2784,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=1.24&photos=yes&logo=yes&season=summer&E=2630618&N=1124625&layers=Wanderland%2CStation&trackId=3613869"
   },
   "Tageswanderung/651%20Zuerich.html": {
     "duration": "4 hours",
@@ -2627,7 +2800,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&etappe=5.01"
   },
   "Tageswanderung/652%20Zuerich.html": {
     "duration": "3 hours 20",
@@ -2641,7 +2815,8 @@
     "up": "+260",
     "access": [
       "Bus"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&bgLayer=pk&season=summer&resolution=10.13&E=2684284&N=1232600&photos=yes&logo=yes&layers=Wanderland%2CStation&trackId=1236347"
   },
   "Tageswanderung/653%20Zuerich%20Zug.html": {
     "duration": "2 hours 15",
@@ -2656,7 +2831,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?map=&marker=no&x=685418&y=230231&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
   },
   "Tageswanderung/653a_Zuerichsee.html": {
     "duration": "2 hours 30",
@@ -2670,7 +2846,8 @@
     "up": "+70",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=10&X=692032&Y=232160&layers=Wanderland&trackId=2447388"
   },
   "Tageswanderung/653b_Zuerich.html": {
     "duration": "2 hours 30",
@@ -2684,7 +2861,8 @@
     "up": "+80",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?karte=0.75&layers=wanderland,Wanderwegnetz&scale=500000.27&X=682279.8431295&Y=244364.042701&trackId=1294940&lang=de"
   },
   "Tageswanderung/654%20Zuerich.html": {
     "duration": "3 hours 30",
@@ -2699,7 +2877,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&bgLayer=pk&season=summer&resolution=9.77&E=2687975&N=1268537&photos=yes&logo=yes&layers=Wanderland%2CStation&highlight=WanderlandRoutenLokal*903&trackId=1154352485"
   },
   "Tageswanderung/655%20Zuerich.html": {
     "duration": "2 hours 45",
@@ -2714,7 +2893,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?layers=Station,Wanderland,Wanderwegnetz&bgLayer=pk&scale=100000&X=676184.035&Y=252658.462656&trackId=1933821&lang=de"
   },
   "Tageswanderung/656%20Zuerich.html": {
     "duration": "4 hours",
@@ -2729,7 +2909,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&bgLayer=pk&season=summer&resolution=18.41&E=2684688&N=1241243&photos=yes&logo=yes&layers=Wanderland&trackId=1323869767"
   },
   "Tageswanderung/657%20Zuerichsee.html": {
     "duration": "4 hours 30",
@@ -2743,7 +2924,8 @@
     "up": "+330",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=10&season=summer&E=2710383&N=1229124&layers=Wanderland&trackId=4210958"
   },
   "Tageswanderung/657a_Ricken.html": {
     "duration": "3 hours 50",
@@ -2758,7 +2940,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=5&season=summer&E=2722460&N=1232617&logo=yes&layers=Wanderland%2CStation&trackId=5326960"
   },
   "Tageswanderung/658%20Zuerich.html": {
     "duration": "3 hours 40",
@@ -2772,7 +2955,8 @@
     "up": "+440",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&p&gemeinde=249329&bgLayer=pk&layers=Wanderwegnetz&season=summer&resolution=10&E=2679768&N=1244608&trackId=4273563"
   },
   "Tageswanderung/658a_Zuerich.html": {
     "duration": "3 hours",
@@ -2786,7 +2970,8 @@
     "up": "+430",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/?lang=de&basemap=swisstopo_lk&blop=0.8&x=2682182.892273&y=1245809.4862121&zl=4&hl=0&layers=swisstopo_wanderwege|hiking_mapplus&theme=4&subtheme=outdoor"
   },
   "Tageswanderung/659_Zuerich.html": {
     "duration": "1 hour 15",
@@ -2800,7 +2985,8 @@
     "up": "+160",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?x=685994&y=247444&zl=4&layers=cablecar%7Czoo%7Cviewpoints"
   },
   "Tageswanderung/660_Zuerich.html": {
     "duration": "1 hour 40",
@@ -2815,7 +3001,8 @@
     "access": [
       "Boat",
       "Train"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&bgLayer=pk&season=summer&resolution=8.73&E=2689011&N=1242450&photos=yes&logo=yes&layers=Wanderland&trackId=7731286"
   },
   "Tageswanderung/660a_Zuerich.html": {
     "duration": "3 hours 30",
@@ -2830,7 +3017,8 @@
     "access": [
       "Boat",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=10&season=summer&E=2690670&N=1239665&photos=yes&logo=yes&layers=Wanderland&trackId=6195984"
   },
   "Tageswanderung/661%20Zuerich.html": {
     "duration": "1 hour 40",
@@ -2845,7 +3033,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?trackId=219737&layers=WanderlandEtappenNational,WanderlandEtappenRegional,WanderlandEtappenLokal,Wanderwegnetz,OffentlicherBahn,OffentlicherBus,OffentlicherTramBus,OffentlicherSchiff,OffentlicherSeilbahn,OffentlicherStandseilbahn&karte=0.75"
   },
   "Tageswanderung/661a_Zuerich.html": {
     "duration": "4 hours 45",
@@ -2860,7 +3049,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?layers=Wanderland,Wanderwegnetz&bgLayer=pk&scale=50000&X=685111.6781445&Y=256367.602253&trackId=1540114&lang=de"
   },
   "Tageswanderung/662%20Zuerich.html": {
     "duration": "2 hours",
@@ -2875,7 +3065,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?layers=Station,Wanderland,Wanderwegnetz&bgLayer=pk&scale=50000&X=695531.856875&Y=262248.4094385&trackId=2020395&lang=de"
   },
   "Tageswanderung/662a_zuerich.html": {
     "duration": "3 hours 40",
@@ -2890,7 +3081,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?karte=0.75&trackId=1304738&lang=de&bgLayer=pk&season=summer&resolution=10&E=2696876&N=1258061&layers=Wanderland"
   },
   "Tageswanderung/663%20Zuercher%20Unterland.html": {
     "duration": "2 hours 50",
@@ -2904,7 +3096,8 @@
     "up": "+200",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=10&season=summer&E=2680396&N=1270385&logo=yes&layers=Wanderland&trackId=5324780"
   },
   "Tageswanderung/663a_weinland.html": {
     "duration": "3 hours 45",
@@ -2918,7 +3111,8 @@
     "up": "+250",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?karte=0.75&lang=de&bgLayer=pk&logo=yes&season=summer&resolution=2.5&E=2691333&N=1276011&layers=Wanderland&trackId=6164675"
   },
   "Tageswanderung/664%20Zuerichsee.html": {
     "duration": "3 hours 15",
@@ -2934,7 +3128,8 @@
       "Boat",
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?layers=wanderland,Wanderwegnetz&bgLayer=pk&scale=99999.8&X=700880.3719895&Y=233213.9949625&trackId=1497874&lang=de"
   },
   "Tageswanderung/664b_zuerichsee.html": {
     "duration": "1 hour",
@@ -2949,7 +3144,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&bgLayer=pk&season=summer&resolution=5&E=2700572&N=1235035&photos=yes&logo=yes&layers=Wanderland%2CStation&trackId=1378986728"
   },
   "Tageswanderung/665_Zuerichsee.html": {
     "duration": "4 hours",
@@ -2964,7 +3160,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?map=&marker=no&x=700683&y=227289&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
   },
   "Tageswanderung/666_Aargau.html": {
     "duration": "4 hours 30",
@@ -2979,7 +3176,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?map=&marker=no&x=642398&y=234993&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
   },
   "Tageswanderung/666a_Aargau.html": {
     "duration": "3 hours 30",
@@ -2994,7 +3192,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?layers=wanderland,Wanderwegnetz&bgLayer=pk&scale=199999.6&X=645409.4125765&Y=242687.2661775&trackId=1512197&lang=de"
   },
   "Tageswanderung/667_Rhein.html": {
     "duration": "2 hours 50",
@@ -3009,7 +3208,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=20&X=686333&Y=267023&layers=Wanderland&trackId=2749854"
   },
   "Tageswanderung/668_Zuerich.html": {
     "duration": "5 hours 50",
@@ -3023,7 +3223,8 @@
     "up": "+510",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=20&season=summer&E=2694162&N=1238890&photos=yes&logo=yes&layers=Wanderland&trackId=6196123"
   },
   "Tageswanderung/669_Zuerichsee.html": {
     "duration": "3 hours 30",
@@ -3038,7 +3239,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?layers=wanderland,Wanderwegnetz&bgLayer=pk&scale=99999.8&X=697885.7&Y=235397.584955&trackId=1497862&lang=de"
   },
   "Tageswanderung/670_Zuerich.html": {
     "duration": "3 hours 50",
@@ -3053,7 +3255,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=20&X=678800&Y=235980&layers=Wanderland&trackId=2721079"
   },
   "Tageswanderung/671_Zuerich.html": {
     "duration": "4 hours 15",
@@ -3068,7 +3271,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=20&X=678800&Y=235980&layers=Wanderland&trackId=2721079"
   },
   "Tageswanderung/672_Zuerich.html": {
     "duration": "5 hours 50",
@@ -3082,7 +3286,8 @@
     "up": "+320",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=20&X=678800&Y=235980&layers=Wanderland&trackId=2721079"
   },
   "Tageswanderung/673_Aargau.html": {
     "duration": "4 hours 15",
@@ -3097,7 +3302,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?x=669911&y=264313&zl=4&layers=museum"
   },
   "Tageswanderung/674_Sihltal.html": {
     "duration": "3 hours",
@@ -3112,7 +3318,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&bgLayer=pk&season=summer&resolution=6.61&E=2689344&N=1228532&photos=yes&logo=yes&layers=Wanderland%2CStation&trackId=6899120"
   },
   "Tageswanderung/675a_Aargau.html": {
     "duration": "5 hours 40",
@@ -3126,7 +3333,8 @@
     "up": "+40",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?x=671549&y=220258&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
   },
   "Tageswanderung/675b_Aargau.html": {
     "duration": "3 hours 20",
@@ -3140,7 +3348,8 @@
     "up": "+250",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?karte=0.75&layers=wanderland,Wanderwegnetz&scale=500000.27&X=661676.35576&Y=231978.06583&trackId=1302023&lang=de"
   },
   "Tageswanderung/676_Aargau.html": {
     "duration": "3 hours 45",
@@ -3154,7 +3363,8 @@
     "up": "+320",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?trackId=130891&layers=WanderlandRoutenNational&karte=0.75"
   },
   "Tageswanderung/677_Zuerich.html": {
     "duration": "3 hours 30",
@@ -3170,7 +3380,8 @@
       "Boat",
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=20&season=summer&E=2690419&N=1240410&logo=yes&layers=Wanderland&trackId=5311319"
   },
   "Tageswanderung/677a_Zuerich.html": {
     "duration": "2 hours 30",
@@ -3184,7 +3395,8 @@
     "up": "+400",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?trackId=259452&layers=WanderlandRoutenNational,WanderlandRoutenRegional,WanderlandRoutenLokal,Wanderwegnetz&karte=0.75"
   },
   "Tageswanderung/679_Zuerich.html": {
     "duration": "2 hours 20",
@@ -3199,7 +3411,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&land=wanderland&etappe=4.28&bgLayer=pk&logo=yes&season=summer&resolution=3.08&E=2674232&N=1257318&photos=yes&layers=Wanderland&trackId=1538643"
   },
   "Tageswanderung/680_Aargau.html": {
     "duration": "2 hours 30",
@@ -3213,7 +3426,8 @@
     "up": "+260",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://www.schweizmobil.ch/de/wanderland/routen/route/etappe-01601.html"
   },
   "Tageswanderung/681_Aargau.html": {
     "duration": "2 hours 30",
@@ -3228,7 +3442,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.schweizmobil.ch/de/wanderland/routen/route/etappe-01601.html"
   },
   "Tageswanderung/682_Aargau.html": {
     "duration": "3 hours 40",
@@ -3243,7 +3458,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.schweizmobil.ch/de/wanderland/routen/route/etappe-01601.html"
   },
   "Tageswanderung/684_Aargau.html": {
     "duration": "4 hours 40",
@@ -3257,7 +3473,8 @@
     "up": "+360",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&route=42&bgLayer=pk&resolution=18.12&photos=yes&logo=yes&season=summer&layers=Wanderland&E=2658033&N=1256217&trackId=3082851"
   },
   "Tageswanderung/684a_Aargau.html": {
     "duration": "3 hours 10",
@@ -3272,7 +3489,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?trackId=242391&layers=WanderlandRoutenNational,WanderlandRoutenRegional,WanderlandRoutenLokal,Wanderwegnetz&karte=0.75"
   },
   "Tageswanderung/685_Weinland.html": {
     "duration": "2 hours 50",
@@ -3287,7 +3505,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=50&X=695500&Y=274250&layers=Wanderland&trackId=3195281"
   },
   "Tageswanderung/686_Zuerich.html": {
     "duration": "3 hours 10",
@@ -3302,7 +3521,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?x=695113&y=251908&zl=4&layers=hiking&swisstopo=1%7Cviewpoints"
   },
   "Tageswanderung/686a_zuerich.html": {
     "duration": "2 hours 30",
@@ -3316,7 +3536,8 @@
     "up": "+150",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&bgLayer=pk&season=summer&resolution=11.74&E=2697165&N=1248345&photos=yes&logo=yes&layers=Wanderland%2CStation&trackId=1242149"
   },
   "Tageswanderung/687_Aargau.html": {
     "duration": "2 hours",
@@ -3330,7 +3551,8 @@
     "up": "+140",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&land=wanderland&etappe=4.28&bgLayer=pk&logo=yes&season=summer&resolution=2.05&E=2666925&N=1244381&photos=yes&layers=Wanderland&trackId=1237346"
   },
   "Tageswanderung/687a_Aargau.html": {
     "duration": "4 hours 20",
@@ -3344,7 +3566,8 @@
     "up": "+260",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?karte=0.75&layers=wanderland,Wanderwegnetz&scale=500000.27&X=665295.300141&Y=239890.0741905&trackId=1303875&lang=de"
   },
   "Tageswanderung/688_Aargau.html": {
     "duration": "2 hours 50",
@@ -3359,7 +3582,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?x=670589&y=240754&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
   },
   "Tageswanderung/688a_Aargau.html": {
     "duration": "3 hours 50",
@@ -3374,7 +3598,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?x=672582&y=228888&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
   },
   "Tageswanderung/689_Aargau.html": {
     "duration": "5 hours 30",
@@ -3389,7 +3614,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=10&season=summer&E=2643022&N=1237420&logo=yes&layers=Wanderland&trackId=5225247"
   },
   "Tageswanderung/689a_Aargau.html": {
     "duration": "3 hours 20",
@@ -3404,7 +3630,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=10&season=summer&E=2650148&N=1238209&logo=yes&layers=Wanderland&trackId=4834984"
   },
   "Tageswanderung/690_Zuerich.html": {
     "duration": "3 hours 10",
@@ -3418,7 +3645,8 @@
     "up": "+150",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?x=678659&y=260963&zl=4&layers=hiking&swisstopo=1"
   },
   "Tageswanderung/691_Aargau.html": {
     "duration": "3 hours",
@@ -3433,7 +3661,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?trackId=137158&layers=WanderlandRoutenNational,WanderlandRoutenRegional,WanderlandRoutenLokal,Wanderwegnetz&karte=0.75"
   },
   "Tageswanderung/692_Aargau.html": {
     "duration": "3 hours 40",
@@ -3448,7 +3677,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&land=wanderland&etappe=4.28&bgLayer=pk&logo=yes&season=summer&resolution=11.76&E=2658817&N=1239721&photos=yes&layers=Wanderland%2CStation&trackId=7654076"
   },
   "Tageswanderung/692a_aargau.htm": {
     "duration": "4 hours 45",
@@ -3462,7 +3692,8 @@
     "up": "+650",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&land=wanderland&etappe=4.28&bgLayer=pk&logo=yes&season=summer&resolution=16.84&E=2655320&N=1238536&photos=yes&detours=yes&layers=Wanderland%2CStation&trackId=1403577021"
   },
   "Tageswanderung/693a_Zuerich.html": {
     "duration": "5 hours",
@@ -3477,7 +3708,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=5&X=693125&Y=260685&trackId=1646050"
   },
   "Tageswanderung/693b_Zuerich.html": {
     "duration": "4 hours 20",
@@ -3492,7 +3724,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=20&X=695935&Y=264588&layers=Wanderland&trackId=2407183"
   },
   "Tageswanderung/693c_Zuerich.html": {
     "duration": "5 hours 55",
@@ -3507,7 +3740,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?layers=Wanderland,Wanderwegnetz&bgLayer=pk&scale=200000&X=700751.0952695&Y=263836.374397&trackId=1893255&lang=de"
   },
   "Tageswanderung/693d_Zuerich.html": {
     "duration": "4 hours 45",
@@ -3522,7 +3756,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?layers=Wanderland,Wanderwegnetz&bgLayer=pk&scale=100000&X=699529.5541165&Y=258620.82875&trackId=1913692&lang=de"
   },
   "Tageswanderung/694_Zuerich.html": {
     "duration": "3 hours 40",
@@ -3536,7 +3771,8 @@
     "up": "+340",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&showLogin=true&bgLayer=pk&resolution=50&X=687199&Y=264299&layers=Wanderland&trackId=2636003"
   },
   "Tageswanderung/695_zuerich.html": {
     "duration": "3 hours",
@@ -3550,7 +3786,8 @@
     "up": "+230",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=20&X=694080&Y=267940&layers=Wanderland&trackId=3267804"
   },
   "Tageswanderung/700%20Bern.html": {
     "duration": "2 hours 35",
@@ -3566,7 +3803,8 @@
       "AerialLift",
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=10&X=635630&Y=159170&layers=Wanderland&highlight=WanderlandEtappenNational*1.12"
   },
   "Tageswanderung/701%20Bern.html": {
     "duration": "4 hours 30",
@@ -3580,7 +3818,8 @@
     "up": "+650",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&p&etappe=26.03&wanderwegnetz=all"
   },
   "Tageswanderung/701a_Bern.html": {
     "duration": "5 hours 30",
@@ -3595,7 +3834,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?x=626597&y=162357&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
   },
   "Tageswanderung/702%20Bern.html": {
     "duration": "3 hours 50",
@@ -3609,7 +3849,8 @@
     "up": "+530",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?trackId=213104&layers=WanderlandRoutenNational,WanderlandRoutenRegional,WanderlandRoutenLokal&karte=0.75"
   },
   "Tageswanderung/702a_Bern.html": {
     "duration": "1 hour 20",
@@ -3623,7 +3864,8 @@
     "up": "+70",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?trackId=1255265&layers=WanderlandRoutenNational,WanderlandRoutenRegional,WanderlandRoutenLokal,Wanderwegnetz&karte=0.75"
   },
   "Tageswanderung/703%20Bern.html": {
     "duration": "4 hours 45",
@@ -3637,7 +3879,8 @@
     "up": "+200",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/?lang=de&basemap=swisstopo_lk&blop=0.8&x=2655276.2729533&y=1179242.0330709&zl=3&hl=0&layers=swisstopo_wanderwege|hiking_mapplus&theme=4"
   },
   "Tageswanderung/704%20Bern.html": {
     "duration": "3 hours 50",
@@ -3651,7 +3894,8 @@
     "up": "+590",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?map=&marker=no&x=653667&y=180666&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
   },
   "Tageswanderung/705%20Bern.html": {
     "duration": "5 hours 30",
@@ -3667,7 +3911,8 @@
       "AerialLift",
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/?lang=de&basemap=swisstopo_lk&blop=0.8&x=2603453&y=1172732&zl=5&hl=0&layers=swisstopo_wanderwege|hiking_mapplus&theme=4&subtheme=outdoor"
   },
   "Tageswanderung/705a_Bern.html": {
     "duration": "1 hour 30",
@@ -3682,7 +3927,8 @@
     "access": [
       "AerialLift",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?x=607308&y=170610&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
   },
   "Tageswanderung/706%20Bern.html": {
     "duration": "2 hours 30",
@@ -3697,7 +3943,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&land=wanderland&etappe=4.28&layers=Wanderland&bgLayer=pk&logo=yes&season=summer&resolution=20&E=2622277&N=1215057"
   },
   "Tageswanderung/706a_Bern.html": {
     "duration": "4 hours 30",
@@ -3712,7 +3959,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?x=622955&y=213017&zl=4&layers=cablecar%7Chiking&swisstopo=1"
   },
   "Tageswanderung/707%20Bern.html": {
     "duration": "7 hours 30",
@@ -3727,7 +3975,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/?lang=de&basemap=swisstopo_lk&blop=0.8&x=2606392.892273&y=1177520.4862121&zl=4&hl=0&layers=swisstopo_wanderwege|hiking_mapplus&theme=4&subtheme=outdoor"
   },
   "Tageswanderung/707a_Bern.html": {
     "duration": "4 hours 30",
@@ -3742,7 +3991,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&p&route=379"
   },
   "Tageswanderung/708%20Bern.html": {
     "duration": "7 hours",
@@ -3757,7 +4007,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?layers=Wanderland,Wanderwegnetz&bgLayer=pk&scale=200000&X=625684.615073&Y=182892.446692&trackId=2074757&lang=de"
   },
   "Tageswanderung/708a_Bern.html": {
     "duration": "3 hours 30",
@@ -3772,7 +4023,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?x=616298&y=186067&zl=4&layers=culture%7Chiking"
   },
   "Tageswanderung/709%20Bern.html": {
     "duration": "5 hours 50",
@@ -3787,7 +4039,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?trackId=129097&layers=WanderlandRoutenNational,WanderlandRoutenRegional,WanderlandRoutenLokal,Wanderwegnetz&karte=0.75"
   },
   "Tageswanderung/710_b_Bern.html": {
     "duration": "1 hour 30",
@@ -3802,7 +4055,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?trackId=1227728&layers=WanderlandRoutenNational,WanderlandRoutenRegional,WanderlandRoutenLokal,Wanderwegnetz&karte=0.75"
   },
   "Tageswanderung/710_d_Bern.html": {
     "duration": "2 hours 40",
@@ -3817,7 +4071,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=5&E=2619180&N=1177035&layers=Wanderland&trackId=3742755"
   },
   "Tageswanderung/710aBern.html": {
     "duration": "3 hours",
@@ -3832,7 +4087,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?karte=0.75&layers=wanderland,Wanderwegnetz&scale=49999.9&X=617632.246492&Y=178313.902938&trackId=1316569&lang=de"
   },
   "Tageswanderung/710c_Bern.html": {
     "duration": "4 hours",
@@ -3847,7 +4103,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=10&X=613371&Y=175830&layers=Wanderland&trackId=2738999"
   },
   "Tageswanderung/711%20Bern.html": {
     "duration": "3 hours 15",
@@ -3862,7 +4119,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?map=&marker=no&x=655870&y=172366&zl=4&layers=hiking&swisstopo=1"
   },
   "Tageswanderung/712%20Bern.html": {
     "duration": "5 hours 20",
@@ -3877,7 +4135,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?trackId=129104&layers=WanderlandRoutenNational,WanderlandRoutenRegional,WanderlandRoutenLokal,Wanderwegnetz&karte=0.75"
   },
   "Tageswanderung/712a_Bern.html": {
     "duration": "4 hours",
@@ -3892,7 +4151,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?trackId=129854&layers=WanderlandEtappenNational%2CWanderlandEtappenRegional%2CWanderlandEtappenLokal%2CWanderwegnetz&karte=0.75&lang=de&bgLayer=pk&resolution=10&X=628800&Y=212919"
   },
   "Tageswanderung/712b_bern.html": {
     "duration": "5 hours 20",
@@ -3907,7 +4167,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=10&season=summer&E=2637474&N=1203728&logo=yes&layers=Wanderland%2CStation&trackId=5611549"
   },
   "Tageswanderung/712c_Bern.html": {
     "duration": "4 hours",
@@ -3922,7 +4183,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&bgLayer=pk&season=summer&resolution=5&E=2631783&N=1212665&photos=yes&logo=yes&layers=Wanderland%2CStation&trackId=7053872"
   },
   "Tageswanderung/713%20Bern.html": {
     "duration": "5 hours",
@@ -3937,7 +4199,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?layers=wanderland,Wanderwegnetz&bgLayer=pk&scale=49999.9&X=644534.9575&Y=167731.993909&trackId=1420931&lang=de"
   },
   "Tageswanderung/714%20Bern.html": {
     "duration": "4 hours 20",
@@ -3952,7 +4215,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?karte=0.75&lang=de&bgLayer=pk&resolution=10&E=2582090&N=1135410&layers=Wanderland&trackId=3827115"
   },
   "Tageswanderung/714a%20Bern.html": {
     "duration": "4 hours 40",
@@ -3966,7 +4230,8 @@
     "up": "+520",
     "access": [
       "Bus"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&season=summer&photos=yes&bgLayer=pk&logo=yes&detours=yes&resolution=23.48&E=2582964&N=1135607&layers=Wanderland&trackId=1547172945"
   },
   "Tageswanderung/715%20Bern.html": {
     "duration": "6 hours 30",
@@ -3980,7 +4245,8 @@
     "up": "+1070",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=10&E=2595520&N=1147610&layers=Wanderland&trackId=3826330"
   },
   "Tageswanderung/716%20Luzern.html": {
     "duration": "5 hours 45",
@@ -3995,7 +4261,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/index.php?lang=de&basemap=osm_alps&blop=1&x=2651570.7510794&y=1196416.6257172&zl=5&hl=0&layers=hiking|hiking_mapplus&op=0.8|1"
   },
   "Tageswanderung/717%20Bern.html": {
     "duration": "2 hours 10",
@@ -4009,7 +4276,8 @@
     "up": "+250",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&bgLayer=pk&season=summer&resolution=2.66&E=2611552&N=1198898&photos=yes&logo=yes&layers=Wanderland%2CStation&trackId=796845797"
   },
   "Tageswanderung/718_Bern.html": {
     "duration": "3 hours 10",
@@ -4023,7 +4291,8 @@
     "up": "+1006",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?layers=Wanderland,Wanderwegnetz&bgLayer=pk&scale=100000&X=617387.7&Y=165504.5&trackId=1979350&lang=de"
   },
   "Tageswanderung/719_Bern.html": {
     "duration": "3 hours 30",
@@ -4038,7 +4307,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?layers=wanderland,Wanderwegnetz&bgLayer=pk&scale=99999.8&X=622723.499733&Y=156762.4155285&trackId=1434619&lang=de"
   },
   "Tageswanderung/721_Bern.html": {
     "duration": "3 hours",
@@ -4054,7 +4324,8 @@
       "AerialLift",
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?trackId=136322&layers=Wanderwegnetz&karte=0.75"
   },
   "Tageswanderung/722%20Bern.html": {
     "duration": "6 hours 40",
@@ -4069,7 +4340,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=20&season=summer&E=2596380&N=1170233&logo=yes&layers=Wanderland&trackId=5503438"
   },
   "Tageswanderung/722b_bern.html": {
     "duration": "2 hours 35",
@@ -4084,7 +4356,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=5&season=summer&E=2601032&N=1167933&logo=yes&layers=Wanderland&trackId=5503539"
   },
   "Tageswanderung/723_Bern.html": {
     "duration": "5 hours 10",
@@ -4098,7 +4371,8 @@
     "up": "+500",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&p=&route=380&etappe=all&wanderwegnetz=all&bgLayer=pk&resolution=3.21&photos=yes&logo=yes&detours=yes&season=summer&layers=Wanderland%2CStation&E=2604093&N=1186814&trackId=1347386668"
   },
   "Tageswanderung/723a_Bern.html": {
     "duration": "3 hours 40",
@@ -4113,7 +4387,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=20&photos=no&logo=no&season=summer&layers=Wanderland&E=2601200&N=1188851&trackId=6359220"
   },
   "Tageswanderung/724_Bielersee.html": {
     "duration": "2 hours 50",
@@ -4129,7 +4404,8 @@
       "Boat",
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/?lang=de&basemap=swisstopo_lk&blop=0.8&x=2575027.892273&y=1211277.4862121&zl=4&hl=0&layers=swisstopo_wanderwege|hiking_mapplus&theme=4&subtheme=outdoor"
   },
   "Tageswanderung/724a_bielersee.html": {
     "duration": "3 hours 20",
@@ -4144,7 +4420,8 @@
     "access": [
       "Boat",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=20&season=summer&E=2573600&N=1209585&layers=Wanderland&trackId=4309317"
   },
   "Tageswanderung/725%20Bern.html": {
     "duration": "3 hours",
@@ -4159,7 +4436,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?map=&marker=no&x=612093&y=210335&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
   },
   "Tageswanderung/726_Bern.html": {
     "duration": "2 hours 10",
@@ -4174,7 +4452,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=5&E=2667740&N=1162240&layers=Wanderland&trackId=3957206"
   },
   "Tageswanderung/727_Bern.html": {
     "duration": "3 hours 10",
@@ -4189,7 +4468,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&bgLayer=pk&season=summer&resolution=5&E=2600025&N=1173457&photos=yes&logo=yes&layers=Wanderland%2CStation&trackId=7731463"
   },
   "Tageswanderung/728_Bern.html": {
     "duration": "4 hours 10",
@@ -4204,7 +4484,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?map=&marker=no&x=630963&y=184691&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
   },
   "Tageswanderung/729_Bern.html": {
     "duration": "5 hours 30",
@@ -4219,7 +4500,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?trackId=291485&layers=WanderlandRoutenNational,WanderlandRoutenRegional,WanderlandRoutenLokal,Wanderwegnetz&karte=0.75"
   },
   "Tageswanderung/729b_Bern.html": {
     "duration": "3 hours 50",
@@ -4234,7 +4516,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&p&route=320&etappe=all&wanderwegnetz=all"
   },
   "Tageswanderung/730_Bern.html": {
     "duration": "8 hours 50",
@@ -4249,7 +4532,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?map=&marker=no&x=614169&y=163067&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
   },
   "Tageswanderung/730a_Bern.html": {
     "duration": "2 hours 30",
@@ -4264,7 +4548,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=5&X=613945&Y=157995&layers=Wanderland%2CStation&trackId=2875930"
   },
   "Tageswanderung/731_Bern.html": {
     "duration": "5 hours 10",
@@ -4280,7 +4565,8 @@
       "Bus",
       "Car",
       "Train"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&bgLayer=pk&season=summer&resolution=10.79&E=2607430&N=1145947&photos=yes&logo=yes&detours=yes&layers=Wanderland%2CStation&trackId=1276621507"
   },
   "Tageswanderung/731a_Bern.html": {
     "duration": "1 hour 50",
@@ -4296,7 +4582,8 @@
       "AerialLift",
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?x=609536&y=145847&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
   },
   "Tageswanderung/732_Bern.html": {
     "duration": "1 hour 5",
@@ -4312,7 +4599,8 @@
       "AerialLift",
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?map=&marker=no&x=636625&y=158641&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
   },
   "Tageswanderung/733_Bern.html": {
     "duration": "3 hours 50",
@@ -4327,7 +4615,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&p&etappe=26.02&wanderwegnetz=all"
   },
   "Tageswanderung/733a_Bern.html": {
     "duration": "4 hours",
@@ -4341,7 +4630,8 @@
     "up": "+520",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?layers=Wanderland,Wanderwegnetz&bgLayer=pk&scale=200000&X=633167.691409&Y=173156.6938795&trackId=1836708&lang=de"
   },
   "Tageswanderung/734_Bern.html": {
     "duration": "5 hours",
@@ -4355,7 +4645,8 @@
     "up": "+500",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?x=608729&y=201831&zl=4&layers=cablecar%7Chiking&swisstopo=1"
   },
   "Tageswanderung/735_Bern.html": {
     "duration": "2 hours 10",
@@ -4371,7 +4662,8 @@
       "AerialLift",
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?x=661940&y=177224&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
   },
   "Tageswanderung/735a_Bern.html": {
     "duration": "3 hours 30",
@@ -4387,7 +4679,8 @@
       "AerialLift",
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?layers=Wanderland&bgLayer=pk&X=661536&Y=180045&highlight=WanderlandEtappenNational*70.01%2CWanderlandEtappenRegional*70.01%2CWanderlandEtappenLokal*70.01%2CWanderlandEtappenHandicap*70.01%2CWanderlandRoutenRegional*70&lang=de&resolution=5&trackId=2196345"
   },
   "Tageswanderung/736_Bern.html": {
     "duration": "4 hours 10",
@@ -4404,7 +4697,8 @@
       "Boat",
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?x=625407&y=172079&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
   },
   "Tageswanderung/737_Bern.html": {
     "duration": "1 hour 40",
@@ -4419,7 +4713,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?x=658953&y=174476&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
   },
   "Tageswanderung/738%20Luzern.html": {
     "duration": "3 hours 10",
@@ -4434,7 +4729,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.wanderland.ch/de/regionale-routen/route-065.html"
   },
   "Tageswanderung/739_Bern.html": {
     "duration": "2 hours 30",
@@ -4449,7 +4745,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?x=635344&y=184018&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
   },
   "Tageswanderung/739a_Bern.html": {
     "duration": "4 hours 45",
@@ -4464,7 +4761,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=20&X=615909&Y=198512&trackId=3379021&layers=Wanderland"
   },
   "Tageswanderung/740%20Luzern.html": {
     "duration": "2 hours 40",
@@ -4478,7 +4776,8 @@
     "up": "+110",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?x=640576&y=197299&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
   },
   "Tageswanderung/740a_Luzern.html": {
     "duration": "1 hour 20",
@@ -4493,7 +4792,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?x=646157&y=200490&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
   },
   "Tageswanderung/741a_Bern.html": {
     "duration": "4 hours 45",
@@ -4508,7 +4808,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?karte=0.75&lang=de&photos=yes&bgLayer=pk&logo=yes&season=summer&resolution=5.4&E=2618415&N=1189457&layers=Wanderland&trackId=1315581"
   },
   "Tageswanderung/742_Luzern.html": {
     "duration": "5 hours",
@@ -4522,7 +4823,8 @@
     "up": "+650",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?trackId=129880&layers=WanderlandRoutenNational,WanderlandRoutenRegional,WanderlandRoutenLokal,Wanderwegnetz&karte=0.75"
   },
   "Tageswanderung/743_Bern.html": {
     "duration": "1 hour 25",
@@ -4537,7 +4839,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?x=618056&y=150777&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
   },
   "Tageswanderung/743b_Bern.html": {
     "duration": "4 hours 20",
@@ -4552,7 +4855,8 @@
     "access": [
       "AerialLift",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?x=620744&y=150446&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
   },
   "Tageswanderung/744_Bern.html": {
     "duration": "1 hour 45",
@@ -4566,7 +4870,8 @@
     "up": "+220",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?x=635633&y=167314&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
   },
   "Tageswanderung/744a_Bern.html": {
     "duration": "6 hours",
@@ -4580,7 +4885,8 @@
     "up": "+830",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?trackId=214846&layers=WanderlandRoutenNational,WanderlandRoutenRegional,WanderlandRoutenLokal,Wanderwegnetz&karte=0.75"
   },
   "Tageswanderung/745_Bern.html": {
     "duration": "2 hours 40",
@@ -4594,7 +4900,8 @@
     "up": "+380",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=5&season=summer&E=2600327&N=1196624&logo=yes&layers=Wanderland&trackId=5482662"
   },
   "Tageswanderung/746_Bern.html": {
     "duration": "4 hours 30",
@@ -4609,7 +4916,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?trackId=141851&layers=WanderlandRoutenNational,WanderlandRoutenRegional,WanderlandRoutenLokal,Wanderwegnetz&karte=0.75"
   },
   "Tageswanderung/746a_Bern_Aargau.html": {
     "duration": "3 hours 40",
@@ -4623,7 +4931,8 @@
     "up": "+160",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?layers=Wanderland,Wanderwegnetz&bgLayer=pk&scale=100000&X=627392.71021&Y=233668.6786605&trackId=1933525&lang=de"
   },
   "Tageswanderung/747_Bern.html": {
     "duration": "2 hours 50",
@@ -4638,7 +4947,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?trackId=144347&layers=WanderlandRoutenNational,WanderlandRoutenRegional,WanderlandRoutenLokal,Wanderwegnetz&karte=0.75"
   },
   "Tageswanderung/748_Jura.html": {
     "duration": "3 hours 15",
@@ -4653,7 +4963,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=10&E=2650780&N=1253760&layers=Wanderland&trackId=3957172"
   },
   "Tageswanderung/749_Jura.html": {
     "duration": "3 hours 45",
@@ -4667,7 +4978,8 @@
     "up": "+700",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?trackId=137838&layers=WanderlandRoutenNational,WanderlandRoutenRegional,WanderlandRoutenLokal,Wanderwegnetz&karte=0.75"
   },
   "Tageswanderung/750%20Jura.html": {
     "duration": "4 hours",
@@ -4682,7 +4994,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?trackId=138624&layers=WanderlandRoutenNational,WanderlandRoutenRegional,WanderlandRoutenLokal,Wanderwegnetz&karte=0.75"
   },
   "Tageswanderung/751Jura.html": {
     "duration": "4 hours",
@@ -4697,7 +5010,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?trackId=1230100&layers=WanderlandRoutenNational,WanderlandRoutenRegional,Wanderwegnetz&karte=0.75"
   },
   "Tageswanderung/752%20Jura.html": {
     "duration": "4 hours",
@@ -4713,7 +5027,8 @@
       "AerialLift",
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=2&X=597882&Y=231462&trackId=3121625"
   },
   "Tageswanderung/752a%20Jura.html": {
     "duration": "4 hours 20",
@@ -4728,7 +5043,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?layers=Wanderland,Wanderwegnetz&bgLayer=pk&scale=200000&X=588910.59375&Y=227304.8984375&highlight=WanderlandRoutenNational*5&lang=de"
   },
   "Tageswanderung/753%20Jura.html": {
     "duration": "3 hours 50",
@@ -4743,7 +5059,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=10&season=summer&E=2569928&N=1232092&logo=no&layers=Wanderland%2CStation&trackId=6113020"
   },
   "Tageswanderung/754_Jura.html": {
     "duration": "5 hours 15",
@@ -4758,7 +5075,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=10&E=2582400&N=1238950&layers=Wanderland&trackId=3901444"
   },
   "Tageswanderung/754a_Jura.html": {
     "duration": "3 hours 15",
@@ -4772,7 +5090,8 @@
     "up": "+160",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?layers=Wanderland,Wanderwegnetz&bgLayer=pk&scale=100000&X=580398.7009375&Y=260131.1575&trackId=2108725&lang=de"
   },
   "Tageswanderung/755%20Jura.html": {
     "duration": "5 hours 15",
@@ -4786,7 +5105,8 @@
     "up": "+950",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?layers=WanderlandEtappenNational%2CWanderlandEtappenRegional%2CWanderlandEtappenLokal%2CWanderwegnetz&karte=0.75&lang=de&photos=yes&logo=yes&season=summer&resolution=29.1&E=2533004&N=1189776&bgLayer=pk&trackId=292081"
   },
   "Tageswanderung/756%20Jura.html": {
     "duration": "4 hours 45",
@@ -4800,7 +5120,8 @@
     "up": "+580",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=5&season=summer&E=2564257&N=1233283&layers=Wanderland&trackId=4227772"
   },
   "Tageswanderung/756a_jura.html": {
     "duration": "3 hours 50",
@@ -4815,7 +5136,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=10&X=577659&Y=244531&layers=Wanderland&trackId=3202378"
   },
   "Tageswanderung/757%20Jura.html": {
     "duration": "6 hours",
@@ -4829,7 +5151,8 @@
     "up": "+820",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=10&season=summer&E=2606104&N=1254713&logo=yes&layers=Wanderland&trackId=5599869"
   },
   "Tageswanderung/758%20Nordwestschweiz.html": {
     "duration": "4 hours",
@@ -4843,7 +5166,8 @@
     "up": "+470",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?map=&marker=no&x=616417&y=258432&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
   },
   "Tageswanderung/758aNordwestschweiz.html": {
     "duration": "4 hours 30",
@@ -4857,7 +5181,8 @@
     "up": "+670",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=5&season=summer&E=2614553&N=1257340&logo=yes&layers=Wanderland&trackId=1288724"
   },
   "Tageswanderung/758b_Nordwestschweiz.html": {
     "duration": "2 hours 30",
@@ -4871,7 +5196,8 @@
     "up": "+450",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&showLogin=true&bgLayer=pk&logo=yes&season=summer&resolution=5&E=2615480&N=1258901&trackId=5445882"
   },
   "Tageswanderung/759%20Fricktal.html": {
     "duration": "5 hours",
@@ -4886,7 +5212,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?map=&marker=no&x=629330&y=263905&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
   },
   "Tageswanderung/760%20Jura.html": {
     "duration": "1 hour 50",
@@ -4901,7 +5228,8 @@
     "access": [
       "AerialLift",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=10&X=605350&Y=233142&layers=Wanderland&trackId=2416747"
   },
   "Tageswanderung/761%20Jura.html": {
     "duration": "2 hours 40",
@@ -4916,7 +5244,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/?lang=de&basemap=swisstopo_lk&blop=0.8&x=2573047.892273&y=1220837.4862121&zl=4&hl=0&layers=swisstopo_wanderwege|hiking_mapplus&theme=4&subtheme=outdoor"
   },
   "Tageswanderung/762%20Jura.html": {
     "duration": "7 hours 25",
@@ -4930,7 +5259,8 @@
     "up": "+930",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=20&X=502500&Y=149280&layers=Wanderland&trackId=2416664"
   },
   "Tageswanderung/763%20Fricktal.html": {
     "duration": "7 hours 50",
@@ -4945,7 +5275,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=10&season=summer&E=2647280&N=1263310&layers=Wanderland%2CStation&trackId=4031832"
   },
   "Tageswanderung/763a_fricktal.html": {
     "duration": "3 hours 30",
@@ -4960,7 +5291,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&showLogin=true&bgLayer=pk&season=summer&resolution=10&E=2651446&N=1262229&layers=Wanderland&trackId=4035624"
   },
   "Tageswanderung/764%20Fricktal.html": {
     "duration": "4 hours 20",
@@ -4975,7 +5307,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/?lang=de&basemap=swisstopo_lk&blop=0.8&x=2647612.5690918&y=1263190.5448486&zl=3&hl=0&layers=swisstopo_wanderwege|hiking_mapplus&theme=4&subtheme=outdoor"
   },
   "Tageswanderung/765%20Fricktal.html": {
     "duration": "4 hours 30",
@@ -4990,7 +5323,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/?lang=de&basemap=swisstopo_lk&blop=0.8&x=2647612.5690918&y=1263190.5448486&zl=3&hl=0&layers=swisstopo_wanderwege|hiking_mapplus&theme=4&subtheme=outdoor"
   },
   "Tageswanderung/767%20Nordwestschweiz.html": {
     "duration": "3 hours 20",
@@ -5005,7 +5339,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?trackId=129859&layers=WanderlandRoutenNational,WanderlandRoutenRegional,WanderlandRoutenLokal,Wanderwegnetz&karte=0.75"
   },
   "Tageswanderung/768_Jura.html": {
     "duration": "4 hours 15",
@@ -5019,7 +5354,8 @@
     "up": "+590",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?trackId=138546&layers=WanderlandRoutenNational,WanderlandRoutenRegional,WanderlandRoutenLokal,Wanderwegnetz&karte=0.75"
   },
   "Tageswanderung/768a_Jura.html": {
     "duration": "4 hours 10",
@@ -5034,7 +5370,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=10&season=summer&E=2633751&N=1254361&logo=yes&layers=Wanderland&trackId=5345690"
   },
   "Tageswanderung/769_Jura.html": {
     "duration": "4 hours 20",
@@ -5049,7 +5386,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/?lang=de&basemap=swisstopo_lk&blop=0.8&x=2588933.3742437&y=1233279.6180896&zl=4&hl=0&layers=swisstopo_wanderwege|hiking_mapplus&theme=4&subtheme=outdoor"
   },
   "Tageswanderung/770_Jura.html": {
     "duration": "5 hours 20",
@@ -5064,7 +5402,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=50&X=597348&Y=247511&layers=Wanderland&trackId=3484901"
   },
   "Tageswanderung/770a_Jura.html": {
     "duration": "4 hours",
@@ -5079,7 +5418,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&land=wanderland&route=484&lightbox&bgLayer=pk&layers=Wanderland&resolution=5&X=608221&Y=238202"
   },
   "Tageswanderung/771_Jura.html": {
     "duration": "4 hours 45",
@@ -5093,7 +5433,8 @@
     "up": "+90",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&bgLayer=pk&season=summer&resolution=20&E=2573463&N=1239615&photos=yes&logo=yes&layers=Wanderland&trackId=1024058856"
   },
   "Tageswanderung/771a_Jura.html": {
     "duration": "4 hours 15",
@@ -5107,7 +5448,8 @@
     "up": "+330",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&bgLayer=pk&season=summer&resolution=50.6&E=2556954&N=1224139&photos=yes&logo=yes&layers=Wanderland&trackId=157147810"
   },
   "Tageswanderung/772_Nordwestschweiz.html": {
     "duration": "4 hours 30",
@@ -5121,7 +5463,8 @@
     "up": "+480",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/?lang=de&basemap=swisstopo_lk&blop=0.8&x=2631311.6391396&y=1254130.8965943&zl=3&hl=0&layers=swisstopo_wanderwege|hiking_mapplus&theme=4&subtheme=outdoor"
   },
   "Tageswanderung/773_Jura.html": {
     "duration": "3 hours 15",
@@ -5136,7 +5479,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?trackId=255248&layers=WanderlandRoutenNational,WanderlandRoutenRegional,WanderlandRoutenLokal,Wanderwegnetz&karte=0.75"
   },
   "Tageswanderung/774_Baselland.html": {
     "duration": "3 hours 20",
@@ -5151,7 +5495,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=8.33&season=summer&E=2607088&N=1257648&logo=yes&photos=yes&layers=Wanderland&trackId=231426050"
   },
   "Tageswanderung/775_Jura.html": {
     "duration": "5 hours 10",
@@ -5166,7 +5511,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?map=&marker=no&x=603087&y=245174&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
   },
   "Tageswanderung/775a_Jura.html": {
     "duration": "4 hours 20",
@@ -5181,7 +5527,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&bgLayer=pk&season=summer&resolution=7.24&E=2591338&N=1247782&photos=yes&logo=yes&layers=Wanderland&trackId=1969355388"
   },
   "Tageswanderung/776_Nordwestschweiz.html": {
     "duration": "3 hours 20",
@@ -5196,7 +5543,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?map=&marker=no&x=618555&y=251219&zl=4&layers=hiking&swisstopo=1"
   },
   "Tageswanderung/776a_Nordwestschweiz.html": {
     "duration": "3 hours 30",
@@ -5211,7 +5559,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?x=620215&y=255688&zl=4&layers=hiking&swisstopo=1%7Cculture"
   },
   "Tageswanderung/777_Baselland.html": {
     "duration": "5 hours",
@@ -5226,7 +5575,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=20&season=summer&E=2609448&N=1255668&logo=yes&layers=Wanderland&trackId=5225170"
   },
   "Tageswanderung/778_Baselland.html": {
     "duration": "2 hours 10",
@@ -5241,7 +5591,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?trackId=1236297&layers=WanderlandRoutenNational,WanderlandRoutenRegional,WanderlandRoutenLokal,Wanderwegnetz,OffentlicherBahn,OffentlicherBus,OffentlicherTramBus,OffentlicherSchiff,OffentlicherSeilbahn,OffentlicherStandseilbahn&karte=0.75"
   },
   "Tageswanderung/779_Jura.html": {
     "duration": "4 hours 15",
@@ -5256,7 +5607,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=10&E=2592340&N=1234350&layers=Wanderland&trackId=3771539"
   },
   "Tageswanderung/780_Jura.html": {
     "duration": "5 hours 30",
@@ -5270,7 +5622,8 @@
     "up": "+270",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?layers=Wanderland,Wanderwegnetz&bgLayer=pk&scale=500000&X=575928.8420915&Y=235377.6110935&trackId=1979503&lang=de"
   },
   "Tageswanderung/781_Fricktal.html": {
     "duration": "5 hours 40",
@@ -5285,7 +5638,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?layers=Wanderland,Wanderwegnetz&bgLayer=pk&scale=200000&X=653236.434375&Y=265949.208954&trackId=2008025&lang=de"
   },
   "Tageswanderung/781a_Fricktal.html": {
     "duration": "4 hours 10",
@@ -5300,7 +5654,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=20&X=652490&Y=268865&trackId=3184561"
   },
   "Tageswanderung/782_Jura.html": {
     "duration": "4 hours",
@@ -5314,7 +5669,8 @@
     "up": "+130",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?layers=Wanderland,Wanderwegnetz&bgLayer=pk&scale=200000&X=521185.5&Y=169754.7573895&trackId=2086252&lang=de"
   },
   "Tageswanderung/782a_Jura.html": {
     "duration": "4 hours 30",
@@ -5328,7 +5684,8 @@
     "up": "+470",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&land=wanderland&etappe=4.28&bgLayer=pk&logo=yes&season=summer&resolution=6.68&E=2528830&N=1169635&photos=yes&layers=Wanderland&trackId=2086241"
   },
   "Tageswanderung/783_Jura.html": {
     "duration": "3 hours 50",
@@ -5342,7 +5699,8 @@
     "up": "+570",
     "access": [
       "Bus"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&bgLayer=pk&season=summer&resolution=10&E=2576725&N=1222210&photos=yes&logo=yes&layers=Wanderland%2CStation&trackId=351785786"
   },
   "Tageswanderung/784_Jura.html": {
     "duration": "5 hours",
@@ -5356,7 +5714,8 @@
     "up": "+420",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?map=&marker=no&x=498596&y=147445&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
   },
   "Tageswanderung/784a_Jura.html": {
     "duration": "4 hours 20",
@@ -5371,7 +5730,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?layers=Wanderland,Wanderwegnetz&bgLayer=pk&scale=200000&X=527840.50054&Y=185373.4466565&trackId=2114990&lang=de"
   },
   "Tageswanderung/785_Jura.html": {
     "duration": "5 hours 20",
@@ -5385,7 +5745,8 @@
     "up": "+790",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&season=summer&photos=yes&bgLayer=pk&logo=yes&detours=yes&resolution=2.27&E=2628831&N=1244751&layers=Wanderland&trackId=665942565"
   },
   "Tageswanderung/785a_jura.html": {
     "duration": "3 hours 30",
@@ -5400,7 +5761,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?karte=0.75&lang=de&bgLayer=pk&season=summer&resolution=5&E=2632651&N=1246106&layers=Wanderland&trackId=4301501"
   },
   "Tageswanderung/786_Jura.html": {
     "duration": "1 hour 50",
@@ -5415,7 +5777,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=10&season=summer&E=2604371&N=1230138&logo=yes&layers=Wanderland&trackId=5519123"
   },
   "Tageswanderung/787_Jura.html": {
     "duration": "5 hours 20",
@@ -5430,7 +5793,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=20&season=summer&E=2610058&N=1243820&logo=yes&layers=Wanderland&trackId=5502189"
   },
   "Tageswanderung/788_Jura.html": {
     "duration": "4 hours 15",
@@ -5444,7 +5808,8 @@
     "up": "+740",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&p&route=286"
   },
   "Tageswanderung/789_Nordwestschweiz.html": {
     "duration": "1 hour 50",
@@ -5460,7 +5825,8 @@
       "AerialLift",
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&bgLayer=pk&season=summer&resolution=1&E=2619826&N=1247326&photos=yes&logo=yes&layers=Station&trackId=138140446"
   },
   "Tageswanderung/789b_nordwestschweiz.html": {
     "duration": "4 hours 10",
@@ -5475,7 +5841,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=5&season=summer&E=2621044&N=1247041&logo=yes&trackId=5471415&photos=yes&layers=Wanderland"
   },
   "Tageswanderung/789c_nordwestschweiz.html": {
     "duration": "3 hours 40",
@@ -5490,7 +5857,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&season=summer&photos=yes&bgLayer=pk&logo=yes&detours=yes&resolution=10.98&E=2620254&N=1252700&layers=Wanderland%2CStation%2CMountaineering&trackId=182668839"
   },
   "Tageswanderung/790_Jura.html": {
     "duration": "3 hours 30",
@@ -5504,7 +5872,8 @@
     "up": "+350",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?layers=Wanderland,Wanderwegnetz&bgLayer=pk&scale=200000&X=549893.9628905&Y=200869.525625&trackId=1638326&lang=de"
   },
   "Tageswanderung/791_Jura_NE.html": {
     "duration": "3 hours 20",
@@ -5519,7 +5888,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&p&etappe=5.09"
   },
   "Tageswanderung/792_Jura.html": {
     "duration": "3 hours 45",
@@ -5533,7 +5903,8 @@
     "up": "+300",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?layers=Wanderland,Wanderwegnetz&bgLayer=pk&scale=200000&X=629765.993637&Y=253060.908538&trackId=1574144&highlight=WanderlandRoutenLokal*467&lang=de"
   },
   "Tageswanderung/794_Jura_AG.html": {
     "duration": "3 hours 10",
@@ -5548,7 +5919,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.schweizmobil.ch/de/wanderland/routen/route/etappe-01850.html"
   },
   "Tageswanderung/794a_jura_so.html": {
     "duration": "2 hours 10",
@@ -5563,7 +5935,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=2.5&season=summer&E=2620898&N=1241327&logo=yes&layers=Wanderland&trackId=5317153"
   },
   "Tageswanderung/795_Jura.html": {
     "duration": "4 hours 40",
@@ -5578,7 +5951,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&bgLayer=pk&season=summer&resolution=8.63&E=2606564&N=1235241&photos=yes&logo=yes&layers=Wanderland%2CStation&trackId=7662623"
   },
   "Tageswanderung/795a_Jura_SO.html": {
     "duration": "5 hours 15",
@@ -5593,7 +5967,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&p=&route=94&bgLayer=pk&season=summer&resolution=20&E=2607789&N=1236548&layers=Wanderland&trackId=5144211"
   },
   "Tageswanderung/795b_jura_be.html": {
     "duration": "3 hours 20",
@@ -5608,7 +5983,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=5&season=summer&E=2615029&N=1234714&layers=Wanderland%2CStation&trackId=5146021"
   },
   "Tageswanderung/796_Jura_AG.html": {
     "duration": "3 hours 50",
@@ -5623,7 +5999,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&bgLayer=pk&season=summer&resolution=14.31&E=2642330&N=1257069&photos=yes&logo=yes&layers=Wanderland&trackId=1842893302"
   },
   "Tageswanderung/797_Fricktal.html": {
     "duration": "4 hours 40",
@@ -5638,7 +6015,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?x=658131&y=266625&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
   },
   "Tageswanderung/798_Solothurn.html": {
     "duration": "2 hours 50",
@@ -5653,7 +6031,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&bgLayer=pk&season=summer&resolution=14.71&E=2632499&N=1241857&photos=yes&logo=no&layers=Wanderland&trackId=6758115"
   },
   "Tageswanderung/799_Solothurn.html": {
     "duration": "4 hours 30",
@@ -5668,7 +6047,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?trackId=1243794&layers=WanderlandRoutenNational,WanderlandRoutenRegional,WanderlandRoutenLokal,Wanderwegnetz"
   },
   "Tageswanderung/799b_Solothurn.html": {
     "duration": "4 hours 15",
@@ -5683,7 +6063,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&bgLayer=pk&season=summer&resolution=10&E=2600549&N=1219195&photos=yes&logo=yes&trackId=6801195&layers=Wanderland%2CStation"
   },
   "Tageswanderung/800%20Fribourg.html": {
     "duration": "5 hours",
@@ -5699,7 +6080,8 @@
       "AerialLift",
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?map=&marker=no&x=567264&y=155242&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
   },
   "Tageswanderung/801%20Vaud.html": {
     "duration": "3 hours 30",
@@ -5714,7 +6096,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?map=&marker=no&x=556147&y=153694&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
   },
   "Tageswanderung/802%20Fribourg.html": {
     "duration": "5 hours 20",
@@ -5729,7 +6112,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&land=wanderland&etappe=4.28&bgLayer=pk&logo=yes&season=summer&resolution=9.36&E=2570493&N=1170735&photos=yes&layers=Wanderland&trackId=3169259"
   },
   "Tageswanderung/802a_Fribourg.html": {
     "duration": "2 hours 30",
@@ -5744,7 +6128,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?x=571910&y=176168&zl=5&layers=hiking&swisstopo=1%7Crestaurants"
   },
   "Tageswanderung/803%20Suedwestschweiz.html": {
     "duration": "6 hours 20",
@@ -5758,7 +6143,8 @@
     "up": "+700",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&bgLayer=pk&season=summer&resolution=15.12&E=2567728&N=1184176&photos=yes&logo=yes&layers=Wanderland&trackId=949476590"
   },
   "Tageswanderung/804%20Fribourg.html": {
     "duration": "4 hours 45",
@@ -5772,7 +6158,8 @@
     "up": "+800",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?map=&marker=no&x=561212&y=155281&zl=4&layers=hiking&swisstopo=1"
   },
   "Tageswanderung/805_Fribourg.html": {
     "duration": "3 hours 30",
@@ -5787,7 +6174,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=10&X=575306&Y=161121&layers=Wanderland%2CStation&trackId=2695298"
   },
   "Tageswanderung/805a_Fribourg.html": {
     "duration": "5 hours 10",
@@ -5802,7 +6190,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=10&X=577336&Y=162966&layers=Wanderland&trackId=2701426"
   },
   "Tageswanderung/806_Fribourg.html": {
     "duration": "3 hours 40",
@@ -5816,7 +6205,8 @@
     "up": "+350",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=5&season=summer&E=2580040&N=1183390&layers=Wanderland&trackId=4043602"
   },
   "Tageswanderung/807_Fribourg.html": {
     "duration": "3 hours 50",
@@ -5830,7 +6220,8 @@
     "up": "+330",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=10&season=summer&E=2593013&N=1194714&photos=yes&logo=yes&layers=Wanderland&trackId=6367874"
   },
   "Tageswanderung/808_Fribourg.html": {
     "duration": "5 hours 30",
@@ -5845,7 +6236,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?x=566422&y=166778&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
   },
   "Tageswanderung/809_Fribourg.html": {
     "duration": "4 hours 15",
@@ -5860,7 +6252,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?x=577081&y=162744&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
   },
   "Tageswanderung/810_Fribourg.html": {
     "duration": "3 hours 15",
@@ -5875,7 +6268,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=20&X=575600&Y=180200&layers=Wanderland&trackId=2541475"
   },
   "Tageswanderung/811_Fribourg.html": {
     "duration": "5 hours 20",
@@ -5890,7 +6284,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?x=586347&y=176210&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
   },
   "Tageswanderung/812_Fribourg.html": {
     "duration": "6 hours 50",
@@ -5904,7 +6299,8 @@
     "up": "+1400",
     "access": [
       "Bus"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=20&X=586680&Y=165400&layers=Wanderland"
   },
   "Tageswanderung/813_Fribourg.html": {
     "duration": "4 hours 10",
@@ -5919,7 +6315,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?trackId=119912&layers=WanderlandRoutenNational,WanderlandRoutenRegional,WanderlandRoutenLokal,Wanderwegnetz&karte=0.75"
   },
   "Tageswanderung/814_Fribourg.html": {
     "duration": "6 hours 50",
@@ -5934,7 +6331,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=50&X=575587&Y=171347&layers=Wanderland&trackId=2530313"
   },
   "Tageswanderung/815_Fribourg.html": {
     "duration": "6 hours 30",
@@ -5948,7 +6346,8 @@
     "up": "+1290",
     "access": [
       "Bus"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=10&X=587211&Y=161860&layers=Wanderland&trackId=2530313"
   },
   "Tageswanderung/816%20Vaud.html": {
     "duration": "4 hours 20",
@@ -5962,7 +6361,8 @@
     "up": "+530",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=20&X=553068&Y=150291&layers=Wanderland&trackId=2530370"
   },
   "Tageswanderung/817_Fribourg.html": {
     "duration": "4 hours 10",
@@ -5977,7 +6377,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?x=571668&y=151898&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
   },
   "Tageswanderung/819%20Nordwestschweiz.html": {
     "duration": "4 hours 20",
@@ -5993,7 +6394,8 @@
       "Boat",
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?map=&marker=no&x=568688&y=196135&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
   },
   "Tageswanderung/820_Fribourg.html": {
     "duration": "2 hours 50",
@@ -6008,7 +6410,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?x=575544&y=187516&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
   },
   "Tageswanderung/821_Fribourg.html": {
     "duration": "4 hours 30",
@@ -6022,7 +6425,8 @@
     "up": "+200",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?x=581075&y=194228&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
   },
   "Tageswanderung/822_Vaud.html": {
     "duration": "3 hours 20",
@@ -6037,7 +6441,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&p=&layers=Wanderwegnetz&photos=yes&bgLayer=pk&logo=yes&season=summer&resolution=40.5&E=2550685&N=1156792"
   },
   "Tageswanderung/823_Vaud.html": {
     "duration": "4 hours 30",
@@ -6051,7 +6456,8 @@
     "up": "+270",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=19.57&season=summer&E=2538324&N=1178389&photos=yes&logo=yes&layers=Wanderland"
   },
   "Tageswanderung/824_waadt.html": {
     "duration": "3 hours",
@@ -6066,7 +6472,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&bgLayer=pk&season=summer&resolution=10.87&E=2539024&N=1162990&photos=yes&logo=yes&layers=Wanderland%2CStation&trackId=42136687"
   },
   "Tageswanderung/840_Glarus.html": {
     "duration": "3 hours 30",
@@ -6081,7 +6488,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=10&season=summer&E=2726815&N=1218331&layers=Wanderland&trackId=4522536"
   },
   "Tageswanderung/841_Glarus.html": {
     "duration": "3 hours 15",
@@ -6095,7 +6503,8 @@
     "up": "+470",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=5&E=2718385&N=1200900&layers=Wanderland&trackId=4025263"
   },
   "Tageswanderung/842_Glarus.html": {
     "duration": "2 hours 40",
@@ -6110,7 +6519,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=10&X=723000&Y=220270&layers=Wanderland&trackId=2481153"
   },
   "Tageswanderung/843_glarus.html": {
     "duration": "0 hour 25",
@@ -6125,7 +6535,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=5&E=2731683&N=1197443&layers=Wanderland%2CStation&trackId=3843316"
   },
   "Tageswanderung/844_Glarus.html": {
     "duration": "3 hours 30",
@@ -6139,7 +6550,8 @@
     "up": "+170",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&bgLayer=pk&season=summer&resolution=5&E=2717670&N=1200708&photos=yes&logo=no&trackId=6724653&layers=Wanderland%2CMountainbikeland"
   },
   "Tageswanderung/871_Zug.html": {
     "duration": "3 hours 30",
@@ -6154,7 +6566,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&bgLayer=pk&season=summer&resolution=10&E=2687464&N=1226615&photos=yes&logo=yes&layers=Wanderland%2CStation&trackId=6902951"
   },
   "Tageswanderung/872_Luzern.html": {
     "duration": "3 hours 20",
@@ -6169,7 +6582,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=20&season=summer&E=2672268&N=1217189&layers=Wanderland&trackId=5110816"
   },
   "Tageswanderung/873_schwyz.html": {
     "duration": "3 hours 10",
@@ -6184,7 +6598,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=10&season=summer&E=2693677&N=1222891&logo=yes&layers=Wanderland&trackId=5443615"
   },
   "Tageswanderung/874_luzern.html": {
     "duration": "3 hours 20",
@@ -6199,7 +6614,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&bgLayer=pk&season=summer&resolution=1&E=2673095&N=1218837&photos=yes&logo=yes&trackId=5110806"
   },
   "Tageswanderung/875_Luzern.html": {
     "duration": "1 hour 30",
@@ -6214,7 +6630,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&bgLayer=pk&season=summer&resolution=10&E=2663210&N=1206467&photos=yes&logo=yes&layers=Wanderland&trackId=951884548"
   },
   "Tageswanderung/875a_Luzern.html": {
     "duration": "2 hours 45",
@@ -6228,7 +6645,8 @@
     "up": "+500",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?lang=de&season=summer&photos=yes&bgLayer=pk&logo=yes&detours=yes&resolution=4.65&E=2665020&N=1202320&layers=Wanderland&trackId=1570042992"
   },
   "Tageswanderung/876_Zentralschweiz.html": {
     "duration": "3 hours 50",
@@ -6243,7 +6661,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&p=&gemeinde=250365&bgLayer=pk&logo=no&season=summer&resolution=10&E=2684454&N=1203178&layers=Wanderland&trackId=5483051"
   },
   "Tageswanderung/950_Graubuenden.html": {
     "duration": "2 hours 50",
@@ -6258,7 +6677,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?map=&marker=no&x=824321&y=205688&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
   },
   "Tageswanderung/951_Graubuenden.html": {
     "duration": "2 hours 10",
@@ -6274,7 +6694,8 @@
       "AerialLift",
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=20&X=730924&Y=162112&layers=Wanderland&trackId=2208029"
   },
   "Tageswanderung/952_Graubuenden.html": {
     "duration": "4 hours",
@@ -6289,7 +6710,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?x=772151&y=186142&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
   },
   "Tageswanderung/953_Graubuenden.html": {
     "duration": "4 hours",
@@ -6304,7 +6726,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?x=763382&y=177864&zl=4&layers=railway_station"
   },
   "Tageswanderung/955_Graubuenden.html": {
     "duration": "5 hours",
@@ -6319,7 +6742,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?trackId=1255949&layers=WanderlandRoutenNational,WanderlandRoutenRegional,WanderlandRoutenLokal,Wanderwegnetz&karte=0.75"
   },
   "Tageswanderung/956_Graubuenden.html": {
     "duration": "2 hours 50",
@@ -6334,7 +6758,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?x=760631&y=195676&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
   },
   "Tageswanderung/957_Graubuenden.html": {
     "duration": "3 hours 40",
@@ -6349,7 +6774,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=10&X=758450&Y=206650&layers=Wanderland&trackId=3249180"
   },
   "Tageswanderung/958_Graubuenden.html": {
     "duration": "5 hours",
@@ -6364,7 +6790,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/?lang=de&basemap=swisstopo_lk&blop=1&x=2786977.6261116&y=1166393.0882596&zl=3&hl=0&layers=swisstopo_wanderwege|hiking_mapplus&theme=4&subtheme=outdoor"
   },
   "Tageswanderung/959_Graubuenden.html": {
     "duration": "5 hours 30",
@@ -6378,7 +6805,8 @@
     "up": "+720",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?map=&marker=no&x=783350&y=190680&zl=4&size=2"
   },
   "Tageswanderung/960_Graubuenden.html": {
     "duration": "5 hours",
@@ -6392,7 +6820,8 @@
     "up": "+340",
     "access": [
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?route=725&etappe=all&layers=wanderland,Wanderwegnetz&bgLayer=pk&scale=99999.8&X=798727.443762&Y=140510.7795665&trackId=1428273&lang=de"
   },
   "Tageswanderung/961_Graubuenden.html": {
     "duration": "8 hours",
@@ -6407,7 +6836,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?bgLayer=pk&lang=de&season=summer&resolution=2.5&E=2823235&N=1200023&layers=Wanderland%2CStation&trackId=4055753"
   },
   "Tageswanderung/962_graubuenden.html": {
     "duration": "2 hours 45",
@@ -6422,7 +6852,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=5&E=2730265&N=1125300&layers=Wanderland%2CStation&trackId=3720360"
   },
   "Tageswanderung/963_Graubuenden.html": {
     "duration": "3 hours 50",
@@ -6437,7 +6868,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&p&etappe=35.04&wanderwegnetz=all"
   },
   "Tageswanderung/964_graubuenden.html": {
     "duration": "3 hours",
@@ -6452,7 +6884,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=20&trackId=3446705&logo=yes&season=summer&layers=Wanderland&E=2757960&N=1211487"
   },
   "Winterwandern/W32_Winter_GR.html": {
     "duration": "3 hours 15",
@@ -6467,7 +6900,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.schweizmobil.ch/?season=winter&lang=de&land=winterhiking&route=370&layers=Winterhiking&photos=yes&bgLayer=pk&logo=yes&resolution=5&E=2750308&N=1167873"
   },
   "Winterwandern/W37_Winter_BE.html": {
     "duration": "3 hours 30",
@@ -6482,7 +6916,8 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://map.wanderland.ch/?lang=de&bgLayer=pk&resolution=10&X=606840&Y=190715&layers=Wanderland&trackId=3177576"
   },
   "Winterwandern/W38_Winter_SO.html": {
     "duration": "3 hours",
@@ -6497,6 +6932,7 @@
     "access": [
       "Bus",
       "Train"
-    ]
+    ],
+    "map": "https://www.mapplus.ch/frame.php?map=&marker=no&x=610685&y=247337&zl=4&swisstopo=1&st_layers=ch.swisstopo.vec25-wander"
   }
 }
