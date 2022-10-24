@@ -234,9 +234,6 @@
         },
     ];
     $(document).ready(function () {
-        let map = L.map('mapid').setView([46.8241656,8.3192107], 7.5);
-        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {})
-            .addTo(map);
         window.markers = {};
 
         let distance_between_locations = function(l0, l1) {
@@ -284,6 +281,9 @@
         }
 
         fetch("randos.json").then(r => r.json()).then(data_as_json => {
+            let map = L.map('mapid').setView([46.8241656,8.3192107], 7.5);
+            L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {})
+                .addTo(map);
             const data = Object.values(data_as_json).map(row => columns.map(col => row[col["id"]]));
             window.data_as_json = data_as_json;
             window.table = $('#randos').DataTable({
