@@ -98,7 +98,15 @@ input.checkbox {
 
 #filters span img {
     height: 35px;
-    margin-top: 15px;
+}
+
+#filters label, #filters label input {
+  vertical-align: middle;
+  display: inline-block
+}
+
+#filters label input {
+  padding: 3px;
 }
 
 #minDisplay, #maxDisplay {
@@ -109,7 +117,6 @@ input.checkbox {
 #difficulty-choice {
   vertical-align: middle;
   display: inline-block;
-  line-height: 36px;
 }
 
 #access-choice {

@@ -4,7 +4,8 @@
     <meta charset="UTF-8">
     <title>Swiss Hikes</title>
     <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.18/css/jquery.dataTables.min.css"/>
-    <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/fixedheader/3.1.4/css/fixedHeader.dataTables.min.css"/>
+    <link rel="stylesheet" type="text/css"
+          href="https://cdn.datatables.net/fixedheader/3.1.4/css/fixedHeader.dataTables.min.css"/>
 
     <link rel="stylesheet" href="style.css">
     <link rel="icon" href="favicon.png">
@@ -13,7 +14,8 @@
           crossorigin=""/>
     <script type="text/javascript" src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
     <script type="text/javascript" src="https://cdn.datatables.net/1.10.18/js/jquery.dataTables.min.js"></script>
-    <script type="text/javascript" src="https://cdn.datatables.net/fixedheader/3.1.4/js/dataTables.fixedHeader.min.js"></script>
+    <script type="text/javascript"
+            src="https://cdn.datatables.net/fixedheader/3.1.4/js/dataTables.fixedHeader.min.js"></script>
     <script src="https://unpkg.com/leaflet@1.4.0/dist/leaflet.js"
             integrity="sha512-QVftwZFqvtRNi0ZyCtsznlKSWOStnDORoefr1enyq5mVL4tmKB3S/EnC3rRJcxCPavG10IcrVGSmPh6Qw5lwrg=="
             crossorigin=""></script>
@@ -29,10 +31,7 @@
                 id="zrhDistMinDisplay">0km</span></label><br/>
         <label>Max. dist. from ZRH: <input id="zrhDistMax" type="range" min="0" max="20" value="20"/> <span
                 id="zrhDistMaxDisplay">-</span></label><br/>
-        <span>
-            <input type="checkbox" id="roundtrip" class="checkbox-roundtrip">
-            <label for="roundtrip">Round-trip</label>
-        </span><br>
+
         Difficulty: <span id="difficulty-choice">
             <span>
                 <input type="checkbox" id="easy" class="checkbox" checked>
@@ -309,26 +308,13 @@
         // difficultyFilter = watch(difficultyFilter);
         jQuery.fn.dataTableExt.afnFiltering.push(difficultyFilter);
 
-
-        roundtripFilter = function (oSettings, aData, iDataIndex) {
-            let up = aData[6];
-            let down = aData[7];
-            return up.replace("+", "-") == down || !document.querySelector("#roundtrip").checked;
-        }
-        // roundtripFilter = watch(roundtripFilter);
-        jQuery.fn.dataTableExt.afnFiltering.push(roundtripFilter);
-
         accessFilter = function (oSettings, aData, iDataIndex) {
             let access = aData[8];
-            console.log({access})
             return access.split(" ").every(a=>!a || document.querySelector("#"+REV_EMOJI[a]).checked);
         }
         // accessFilter = watch(accessFilter);
         jQuery.fn.dataTableExt.afnFiltering.push(accessFilter);
-
     });
-
-
 </script>
 </body>
 </html>
