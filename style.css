@@ -94,6 +94,20 @@ input.checkbox {
 
 #filters input[type='checkbox']:not(:checked) ~ label {
     filter: grayscale(100%);
+    opacity: 0.4;
+}
+
+input[type='radio']:not(:checked) ~ label {
+    filter: grayscale(50%);
+    opacity: 0.2;
+}
+
+input[type='radio'] {
+    display: none;
+}
+
+#lang-selector label {
+    cursor: pointer;
 }
 
 #filters span img {
@@ -123,4 +137,21 @@ input.checkbox {
   vertical-align: middle;
   display: inline-block;
   font-size: 30px;
+}
+
+#lang-selector {
+    position: fixed;
+    top:0;
+    right: 0;
+    width: 30px;
+    font-size: 24px;
+    margin: 5px 20px;
+}
+
+.popup-map-link {
+  font-size: 30px;
+}
+
+.popup-map-link, .table-map-link {
+  text-decoration: none;
 }
