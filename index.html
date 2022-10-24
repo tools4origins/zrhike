@@ -77,6 +77,20 @@
             </span>
         </span>
     </div>
+    <div id="lang-selector">
+        <span>
+            <input type="radio" name="lang" value="de" id="lang-de"><label for="lang-de">🇩🇪</label>
+        </span>
+        <span>
+            <input type="radio" name="lang" value="en" id="lang-en"><label for="lang-en" checked>🇬🇧</label>
+        </span>
+        <span>
+            <input type="radio" name="lang" value="fr" id="lang-fr"><label for="lang-fr">🇫🇷</label>
+        </span>
+        <span>
+            <input type="radio" name="lang" value="it" id="lang-it"><label for="lang-it">🇮🇹</label>
+        </span>
+    </div>
     <div id="tableContainer">
         <table id="randos" class="display">
             <thead>
@@ -105,7 +119,9 @@
             "id": "name",
             "title": "Name",
             render: function (value, _, context) {
-                return "<a href='" + context[1] + "'>" + value + "</a>"
+                let lang = document.querySelector('input[name="lang"]:checked');
+                lang = lang === null ? "de" : lang.value;
+                return "<a href='" + translate(context[1], "de", lang) + "'>" + value + "</a>"
             }
         }, {
             "id": "link",
@@ -162,6 +178,12 @@
                     return val.map(a=>EMOJIS[a]).join(" ");
                 }
             }
+        }, {
+            "id": "map",
+            "title": "Map",
+            "render": function(val) {
+                return '<a class="table-map-link" href="' + val + '">🗺️</a>'
+            }
         },
     ];
     $(document).ready(function () {
@@ -169,7 +191,7 @@
         L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {})
             .addTo(map);
         window.markers = {};
- 
+
         let distance_between_locations = function(l0, l1) {
             // Great circle distance
             // :param l0: the LatLng tuple of the first location
@@ -195,6 +217,25 @@
         let distance_to_zrh = function(lat, lng) { return distance_between_locations(zrh_location, [lat, lng])}
         let zrh_location = [47.3778615, 8.5381286];
 
+        translate = function(link, from, to) {
+            if (from === to) {
+                return link;
+            }
+
+            parts = link.split("/");
+
+            for (let i=0; i<parts.length; i++) {
+                if (parts[i].length == 0) {
+                    parts[i+1] = parts[i+1].replace(".", "-") + ".translate.goog";
+                    break;
+                }
+            }
+
+            glue = parts[parts.length-1].includes("?") ? "&" : "?";
+
+            return parts.join("/") + glue + "_x_tr_sl=" + from + "&_x_tr_tl=" + to + "&_x_tr_hl=" + to;
+        }
+
         fetch("randos.json").then(r => r.json()).then(data_as_json => {
             const data = Object.values(data_as_json).map(row => columns.map(col => row[col["id"]]));
             window.data_as_json = data_as_json;
@@ -211,7 +252,13 @@
                     parseFloat(rando.longitude) + (rando.name.length-30)/2000
                 ])
                     .addTo(map)
-                    .bindPopup('<h5>' + rando.name + '</h5><a href="' + rando.link + '">' + rando.duration + '</a>')
+                    .bindPopup(
+                        '<h5>' + rando.name + '</h5>' +
+                        '<a href="' + rando.link + '">' +
+                        rando.duration + ', ' +
+                        '↗' + rando.up.replace('+', '') + 'm, ' +
+                        '↘' + rando.down.replace('-', '') + 'm</a>' + '<br>' +
+                        '<a href="'+rando.map+'" class="popup-map-link">🗺️</a>')
             });
             table.on('draw', function () {
                 let selected_names = Object.values(table.rows({filter: 'applied'}).data()).map(line => line[1]);
@@ -232,6 +279,10 @@
 
             $('#filters input').on("input", function () {
                 table.draw();
+            });
+
+            $('#lang-selector input').on("change", function () {
+                location.reload()
             });
         });
         watch = (f) => ((oSettings, aData, iDataIndex) => {
@@ -315,6 +366,7 @@
         // accessFilter = watch(accessFilter);
         jQuery.fn.dataTableExt.afnFiltering.push(accessFilter);
     });
+
 </script>
 </body>
 </html>
